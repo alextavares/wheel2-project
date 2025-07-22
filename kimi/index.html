@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roda da Sorte - Kimi</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">🎯 Roda da Sorte 🎯</h1>
+        
+        <div class="wheel-container">
+            <div class="wheel-wrapper">
+                <canvas id="wheel" width="400" height="400"></canvas>
+                <div class="wheel-center"></div>
+                <div class="pointer"></div>
+            </div>
+            
+            <div class="controls">
+                <button id="spinBtn" class="spin-button">
+                    <span>GIRAR</span>
+                    <div class="spin-icon">🎰</div>
+                </button>
+                
+                <div class="speed-control">
+                    <label for="speedSlider">Velocidade:</label>
+                    <input type="range" id="speedSlider" min="5" max="20" value="10">
+                    <span id="speedValue">10</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="result-modal" id="resultModal">
+            <div class="modal-content">
+                <h2>🎉 Parabéns! 🎉</h2>
+                <p id="resultText">Você ganhou:</p>
+                <div id="resultPrize" class="prize-display"></div>
+                <button id="closeModal" class="close-btn">Fechar</button>
+            </div>
+        </div>
+        
+        <div class="segments-editor">
+            <h3>Personalizar Segmentos</h3>
+            <div id="segmentsList" class="segments-list"></div>
+            <button id="addSegment" class="add-btn">+ Adicionar Segmento</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
