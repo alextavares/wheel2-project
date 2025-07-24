@@ -17,7 +17,18 @@ interface AdvancedSettingsProps {
     allowRepeats: boolean;
     highlightWinner: boolean;
   };
-  onSettingsChange: (settings: any) => void;
+  onSettingsChange: (settings: {
+    spinDuration: number;
+    spinEasing: string;
+    autoSpin: boolean;
+    showConfetti: boolean;
+    soundEnabled: boolean;
+    vibrationEnabled: boolean;
+    showWinner: boolean;
+    winnerDisplayTime: number;
+    allowRepeats: boolean;
+    highlightWinner: boolean;
+  }) => void;
 }
 
 export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
@@ -30,7 +41,7 @@ export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
 
   if (!isOpen) return null;
 
-  const handleSettingChange = (key: string, value: any) => {
+  const handleSettingChange = (key: string, value: boolean | number | string) => {
     const newSettings = { ...localSettings, [key]: value };
     setLocalSettings(newSettings);
     onSettingsChange(newSettings);
@@ -46,28 +57,31 @@ export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
   ];
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-      <div className="bg-white rounded-xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
-        <div className="sticky top-0 bg-white border-b border-gray-200 px-6 py-4 rounded-t-xl">
+    <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+      <div className="bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto border border-white/50">
+        <div className="sticky top-0 bg-white/95 backdrop-blur-sm border-b border-gray-200 px-8 py-6 rounded-t-2xl">
           <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-bold text-gray-800">⚙️ Configurações Avançadas</h2>
+            <h2 className="text-3xl font-bold text-gray-800 leading-tight">⚙️ Configurações Avançadas</h2>
             <button
               onClick={onClose}
-              className="text-gray-500 hover:text-gray-700 text-2xl font-bold"
+              className="text-gray-500 hover:text-gray-700 text-3xl font-bold transition-all duration-200 hover:scale-110 p-2 rounded-full hover:bg-gray-100"
             >
               ×
             </button>
           </div>
         </div>
 
-        <div className="p-6 space-y-6">
+        <div className="p-8 space-y-8">
           {/* Configurações de Animação */}
-          <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-            <h3 className="text-lg font-semibold text-blue-800 mb-4">🎬 Animação</h3>
+          <div className="bg-blue-50/80 backdrop-blur-sm border border-blue-200 rounded-2xl p-6 shadow-lg">
+            <h3 className="text-xl font-bold text-blue-800 mb-6 flex items-center gap-3 leading-tight">
+              <span className="text-2xl">🎬</span>
+              Animação
+            </h3>
             
-            <div className="space-y-4">
+            <div className="space-y-6">
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
+                <label className="block text-sm font-bold text-gray-700 mb-3">
                   Duração do Giro (segundos)
                 </label>
                 <input
@@ -77,21 +91,21 @@ export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
                   step="0.5"
                   value={localSettings.spinDuration}
                   onChange={(e) => handleSettingChange('spinDuration', parseFloat(e.target.value))}
-                  className="w-full"
+                  className="w-full h-3 bg-blue-200 rounded-lg appearance-none cursor-pointer"
                 />
-                <div className="text-sm text-gray-600 mt-1">
+                <div className="text-lg font-bold text-blue-700 mt-2">
                   {localSettings.spinDuration}s
                 </div>
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
+                <label className="block text-sm font-bold text-gray-700 mb-3">
                   Tipo de Animação
                 </label>
                 <select
                   value={localSettings.spinEasing}
                   onChange={(e) => handleSettingChange('spinEasing', e.target.value)}
-                  className="w-full p-2 border border-gray-300 rounded-lg"
+                  className="w-full p-4 border border-gray-300 rounded-xl font-semibold text-gray-700 bg-white/80 backdrop-blur-sm shadow-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                 >
                   {easingOptions.map((option) => (
                     <option key={option.value} value={option.value}>
@@ -104,85 +118,91 @@ export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
           </div>
 
           {/* Configurações de Comportamento */}
-          <div className="bg-green-50 border border-green-200 rounded-lg p-4">
-            <h3 className="text-lg font-semibold text-green-800 mb-4">🎯 Comportamento</h3>
+          <div className="bg-green-50/80 backdrop-blur-sm border border-green-200 rounded-2xl p-6 shadow-lg">
+            <h3 className="text-xl font-bold text-green-800 mb-6 flex items-center gap-3 leading-tight">
+              <span className="text-2xl">🎯</span>
+              Comportamento
+            </h3>
             
-            <div className="space-y-4">
-              <div className="flex items-center justify-between">
+            <div className="space-y-6">
+              <div className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-green-100">
                 <div>
-                  <label className="text-sm font-medium text-gray-700">Giro Automático</label>
-                  <p className="text-xs text-gray-500">Gira automaticamente ao carregar</p>
+                  <label className="text-base font-bold text-gray-700 leading-tight">Giro Automático</label>
+                  <p className="text-sm text-gray-600 font-medium mt-1">Gira automaticamente ao carregar</p>
                 </div>
                 <input
                   type="checkbox"
                   checked={localSettings.autoSpin}
                   onChange={(e) => handleSettingChange('autoSpin', e.target.checked)}
-                  className="w-5 h-5 text-green-600"
+                  className="w-6 h-6 text-green-600 rounded-lg focus:ring-2 focus:ring-green-500"
                 />
               </div>
 
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-green-100">
                 <div>
-                  <label className="text-sm font-medium text-gray-700">Permitir Repetições</label>
-                  <p className="text-xs text-gray-500">Mesmo item pode ser sorteado novamente</p>
+                  <label className="text-base font-bold text-gray-700 leading-tight">Permitir Repetições</label>
+                  <p className="text-sm text-gray-600 font-medium mt-1">Mesmo item pode ser sorteado novamente</p>
                 </div>
                 <input
                   type="checkbox"
                   checked={localSettings.allowRepeats}
                   onChange={(e) => handleSettingChange('allowRepeats', e.target.checked)}
-                  className="w-5 h-5 text-green-600"
+                  className="w-6 h-6 text-green-600 rounded-lg focus:ring-2 focus:ring-green-500"
                 />
               </div>
 
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-green-100">
                 <div>
-                  <label className="text-sm font-medium text-gray-700">Destacar Vencedor</label>
-                  <p className="text-xs text-gray-500">Destaca o item vencedor na roda</p>
+                  <label className="text-base font-bold text-gray-700 leading-tight">Destacar Vencedor</label>
+                  <p className="text-sm text-gray-600 font-medium mt-1">Destaca o item vencedor na roda</p>
                 </div>
                 <input
                   type="checkbox"
                   checked={localSettings.highlightWinner}
                   onChange={(e) => handleSettingChange('highlightWinner', e.target.checked)}
-                  className="w-5 h-5 text-green-600"
+                  className="w-6 h-6 text-green-600 rounded-lg focus:ring-2 focus:ring-green-500"
                 />
               </div>
             </div>
           </div>
 
           {/* Configurações Visuais */}
-          <div className="bg-purple-50 border border-purple-200 rounded-lg p-4">
-            <h3 className="text-lg font-semibold text-purple-800 mb-4">🎨 Visual</h3>
+          <div className="bg-purple-50/80 backdrop-blur-sm border border-purple-200 rounded-2xl p-6 shadow-lg">
+            <h3 className="text-xl font-bold text-purple-800 mb-6 flex items-center gap-3 leading-tight">
+              <span className="text-2xl">🎨</span>
+              Visual
+            </h3>
             
-            <div className="space-y-4">
-              <div className="flex items-center justify-between">
+            <div className="space-y-6">
+              <div className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-purple-100">
                 <div>
-                  <label className="text-sm font-medium text-gray-700">Mostrar Confetes</label>
-                  <p className="text-xs text-gray-500">Animação de confetes ao vencer</p>
+                  <label className="text-base font-bold text-gray-700 leading-tight">Mostrar Confetes</label>
+                  <p className="text-sm text-gray-600 font-medium mt-1">Animação de confetes ao vencer</p>
                 </div>
                 <input
                   type="checkbox"
                   checked={localSettings.showConfetti}
                   onChange={(e) => handleSettingChange('showConfetti', e.target.checked)}
-                  className="w-5 h-5 text-purple-600"
+                  className="w-6 h-6 text-purple-600 rounded-lg focus:ring-2 focus:ring-purple-500"
                 />
               </div>
 
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-purple-100">
                 <div>
-                  <label className="text-sm font-medium text-gray-700">Mostrar Resultado</label>
-                  <p className="text-xs text-gray-500">Exibe o resultado na tela</p>
+                  <label className="text-base font-bold text-gray-700 leading-tight">Mostrar Resultado</label>
+                  <p className="text-sm text-gray-600 font-medium mt-1">Exibe o resultado na tela</p>
                 </div>
                 <input
                   type="checkbox"
                   checked={localSettings.showWinner}
                   onChange={(e) => handleSettingChange('showWinner', e.target.checked)}
-                  className="w-5 h-5 text-purple-600"
+                  className="w-6 h-6 text-purple-600 rounded-lg focus:ring-2 focus:ring-purple-500"
                 />
               </div>
 
               {localSettings.showWinner && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                <div className="p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-purple-100">
+                  <label className="block text-sm font-bold text-gray-700 mb-3">
                     Tempo de Exibição do Resultado (segundos)
                   </label>
                   <input
@@ -192,9 +212,9 @@ export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
                     step="0.5"
                     value={localSettings.winnerDisplayTime}
                     onChange={(e) => handleSettingChange('winnerDisplayTime', parseFloat(e.target.value))}
-                    className="w-full"
+                    className="w-full h-3 bg-purple-200 rounded-lg appearance-none cursor-pointer"
                   />
-                  <div className="text-sm text-gray-600 mt-1">
+                  <div className="text-lg font-bold text-purple-700 mt-2">
                     {localSettings.winnerDisplayTime}s
                   </div>
                 </div>
@@ -203,40 +223,43 @@ export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
           </div>
 
           {/* Configurações de Som e Vibração */}
-          <div className="bg-orange-50 border border-orange-200 rounded-lg p-4">
-            <h3 className="text-lg font-semibold text-orange-800 mb-4">🔊 Som e Vibração</h3>
+          <div className="bg-orange-50/80 backdrop-blur-sm border border-orange-200 rounded-2xl p-6 shadow-lg">
+            <h3 className="text-xl font-bold text-orange-800 mb-6 flex items-center gap-3 leading-tight">
+              <span className="text-2xl">🔊</span>
+              Som e Vibração
+            </h3>
             
-            <div className="space-y-4">
-              <div className="flex items-center justify-between">
+            <div className="space-y-6">
+              <div className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-orange-100">
                 <div>
-                  <label className="text-sm font-medium text-gray-700">Som Habilitado</label>
-                  <p className="text-xs text-gray-500">Reproduz sons durante o giro</p>
+                  <label className="text-base font-bold text-gray-700 leading-tight">Som Habilitado</label>
+                  <p className="text-sm text-gray-600 font-medium mt-1">Reproduz sons durante o giro</p>
                 </div>
                 <input
                   type="checkbox"
                   checked={localSettings.soundEnabled}
                   onChange={(e) => handleSettingChange('soundEnabled', e.target.checked)}
-                  className="w-5 h-5 text-orange-600"
+                  className="w-6 h-6 text-orange-600 rounded-lg focus:ring-2 focus:ring-orange-500"
                 />
               </div>
 
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-orange-100">
                 <div>
-                  <label className="text-sm font-medium text-gray-700">Vibração (Mobile)</label>
-                  <p className="text-xs text-gray-500">Vibra no dispositivo móvel</p>
+                  <label className="text-base font-bold text-gray-700 leading-tight">Vibração (Mobile)</label>
+                  <p className="text-sm text-gray-600 font-medium mt-1">Vibra no dispositivo móvel</p>
                 </div>
                 <input
                   type="checkbox"
                   checked={localSettings.vibrationEnabled}
                   onChange={(e) => handleSettingChange('vibrationEnabled', e.target.checked)}
-                  className="w-5 h-5 text-orange-600"
+                  className="w-6 h-6 text-orange-600 rounded-lg focus:ring-2 focus:ring-orange-500"
                 />
               </div>
             </div>
           </div>
 
           {/* Botões de Ação */}
-          <div className="flex justify-between pt-4 border-t border-gray-200">
+          <div className="flex justify-between pt-8 border-t border-gray-200">
             <button
               onClick={() => {
                 const defaultSettings = {
@@ -254,14 +277,14 @@ export const AdvancedSettings: React.FC<AdvancedSettingsProps> = ({
                 setLocalSettings(defaultSettings);
                 onSettingsChange(defaultSettings);
               }}
-              className="px-4 py-2 text-gray-600 hover:text-gray-800 font-medium"
+              className="px-6 py-3 text-gray-600 hover:text-gray-800 font-bold text-lg bg-gray-100/80 backdrop-blur-sm rounded-xl border border-gray-200 hover:bg-gray-200/80 transition-all duration-200 hover:scale-105 shadow-md"
             >
               🔄 Restaurar Padrão
             </button>
             
             <button
               onClick={onClose}
-              className="px-6 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg font-medium transition-colors"
+              className="px-8 py-3 bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white rounded-xl font-bold text-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-xl"
             >
               ✅ Salvar
             </button>

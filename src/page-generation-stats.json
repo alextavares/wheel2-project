@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2025-07-24T01:12:00.789Z",
+  "summary": {
+    "totalPages": 10050,
+    "totalCategories": 13,
+    "totalSources": 2,
+    "estimatedSizeMB": 150.75
+  },
+  "byCategory": {
+    "food": 1513,
+    "games": 1507,
+    "education": 1505,
+    "movies": 1500,
+    "music": 1500,
+    "decisions": 1500,
+    "raffles": 500,
+    "fortune": 500,
+    "travel": 5,
+    "business": 5,
+    "health": 5,
+    "technology": 5,
+    "entertainment": 5
+  },
+  "bySource": {
+    "seo-generated": 10000,
+    "advanced-generated": 50
+  },
+  "topCategories": [
+    {
+      "category": "food",
+      "count": 1513
+    },
+    {
+      "category": "games",
+      "count": 1507
+    },
+    {
+      "category": "education",
+      "count": 1505
+    },
+    {
+      "category": "movies",
+      "count": 1500
+    },
+    {
+      "category": "music",
+      "count": 1500
+    }
+  ],
+  "sampleRoutes": [
+    {
+      "slug": "melhor-restaurante-italiano-hoje-modelo-1-pgina-1",
+      "category": "food",
+      "title": "Melhor Restaurante Italiano Hoje - Modelo 1 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-restaurante-japons-hoje-modelo-2-pgina-1",
+      "category": "food",
+      "title": "Melhor Restaurante Japonês Hoje - Modelo 2 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-restaurante-mexicano-hoje-modelo-3-pgina-1",
+      "category": "food",
+      "title": "Melhor Restaurante Mexicano Hoje - Modelo 3 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-restaurante-chins-hoje-modelo-4-pgina-1",
+      "category": "food",
+      "title": "Melhor Restaurante Chinês Hoje - Modelo 4 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-churrascaria-hoje-modelo-5-pgina-1",
+      "category": "food",
+      "title": "Melhor Churrascaria Hoje - Modelo 5 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-pizzaria-hoje-modelo-6-pgina-1",
+      "category": "food",
+      "title": "Melhor Pizzaria Hoje - Modelo 6 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-hamburgueria-hoje-modelo-7-pgina-1",
+      "category": "food",
+      "title": "Melhor Hamburgueria Hoje - Modelo 7 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-sushi-hoje-modelo-8-pgina-1",
+      "category": "food",
+      "title": "Melhor Sushi Hoje - Modelo 8 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-comida-rabe-hoje-modelo-9-pgina-1",
+      "category": "food",
+      "title": "Melhor Comida Árabe Hoje - Modelo 9 | Página 1",
+      "source": "seo-generated"
+    },
+    {
+      "slug": "melhor-comida-indiana-hoje-modelo-10-pgina-1",
+      "category": "food",
+      "title": "Melhor Comida Indiana Hoje - Modelo 10 | Página 1",
+      "source": "seo-generated"
+    }
+  ],
+  "categories": [
+    "business",
+    "decisions",
+    "education",
+    "entertainment",
+    "food",
+    "fortune",
+    "games",
+    "health",
+    "movies",
+    "music",
+    "raffles",
+    "technology",
+    "travel"
+  ],
+  "sources": [
+    "advanced-generated",
+    "seo-generated"
+  ]
+}

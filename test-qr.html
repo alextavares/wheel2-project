@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste QR Code API</title>
+</head>
+<body>
+    <h1>Teste da API de QR Code</h1>
+    <div>
+        <h2>QR Code Gerado:</h2>
+        <img id="qrcode" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://example.com" alt="QR Code" />
+    </div>
+    
+    <div>
+        <h2>Teste com URL do Wheel:</h2>
+        <img id="qrcode-wheel" alt="QR Code Wheel" />
+    </div>
+
+    <script>
+        // Testar geração de QR Code para uma roda
+        const testData = {
+            title: "Teste",
+            items: [
+                { label: "Item 1", color: "#FF6B6B" },
+                { label: "Item 2", color: "#4ECDC4" }
+            ]
+        };
+        
+        const encodedData = btoa(encodeURIComponent(JSON.stringify(testData)));
+        const testUrl = `http://localhost:3043?shared=${encodedData}`;
+        const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(testUrl)}`;
+        
+        document.getElementById('qrcode-wheel').src = qrUrl;
+        
+        console.log('URL de teste:', testUrl);
+        console.log('QR Code URL:', qrUrl);
+    </script>
+</body>
+</html>

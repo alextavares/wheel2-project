@@ -1,0 +1,43 @@
+﻿
+> wheelwheel-app@1.0.0 seo:sample
+> npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts sample
+
+🎯 Gerador de Páginas SEO para Wheel Maker
+==========================================
+
+🧪 Gerando amostra de 100 páginas para teste...
+
+📝 Passo 1: Criando instância do SEOPageGenerator...
+✅ Instância criada com sucesso
+📝 Passo 2: Gerando templates...
+✅ 100 templates gerados
+📝 Passo 3: Gerando páginas estáticas...
+✅ 100 páginas estáticas geradas
+📝 Passo 4: Definindo propriedades...
+✅ Propriedades definidas
+📝 Passo 5: Criando estrutura de diretórios...
+✅ Estrutura de diretórios criada
+📝 Passo 6: Gerando páginas individuais...
+📄 Gerando páginas individuais...
+📄 1/100 páginas geradas
+✅ Páginas individuais geradas
+📝 Passo 7: Gerando páginas de categoria...
+📂 Gerando páginas de categoria...
+✅ Páginas de categoria geradas
+📝 Passo 8: Gerando sitemap...
+🗺️ Gerando sitemap...
+✅ Sitemap gerado
+✅ Amostra de 100 páginas gerada!
+📁 Arquivos gerados em: ./src/sample-pages/
+⏱️  Tempo: 0.21 segundos
+📝 Passo 9: Mostrando estatísticas...
+
+📊 Estatísticas da amostra gerada:
+🎯 Páginas de roda: 100
+📂 Páginas de categoria: 12
+💾 Tamanho total: 760.35 KB
+
+📄 Arquivos auxiliares:
+   ✅ sitemap.xml (22.4 KB)
+   ✅ sitemap-index.xml (0.2 KB)
+   ❌ robots.txt (não encontrado)

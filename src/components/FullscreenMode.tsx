@@ -37,61 +37,61 @@ export default function FullscreenMode({
     <div className="fixed inset-0 bg-black z-50 flex flex-col">
       {/* Controles Superiores */}
       {showControls && (
-        <div className="absolute top-0 left-0 right-0 bg-black bg-opacity-50 text-white p-4 z-10">
+        <div className="absolute top-0 left-0 right-0 bg-black bg-opacity-60 backdrop-blur-sm text-white p-6 z-10 border-b border-white border-opacity-20">
           <div className="flex justify-between items-center">
-            <div className="flex items-center gap-4">
-              <h2 className="text-xl font-bold">Modo Tela Cheia</h2>
-              <div className="flex items-center gap-2 text-sm">
-                <span>Duração:</span>
+            <div className="flex items-center gap-6">
+              <h2 className="text-2xl font-bold leading-tight tracking-wide">🎡 Modo Tela Cheia</h2>
+              <div className="flex items-center gap-3 text-base font-semibold">
+                <span className="text-gray-200">⏱️ Duração:</span>
                 <select
                   value={spinDuration}
                   onChange={(e) => setSpinDuration(Number(e.target.value))}
-                  className="bg-white bg-opacity-20 text-white border border-white border-opacity-30 rounded px-2 py-1"
+                  className="bg-white bg-opacity-20 backdrop-blur-sm text-white border-2 border-white border-opacity-30 rounded-xl px-3 py-2 font-bold text-base focus:outline-none focus:ring-2 focus:ring-blue-400 transition-all"
                 >
-                  <option value={1}>1s</option>
-                  <option value={2}>2s</option>
-                  <option value={3}>3s</option>
-                  <option value={4}>4s</option>
-                  <option value={5}>5s</option>
+                  <option value={1} className="text-gray-800">1s</option>
+                  <option value={2} className="text-gray-800">2s</option>
+                  <option value={3} className="text-gray-800">3s</option>
+                  <option value={4} className="text-gray-800">4s</option>
+                  <option value={5} className="text-gray-800">5s</option>
                 </select>
               </div>
             </div>
             
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-3">
               <button
                 onClick={onReset}
-                className="bg-white bg-opacity-20 hover:bg-opacity-30 p-2 rounded-lg"
-                title="Resetar"
+                className="bg-white bg-opacity-20 hover:bg-opacity-30 p-3 rounded-xl transition-all duration-200 hover:scale-105 shadow-lg"
+                title="🔄 Resetar"
               >
-                <RotateCcw size={20} />
+                <RotateCcw size={22} />
               </button>
               
               <button
                 onClick={() => setAutoHideControls(!autoHideControls)}
-                className={`p-2 rounded-lg ${
+                className={`p-3 rounded-xl transition-all duration-200 hover:scale-105 shadow-lg ${
                   autoHideControls 
-                    ? 'bg-blue-500 bg-opacity-50' 
+                    ? 'bg-blue-500 bg-opacity-60 backdrop-blur-sm' 
                     : 'bg-white bg-opacity-20 hover:bg-opacity-30'
                 }`}
-                title="Auto-ocultar controles"
+                title="⚙️ Auto-ocultar controles"
               >
-                <Settings size={20} />
+                <Settings size={22} />
               </button>
               
               <button
                 onClick={() => setShowControls(false)}
-                className="bg-white bg-opacity-20 hover:bg-opacity-30 p-2 rounded-lg"
-                title="Ocultar controles"
+                className="bg-white bg-opacity-20 hover:bg-opacity-30 p-3 rounded-xl transition-all duration-200 hover:scale-105 shadow-lg"
+                title="🔽 Ocultar controles"
               >
-                <Minimize size={20} />
+                <Minimize size={22} />
               </button>
               
               <button
                 onClick={onClose}
-                className="bg-red-500 bg-opacity-50 hover:bg-opacity-70 p-2 rounded-lg"
-                title="Sair do modo tela cheia"
+                className="bg-red-500 bg-opacity-60 hover:bg-opacity-80 p-3 rounded-xl transition-all duration-200 hover:scale-105 shadow-lg backdrop-blur-sm"
+                title="❌ Sair do modo tela cheia"
               >
-                <X size={20} />
+                <X size={22} />
               </button>
             </div>
           </div>
@@ -102,9 +102,10 @@ export default function FullscreenMode({
       {!showControls && (
         <button
           onClick={() => setShowControls(true)}
-          className="absolute top-4 right-4 bg-white bg-opacity-20 hover:bg-opacity-30 text-white p-2 rounded-lg z-10"
+          className="absolute top-6 right-6 bg-white bg-opacity-20 hover:bg-opacity-30 text-white p-3 rounded-xl z-10 transition-all duration-200 hover:scale-105 shadow-lg backdrop-blur-sm"
+          title="🔼 Mostrar controles"
         >
-          <Maximize size={20} />
+          <Maximize size={22} />
         </button>
       )}
 
@@ -163,25 +164,25 @@ export default function FullscreenMode({
 
       {/* Resultado */}
       {result && (
-        <div className="absolute inset-0 bg-black bg-opacity-80 flex items-center justify-center z-20">
-          <div className="bg-white rounded-2xl p-8 md:p-12 text-center max-w-md mx-4 shadow-2xl">
-            <div className="text-6xl md:text-8xl mb-4">🎉</div>
-            <h3 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Resultado:</h3>
-            <p className="text-3xl md:text-4xl font-bold text-blue-600 mb-6">
+        <div className="absolute inset-0 bg-black bg-opacity-85 backdrop-blur-sm flex items-center justify-center z-20">
+          <div className="bg-white rounded-3xl p-10 md:p-14 text-center max-w-lg mx-6 shadow-2xl border-4 border-gray-100">
+            <div className="text-7xl md:text-9xl mb-6 animate-bounce">🎉</div>
+            <h3 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6 leading-tight">🏆 Resultado:</h3>
+            <p className="text-4xl md:text-5xl font-bold text-blue-600 mb-8 leading-tight break-words">
               {typeof result === 'string' ? result : result?.label || 'Resultado'}
             </p>
-            <div className="flex gap-4 justify-center">
+            <div className="flex gap-5 justify-center">
               <button
                 onClick={onSpin}
-                className="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 font-semibold"
+                className="bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white px-8 py-4 rounded-2xl font-bold text-lg transition-all duration-200 hover:scale-105 shadow-lg"
               >
-                Girar Novamente
+                🎲 Girar Novamente
               </button>
               <button
                 onClick={onReset}
-                className="bg-gray-500 text-white px-6 py-3 rounded-lg hover:bg-gray-600 font-semibold"
+                className="bg-gradient-to-r from-gray-500 to-gray-600 hover:from-gray-600 hover:to-gray-700 text-white px-8 py-4 rounded-2xl font-bold text-lg transition-all duration-200 hover:scale-105 shadow-lg"
               >
-                Fechar
+                ❌ Fechar
               </button>
             </div>
           </div>
@@ -190,27 +191,33 @@ export default function FullscreenMode({
 
       {/* Botão de Girar */}
       {!result && (
-        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2">
+        <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
           <button
             onClick={onSpin}
             disabled={isSpinning || items.length === 0}
-            className={`px-8 py-4 rounded-full text-white font-bold text-xl shadow-2xl transition-all ${
+            className={`px-10 py-5 rounded-full text-white font-bold text-2xl shadow-2xl transition-all duration-300 ${
               isSpinning || items.length === 0
-                ? 'bg-gray-500 cursor-not-allowed'
-                : 'bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 transform hover:scale-105'
+                ? 'bg-gray-500 cursor-not-allowed opacity-60'
+                : 'bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 transform hover:scale-110 hover:shadow-3xl'
             }`}
           >
-            {isSpinning ? 'Girando...' : 'GIRAR'}
+            {isSpinning ? '🌀 Girando...' : '🎯 GIRAR'}
           </button>
         </div>
       )}
 
       {/* Informações da Roda */}
       {showControls && (
-        <div className="absolute bottom-4 left-4 bg-black bg-opacity-50 text-white p-3 rounded-lg">
-          <div className="text-sm">
-            <div>Itens: {items.length}</div>
-            <div>Probabilidade: {items.length > 0 ? Math.round(100 / items.length) : 0}% cada</div>
+        <div className="absolute bottom-6 left-6 bg-black bg-opacity-60 backdrop-blur-sm text-white p-4 rounded-2xl border border-white border-opacity-20 shadow-lg">
+          <div className="text-base font-semibold space-y-1">
+            <div className="flex items-center gap-2">
+              <span>📊 Itens:</span>
+              <span className="text-blue-300 font-bold">{items.length}</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <span>🎲 Probabilidade:</span>
+              <span className="text-green-300 font-bold">{items.length > 0 ? Math.round(100 / items.length) : 0}% cada</span>
+            </div>
           </div>
         </div>
       )}
@@ -218,15 +225,15 @@ export default function FullscreenMode({
       {/* Instruções */}
       {items.length === 0 && (
         <div className="absolute inset-0 flex items-center justify-center">
-          <div className="text-white text-center">
-            <div className="text-6xl mb-4">🎡</div>
-            <h3 className="text-2xl font-bold mb-2">Modo Tela Cheia</h3>
-            <p className="text-lg opacity-80">Adicione itens à roda para começar</p>
+          <div className="text-white text-center p-8">
+            <div className="text-8xl mb-6 animate-pulse">🎡</div>
+            <h3 className="text-4xl font-bold mb-4 leading-tight">🎯 Modo Tela Cheia</h3>
+            <p className="text-xl opacity-90 mb-8 font-semibold">Adicione itens à roda para começar</p>
             <button
               onClick={onClose}
-              className="mt-4 bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600"
+              className="bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white px-8 py-4 rounded-2xl font-bold text-lg transition-all duration-200 hover:scale-105 shadow-lg"
             >
-              Voltar ao Editor
+              📝 Voltar ao Editor
             </button>
           </div>
         </div>

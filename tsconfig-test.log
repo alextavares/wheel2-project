@@ -1,0 +1,12 @@
+﻿
+> wheelwheel-app@1.0.0 seo:sample
+> node -r ts-node/register --project tsconfig.scripts.json src/scripts/generate-seo.ts sample
+
+node.exe : node: bad option: --project
+No C:\Program Files\nodejs\npm.ps1:29 caractere:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (node: b 
+   ad option: --project:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

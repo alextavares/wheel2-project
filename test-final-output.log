@@ -1,0 +1,49 @@
+﻿
+> wheelwheel-app@1.0.0 seo:sample
+> npx ts-node --esm false src/scripts/generate-seo.ts sample
+
+node.exe : node:internal/modules/cjs/loader:1405
+No C:\Program Files\nodejs\npm.ps1:29 caractere:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (node:in 
+   ternal/modules/cjs/loader:1405:String) [], Remot  
+  eException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  const err = new Error(message);
+              ^
+
+Error: Cannot find module './false'
+Require stack:
+- C:\codigos\wheel2\wheelwheel\imaginaryUncacheableRe
+quireResolveScript
+    at Module._resolveFilename 
+(node:internal/modules/cjs/loader:1405:15)
+    at require.resolve 
+(node:internal/modules/helpers:145:19)
+    at requireResolveNonCached (C:\codigos\wheel2\whe
+elwheel\node_modules\ts-node\dist\bin.js:549:16)
+    at getProjectSearchDir (C:\codigos\wheel2\wheelwh
+eel\node_modules\ts-node\dist\bin.js:519:40)
+    at phase3 (C:\codigos\wheel2\wheelwheel\node_modu
+les\ts-node\dist\bin.js:267:27)
+    at bootstrap (C:\codigos\wheel2\wheelwheel\node_m
+odules\ts-node\dist\bin.js:47:30)
+    at Object.<anonymous> (C:\codigos\wheel2\wheelwhe
+el\node_modules\ts-node\dist\child\child-entrypoint.j
+s:23:21)
+    at Module._compile 
+(node:internal/modules/cjs/loader:1734:14)
+    at Object..js 
+(node:internal/modules/cjs/loader:1899:10)
+    at Module.load 
+(node:internal/modules/cjs/loader:1469:32) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\codigos\\wheel2\\wheelwheel\\imaginaryUncach
+eableRequireResolveScript'
+  ]
+}
+
+Node.js v24.2.0

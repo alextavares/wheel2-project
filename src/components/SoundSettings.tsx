@@ -1,7 +1,7 @@
 'use client';
 
-import React, { useState, useRef } from 'react';
-import { X, Volume2, VolumeX, Play, Pause, RotateCcw, Settings } from 'lucide-react';
+import React, { useState } from 'react';
+import { X, Volume2, Play } from 'lucide-react';
 
 interface SoundSettingsProps {
   isOpen: boolean;
@@ -25,8 +25,6 @@ export default function SoundSettings({ isOpen, onClose, onSoundChange }: SoundS
     endSound: 'bell',
     volume: 0.7
   });
-
-  const audioRef = useRef<HTMLAudioElement>(null);
 
   const soundOptions = {
     start: [
@@ -52,7 +50,7 @@ export default function SoundSettings({ isOpen, onClose, onSoundChange }: SoundS
 
   if (!isOpen) return null;
 
-  const handleSettingChange = (key: keyof SoundSettings, value: any) => {
+  const handleSettingChange = (key: keyof SoundSettings, value: boolean | string | number) => {
     const newSettings = { ...settings, [key]: value };
     setSettings(newSettings);
     onSoundChange(newSettings);

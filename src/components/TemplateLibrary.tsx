@@ -11,40 +11,40 @@ export const TemplateCard: React.FC<TemplateCardProps> = ({ template, onSelect }
   
   return (
     <div 
-      className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-gray-100 hover:border-blue-200 group"
+      className="group bg-white/90 backdrop-blur-sm rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-white/50 hover:border-blue-200 hover:scale-[1.02]"
       onClick={() => onSelect(template)}
     >
       <div className="p-6">
         {/* Header */}
-        <div className="flex items-start justify-between mb-3">
-          <div className="flex items-center gap-2">
-            <span className="text-2xl">{category?.icon}</span>
+        <div className="flex items-start justify-between mb-4">
+          <div className="flex items-center gap-3">
+            <span className="text-3xl">{category?.icon}</span>
             <div>
-              <h3 className="font-bold text-gray-900 group-hover:text-blue-600 transition-colors">
+              <h3 className="font-bold text-gray-900 group-hover:text-blue-600 transition-colors text-lg leading-tight">
                 {template.title}
               </h3>
-              <p className="text-sm text-gray-500">{category?.name}</p>
+              <p className="text-sm text-gray-500 font-medium">{category?.name}</p>
             </div>
           </div>
           {template.isPopular && (
-            <span className="bg-gradient-to-r from-orange-400 to-red-500 text-white text-xs px-2 py-1 rounded-full font-medium">
+            <span className="bg-gradient-to-r from-orange-400 to-red-500 text-white text-xs px-3 py-1.5 rounded-full font-semibold shadow-sm">
               🔥 Popular
             </span>
           )}
         </div>
 
         {/* Description */}
-        <p className="text-gray-600 text-sm mb-4 line-clamp-2">
+        <p className="text-gray-600 text-sm mb-4 leading-relaxed line-clamp-2">
           {template.description}
         </p>
 
         {/* Preview dos itens */}
         <div className="mb-4">
-          <div className="flex flex-wrap gap-1 mb-2">
-            {template.items.slice(0, 6).map((item, index) => (
+          <div className="flex flex-wrap gap-2 mb-2">
+            {template.items.slice(0, 6).map((item) => (
               <div
                 key={item.id}
-                className="flex items-center gap-1 bg-gray-50 rounded-full px-2 py-1"
+                className="flex items-center gap-2 bg-gray-50 rounded-full px-3 py-1.5 border border-gray-100"
               >
                 <div 
                   className="w-3 h-3 rounded-full border border-white shadow-sm"
@@ -56,7 +56,7 @@ export const TemplateCard: React.FC<TemplateCardProps> = ({ template, onSelect }
               </div>
             ))}
             {template.items.length > 6 && (
-              <div className="flex items-center justify-center bg-gray-100 rounded-full px-2 py-1">
+              <div className="flex items-center justify-center bg-gray-100 rounded-full px-3 py-1.5">
                 <span className="text-xs text-gray-500 font-medium">
                   +{template.items.length - 6}
                 </span>
@@ -66,15 +66,15 @@ export const TemplateCard: React.FC<TemplateCardProps> = ({ template, onSelect }
         </div>
 
         {/* Footer */}
-        <div className="flex items-center justify-between pt-3 border-t border-gray-100">
+        <div className="flex items-center justify-between pt-4 border-t border-gray-100">
           <div className="flex items-center gap-4 text-xs text-gray-500">
-            <span className="flex items-center gap-1">
+            <span className="flex items-center gap-1.5 font-medium">
               <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
               </svg>
               {template.usageCount.toLocaleString()}
             </span>
-            <span className="flex items-center gap-1">
+            <span className="flex items-center gap-1.5 font-medium">
               <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
               </svg>
@@ -82,7 +82,7 @@ export const TemplateCard: React.FC<TemplateCardProps> = ({ template, onSelect }
             </span>
           </div>
           
-          <button className="bg-blue-500 hover:bg-blue-600 text-white text-xs px-3 py-1.5 rounded-lg transition-colors font-medium">
+          <button className="bg-blue-500 hover:bg-blue-600 text-white text-sm px-4 py-2 rounded-xl transition-colors font-semibold shadow-sm hover:shadow-md">
             Usar Template
           </button>
         </div>
@@ -101,31 +101,33 @@ export const CategoryFilter: React.FC<CategoryFilterProps> = ({
   onCategoryChange 
 }) => {
   return (
-    <div className="flex flex-wrap gap-2 mb-6">
-      <button
-        onClick={() => onCategoryChange(null)}
-        className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${
-          selectedCategory === null
-            ? 'bg-blue-500 text-white shadow-lg'
-            : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-        }`}
-      >
-        🌟 Todos
-      </button>
-      
-      {Object.values(CATEGORIES).map((category) => (
+    <div className="mb-8">
+      <div className="flex flex-wrap gap-3">
         <button
-          key={category.id}
-          onClick={() => onCategoryChange(category.id)}
-          className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${
-            selectedCategory === category.id
-              ? 'bg-blue-500 text-white shadow-lg'
-              : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+          onClick={() => onCategoryChange(null)}
+          className={`px-6 py-3 rounded-2xl text-sm font-semibold transition-all duration-300 ${
+            selectedCategory === null
+              ? 'bg-gradient-to-r from-blue-500 to-purple-600 text-white shadow-lg transform scale-105'
+              : 'bg-white/80 text-gray-700 hover:bg-white hover:text-blue-600 border border-gray-200 hover:border-blue-300 shadow-sm'
           }`}
         >
-          {category.name}
+          🌟 Todos
         </button>
-      ))}
+        
+        {Object.values(CATEGORIES).map((category) => (
+          <button
+            key={category.id}
+            onClick={() => onCategoryChange(category.id)}
+            className={`px-6 py-3 rounded-2xl text-sm font-semibold transition-all duration-300 ${
+              selectedCategory === category.id
+                ? 'bg-gradient-to-r from-blue-500 to-purple-600 text-white shadow-lg transform scale-105'
+                : 'bg-white/80 text-gray-700 hover:bg-white hover:text-blue-600 border border-gray-200 hover:border-blue-300 shadow-sm'
+            }`}
+          >
+            {category.name}
+          </button>
+        ))}
+      </div>
     </div>
   );
 };
@@ -137,8 +139,8 @@ interface SearchBarProps {
 
 export const SearchBar: React.FC<SearchBarProps> = ({ searchQuery, onSearchChange }) => {
   return (
-    <div className="relative mb-6">
-      <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+    <div className="relative mb-8">
+      <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
         <svg className="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
         </svg>
@@ -148,7 +150,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({ searchQuery, onSearchChang
         value={searchQuery}
         onChange={(e) => onSearchChange(e.target.value)}
         placeholder="Buscar templates... (ex: comida, jogos, decisão)"
-        className="w-full pl-10 pr-4 py-3 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white shadow-sm"
+        className="w-full pl-12 pr-6 py-4 border border-gray-200 rounded-2xl focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white/80 backdrop-blur-sm shadow-lg placeholder-gray-500 font-medium text-base leading-relaxed"
       />
     </div>
   );

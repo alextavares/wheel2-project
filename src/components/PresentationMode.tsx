@@ -188,11 +188,11 @@ export const PresentationMode: React.FC<PresentationModeProps> = ({
 
       {/* Instruções */}
       {showInstructions && (
-        <div className="absolute top-8 left-1/2 transform -translate-x-1/2 z-50 bg-black bg-opacity-70 text-white px-6 py-3 rounded-lg animate-pulse">
+        <div className="absolute top-10 left-1/2 transform -translate-x-1/2 z-50 bg-black bg-opacity-80 backdrop-blur-sm text-white px-8 py-4 rounded-2xl animate-pulse border border-white border-opacity-20 shadow-2xl">
           <div className="text-center">
-            <div className="text-lg font-bold mb-1">Modo Apresentação</div>
-            <div className="text-sm opacity-80">
-              Pressione ESPAÇO ou ENTER para girar • ESC para sair
+            <div className="text-2xl font-bold mb-2 leading-tight tracking-wide">🎭 Modo Apresentação</div>
+            <div className="text-base opacity-90 font-semibold">
+              Pressione <kbd className="px-2 py-1 bg-blue-500 rounded-lg text-sm font-bold">ESPAÇO</kbd> ou <kbd className="px-2 py-1 bg-blue-500 rounded-lg text-sm font-bold">ENTER</kbd> para girar • <kbd className="px-2 py-1 bg-red-500 rounded-lg text-sm font-bold">ESC</kbd> para sair
             </div>
           </div>
         </div>
@@ -201,27 +201,28 @@ export const PresentationMode: React.FC<PresentationModeProps> = ({
       {/* Botão de Fechar */}
       <button
         onClick={onClose}
-        className="absolute top-6 right-6 z-50 bg-red-500 hover:bg-red-600 text-white p-3 rounded-full transition-all shadow-lg"
+        className="absolute top-8 right-8 z-50 bg-red-500 hover:bg-red-600 text-white p-4 rounded-2xl transition-all duration-200 shadow-2xl hover:scale-110 backdrop-blur-sm"
+        title="❌ Fechar Apresentação"
       >
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+        <svg className="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M6 18L18 6M6 6l12 12" />
         </svg>
       </button>
 
       {/* Título da Roda */}
-      <div className="absolute top-6 left-1/2 transform -translate-x-1/2 z-50">
-        <h1 className="text-4xl font-bold text-white text-center drop-shadow-lg">
-          {wheelTitle}
+      <div className="absolute top-8 left-1/2 transform -translate-x-1/2 z-50">
+        <h1 className="text-5xl font-bold text-white text-center drop-shadow-2xl leading-tight tracking-wide">
+          🎡 {wheelTitle}
         </h1>
-        <div className="text-center text-white opacity-80 mt-2">
-          Giro #{spinCount + 1}
+        <div className="text-center text-white opacity-90 mt-3 text-xl font-semibold">
+          🎯 Giro #{spinCount + 1}
         </div>
       </div>
 
       {/* Contador de Giros */}
-      <div className="absolute top-6 left-6 z-50 bg-blue-500 text-white px-4 py-2 rounded-lg">
-        <div className="text-sm opacity-80">Giros Realizados</div>
-        <div className="text-2xl font-bold">{spinCount}</div>
+      <div className="absolute top-8 left-8 z-50 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-6 py-4 rounded-2xl shadow-2xl backdrop-blur-sm border border-white border-opacity-20">
+        <div className="text-base opacity-90 font-semibold">📊 Giros Realizados</div>
+        <div className="text-3xl font-bold leading-tight">{spinCount}</div>
       </div>
 
       {/* Roda Principal */}
@@ -322,11 +323,11 @@ export const PresentationMode: React.FC<PresentationModeProps> = ({
 
         {/* Resultado */}
         {showResult && lastResult && (
-          <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 z-50 animate-bounce">
-            <div className="bg-gradient-to-r from-green-500 to-emerald-500 text-white px-8 py-4 rounded-2xl shadow-2xl border-4 border-white">
+          <div className="absolute bottom-24 left-1/2 transform -translate-x-1/2 z-50 animate-bounce">
+            <div className="bg-gradient-to-r from-green-500 via-emerald-500 to-green-600 text-white px-12 py-6 rounded-3xl shadow-2xl border-4 border-white backdrop-blur-sm">
               <div className="text-center">
-                <div className="text-2xl font-bold mb-2">🎉 RESULTADO 🎉</div>
-                <div className="text-4xl font-black">{lastResult.label}</div>
+                <div className="text-3xl font-bold mb-3 leading-tight tracking-wide">🎉 RESULTADO 🎉</div>
+                <div className="text-5xl font-black leading-tight break-words">{lastResult.label}</div>
               </div>
             </div>
           </div>
@@ -334,19 +335,19 @@ export const PresentationMode: React.FC<PresentationModeProps> = ({
       </div>
 
       {/* Instruções de Teclado (rodapé) */}
-      <div className="absolute bottom-6 left-1/2 transform -translate-x-1/2 z-50 text-white text-center opacity-70">
-        <div className="flex items-center gap-6 text-sm">
-          <div className="flex items-center gap-2">
-            <kbd className="px-2 py-1 bg-gray-700 rounded text-xs">ESPAÇO</kbd>
-            <span>Girar</span>
+      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-50 text-white text-center opacity-80">
+        <div className="flex items-center gap-8 text-base font-semibold">
+          <div className="flex items-center gap-3">
+            <kbd className="px-3 py-2 bg-gray-700 bg-opacity-80 backdrop-blur-sm rounded-xl text-base font-bold border border-gray-500">ESPAÇO</kbd>
+            <span>🎯 Girar</span>
           </div>
-          <div className="flex items-center gap-2">
-            <kbd className="px-2 py-1 bg-gray-700 rounded text-xs">ENTER</kbd>
-            <span>Girar</span>
+          <div className="flex items-center gap-3">
+            <kbd className="px-3 py-2 bg-gray-700 bg-opacity-80 backdrop-blur-sm rounded-xl text-base font-bold border border-gray-500">ENTER</kbd>
+            <span>🎯 Girar</span>
           </div>
-          <div className="flex items-center gap-2">
-            <kbd className="px-2 py-1 bg-gray-700 rounded text-xs">ESC</kbd>
-            <span>Sair</span>
+          <div className="flex items-center gap-3">
+            <kbd className="px-3 py-2 bg-gray-700 bg-opacity-80 backdrop-blur-sm rounded-xl text-base font-bold border border-gray-500">ESC</kbd>
+            <span>❌ Sair</span>
           </div>
         </div>
       </div>

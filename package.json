@@ -1,19 +1,35 @@
 {
-  "name": "temp",
-  "version": "0.1.0",
+  "name": "wheelwheel-app",
+  "version": "1.0.0",
+  "description": "Sistema de roleta personalizada para decisões aleatórias",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3043",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "seo:generate": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts generate",
+    "seo:sample": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts sample",
+    "seo:batch": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts batch",
+    "seo:stats": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts stats",
+    "seo:intelligent": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts intelligent",
+    "seo:intelligent-full": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts intelligent-full",
+    "seo:intelligent-stats": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts intelligent-stats",
+    "seo:compare": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts compare",
+    "seo:clean": "npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts clean",
+    "templates:advanced": "npx ts-node --project tsconfig.scripts.json src/scripts/advanced-template-generator.ts",
+    "templates:mega": "npx ts-node --project tsconfig.scripts.json src/scripts/advanced-template-generator.ts 5000",
+    "templates:ultra": "npx ts-node --project tsconfig.scripts.json src/scripts/advanced-template-generator.ts 10000",
+    "pages:integrate": "npx ts-node --project tsconfig.scripts.json src/scripts/integrate-all-pages.ts",
+    "pages:summary": "npx ts-node --project tsconfig.scripts.json src/scripts/integrate-all-pages.ts && cat src/page-generation-stats.json"
   },
   "dependencies": {
     "lightningcss": "^1.30.1",
     "lucide-react": "^0.525.0",
     "next": "15.4.1",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "react-helmet-async": "^2.0.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -23,6 +39,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.4.1",
+    "ts-node": "^10.9.2",
     "typescript": "^5"
   }
 }

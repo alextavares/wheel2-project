@@ -157,50 +157,50 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
     : getLeaderboard()[0];
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-      <div className="bg-white rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto">
-        <div className="p-6 border-b border-gray-200">
+    <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+      <div className="bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto border border-white/50">
+        <div className="p-8 border-b border-gray-200/50">
           <div className="flex justify-between items-center">
-            <h2 className="text-2xl font-bold text-gray-800 flex items-center gap-2">
-              <svg className="w-8 h-8 text-yellow-500" fill="currentColor" viewBox="0 0 20 20">
+            <h2 className="text-3xl font-bold text-gray-800 flex items-center gap-3 leading-tight">
+              <svg className="w-10 h-10 text-yellow-500" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.293l-3-3a1 1 0 00-1.414 0l-3 3a1 1 0 001.414 1.414L9 9.414V13a1 1 0 102 0V9.414l1.293 1.293a1 1 0 001.414-1.414z" clipRule="evenodd" />
               </svg>
-              Modo Competição
+              🏆 Modo Competição
             </h2>
             <button
               onClick={onClose}
-              className="text-gray-500 hover:text-gray-700 text-2xl font-bold"
+              className="text-gray-500 hover:text-gray-700 text-3xl font-bold transition-all duration-200 hover:scale-110 p-2 rounded-full hover:bg-gray-100"
             >
               ×
             </button>
           </div>
         </div>
 
-        <div className="p-6">
+        <div className="p-8">
           {!competitionStarted ? (
-            <div className="space-y-6">
+            <div className="space-y-8">
               {/* Configurações da Competição */}
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Tipo de Competição
+                  <label className="block text-base font-bold text-gray-800 mb-3 leading-tight">
+                    🎯 Tipo de Competição
                   </label>
                   <select
                     value={competitionType}
                     onChange={(e) => setCompetitionType(e.target.value as any)}
-                    className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                    className="w-full p-4 border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-200 font-semibold text-gray-700 bg-white/80 backdrop-blur-sm shadow-md"
                   >
-                    <option value="elimination">Eliminação</option>
-                    <option value="points">Por Pontos</option>
-                    <option value="tournament">Torneio</option>
+                    <option value="elimination">🔥 Eliminação</option>
+                    <option value="points">⭐ Por Pontos</option>
+                    <option value="tournament">🏆 Torneio</option>
                   </select>
                 </div>
 
                 {competitionType === 'points' && (
                   <>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
-                        Máximo de Rodadas
+                      <label className="block text-base font-bold text-gray-800 mb-3 leading-tight">
+                        🎯 Máximo de Rodadas
                       </label>
                       <input
                         type="number"
@@ -208,12 +208,12 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
                         onChange={(e) => setMaxRounds(parseInt(e.target.value))}
                         min="1"
                         max="20"
-                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                        className="w-full p-4 border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-200 font-semibold text-gray-700 bg-white/80 backdrop-blur-sm shadow-md"
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
-                        Pontos por Vitória
+                      <label className="block text-base font-bold text-gray-800 mb-3 leading-tight">
+                        ⭐ Pontos por Vitória
                       </label>
                       <input
                         type="number"
@@ -221,7 +221,7 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
                         onChange={(e) => setPointsPerWin(parseInt(e.target.value))}
                         min="1"
                         max="100"
-                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                        className="w-full p-4 border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-200 font-semibold text-gray-700 bg-white/80 backdrop-blur-sm shadow-md"
                       />
                     </div>
                   </>
@@ -230,23 +230,23 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
 
               {/* Lista de Participantes */}
               <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-4">
-                  Participantes ({participants.length})
+                <h3 className="text-xl font-bold text-gray-800 mb-6 leading-tight">
+                  👥 Participantes ({participants.length})
                 </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                   {participants.map((participant) => (
                     <div
                       key={participant.id}
-                      className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg border border-gray-200"
+                      className="flex items-center gap-4 p-4 bg-gray-50/80 backdrop-blur-sm rounded-2xl border-2 border-gray-200 shadow-md hover:shadow-lg transition-all duration-200 hover:scale-105"
                     >
                       <img
                         src={participant.avatar}
                         alt={participant.name}
-                        className="w-10 h-10 rounded-full"
+                        className="w-12 h-12 rounded-full border-2 border-white shadow-sm"
                       />
                       <div>
-                        <div className="font-medium text-gray-800">{participant.name}</div>
-                        <div className="text-sm text-gray-500">Pronto para competir</div>
+                        <div className="font-bold text-gray-800 text-base leading-tight">{participant.name}</div>
+                        <div className="text-sm text-gray-600 font-semibold">✅ Pronto para competir</div>
                       </div>
                     </div>
                   ))}
@@ -256,21 +256,21 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
               <button
                 onClick={startCompetition}
                 disabled={participants.length < 2}
-                className="w-full py-4 bg-gradient-to-r from-green-500 to-emerald-600 text-white font-bold rounded-lg hover:from-green-600 hover:to-emerald-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all"
+                className="w-full py-5 bg-gradient-to-r from-green-500 to-emerald-600 text-white font-bold rounded-2xl hover:from-green-600 hover:to-emerald-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 hover:scale-105 shadow-lg text-lg"
               >
-                Iniciar Competição
+                🚀 Iniciar Competição
               </button>
             </div>
           ) : (
-            <div className="space-y-6">
+            <div className="space-y-8">
               {/* Status da Competição */}
-              <div className="bg-gradient-to-r from-blue-500 to-purple-600 text-white p-4 rounded-lg">
+              <div className="bg-gradient-to-r from-blue-500 to-purple-600 text-white p-6 rounded-2xl shadow-lg">
                 <div className="flex justify-between items-center">
                   <div>
-                    <h3 className="text-lg font-bold">
-                      {isCompetitionComplete ? 'Competição Finalizada!' : `Rodada ${currentRound?.number || 0}`}
+                    <h3 className="text-xl font-bold leading-tight">
+                      {isCompetitionComplete ? '🎉 Competição Finalizada!' : `🔥 Rodada ${currentRound?.number || 0}`}
                     </h3>
-                    <p className="text-blue-100">
+                    <p className="text-blue-100 font-semibold text-base mt-2">
                       {competitionType === 'elimination' 
                         ? `${participants.filter(p => !p.eliminated).length} participantes restantes`
                         : `${rounds.filter(r => r.completed).length}/${maxRounds} rodadas completas`
@@ -278,27 +278,27 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
                     </p>
                   </div>
                   <div className="text-right">
-                    <div className="text-2xl font-bold">{rounds.filter(r => r.completed).length}</div>
-                    <div className="text-sm text-blue-100">Rodadas</div>
+                    <div className="text-3xl font-bold">{rounds.filter(r => r.completed).length}</div>
+                    <div className="text-sm text-blue-100 font-semibold">Rodadas</div>
                   </div>
                 </div>
               </div>
 
               {/* Vencedor Final */}
               {isCompetitionComplete && winner && (
-                <div className="bg-gradient-to-r from-yellow-400 to-orange-500 text-white p-6 rounded-lg text-center">
-                  <div className="text-4xl mb-2">🏆</div>
-                  <h3 className="text-2xl font-bold mb-2">Campeão!</h3>
-                  <div className="flex items-center justify-center gap-3">
+                <div className="bg-gradient-to-r from-yellow-400 to-orange-500 text-white p-8 rounded-2xl text-center shadow-lg">
+                  <div className="text-5xl mb-4">🏆</div>
+                  <h3 className="text-3xl font-bold mb-4 leading-tight">Campeão!</h3>
+                  <div className="flex items-center justify-center gap-4">
                     <img
                       src={winner.avatar}
                       alt={winner.name}
-                      className="w-16 h-16 rounded-full border-4 border-white"
+                      className="w-20 h-20 rounded-full border-4 border-white shadow-lg"
                     />
                     <div>
-                      <div className="text-xl font-bold">{winner.name}</div>
+                      <div className="text-2xl font-bold leading-tight">{winner.name}</div>
                       {competitionType === 'points' && (
-                        <div className="text-yellow-100">{winner.score} pontos</div>
+                        <div className="text-yellow-100 font-semibold text-lg">{winner.score} pontos</div>
                       )}
                     </div>
                   </div>
@@ -307,23 +307,23 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
 
               {/* Placar/Ranking */}
               <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-4">
-                  {competitionType === 'elimination' ? 'Status dos Participantes' : 'Placar'}
+                <h3 className="text-xl font-bold text-gray-800 mb-6 leading-tight">
+                  {competitionType === 'elimination' ? '📊 Status dos Participantes' : '🏅 Placar'}
                 </h3>
-                <div className="space-y-2">
+                <div className="space-y-3">
                   {getLeaderboard().map((participant, index) => (
                     <div
                       key={participant.id}
-                      className={`flex items-center justify-between p-3 rounded-lg border ${
+                      className={`flex items-center justify-between p-4 rounded-2xl border-2 shadow-md transition-all duration-200 ${
                         participant.eliminated 
-                          ? 'bg-red-50 border-red-200 opacity-60' 
+                          ? 'bg-red-50/80 border-red-200 opacity-60' 
                           : index === 0 
-                            ? 'bg-yellow-50 border-yellow-300' 
-                            : 'bg-gray-50 border-gray-200'
+                            ? 'bg-yellow-50/80 border-yellow-300 shadow-lg' 
+                            : 'bg-gray-50/80 border-gray-200'
                       }`}
                     >
-                      <div className="flex items-center gap-3">
-                        <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${
+                      <div className="flex items-center gap-4">
+                        <div className={`w-10 h-10 rounded-full flex items-center justify-center text-base font-bold shadow-sm ${
                           index === 0 ? 'bg-yellow-500 text-white' : 'bg-gray-300 text-gray-700'
                         }`}>
                           {index + 1}
@@ -331,17 +331,17 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
                         <img
                           src={participant.avatar}
                           alt={participant.name}
-                          className="w-10 h-10 rounded-full"
+                          className="w-12 h-12 rounded-full border-2 border-white shadow-sm"
                         />
                         <div>
-                          <div className="font-medium text-gray-800">{participant.name}</div>
-                          <div className="text-sm text-gray-500">
-                            {participant.eliminated ? 'Eliminado' : 'Ativo'}
+                          <div className="font-bold text-gray-800 text-base leading-tight">{participant.name}</div>
+                          <div className="text-sm text-gray-600 font-semibold">
+                            {participant.eliminated ? '❌ Eliminado' : '✅ Ativo'}
                           </div>
                         </div>
                       </div>
                       {competitionType === 'points' && (
-                        <div className="text-lg font-bold text-gray-800">
+                        <div className="text-xl font-bold text-gray-800">
                           {participant.score} pts
                         </div>
                       )}
@@ -353,19 +353,19 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
               {/* Histórico de Rodadas */}
               {rounds.length > 0 && (
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-800 mb-4">Histórico</h3>
-                  <div className="space-y-2">
+                  <h3 className="text-xl font-bold text-gray-800 mb-6 leading-tight">📜 Histórico</h3>
+                  <div className="space-y-3">
                     {rounds.filter(r => r.completed).map((round) => (
-                      <div key={round.id} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
+                      <div key={round.id} className="flex items-center justify-between p-4 bg-gray-50/80 backdrop-blur-sm rounded-2xl border-2 border-gray-200 shadow-md">
                         <div>
-                          <div className="font-medium">Rodada {round.number}</div>
-                          <div className="text-sm text-gray-500">
-                            {round.timestamp.toLocaleTimeString()}
+                          <div className="font-bold text-gray-800 text-base leading-tight">🎯 Rodada {round.number}</div>
+                          <div className="text-sm text-gray-600 font-semibold">
+                            🕒 {round.timestamp.toLocaleTimeString()}
                           </div>
                         </div>
-                        <div className="flex items-center gap-2">
-                          <span className="text-sm text-gray-600">Vencedor:</span>
-                          <span className="font-bold text-green-600">{round.winner?.name}</span>
+                        <div className="flex items-center gap-3">
+                          <span className="text-sm text-gray-600 font-semibold">Vencedor:</span>
+                          <span className="font-bold text-green-600 text-base">🏆 {round.winner?.name}</span>
                         </div>
                       </div>
                     ))}
@@ -374,18 +374,18 @@ export function CompetitionMode({ items, onClose, onStartCompetition }: Competit
               )}
 
               {/* Ações */}
-              <div className="flex gap-3">
+              <div className="flex gap-4">
                 <button
                   onClick={resetCompetition}
-                  className="flex-1 py-3 bg-gray-500 hover:bg-gray-600 text-white font-medium rounded-lg transition-colors"
+                  className="flex-1 py-4 bg-gradient-to-r from-gray-500 to-gray-600 hover:from-gray-600 hover:to-gray-700 text-white font-bold rounded-2xl transition-all duration-200 hover:scale-105 shadow-lg text-base"
                 >
-                  Reiniciar
+                  🔄 Reiniciar
                 </button>
                 <button
                   onClick={exportResults}
-                  className="flex-1 py-3 bg-blue-500 hover:bg-blue-600 text-white font-medium rounded-lg transition-colors"
+                  className="flex-1 py-4 bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white font-bold rounded-2xl transition-all duration-200 hover:scale-105 shadow-lg text-base"
                 >
-                  Exportar Resultados
+                  📊 Exportar Resultados
                 </button>
               </div>
             </div>

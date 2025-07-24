@@ -1,0 +1,52 @@
+﻿
+> wheelwheel-app@1.0.0 seo:sample
+> npx ts-node --project tsconfig.scripts.json src/scripts/generate-seo.ts sample
+
+node.exe : C:\codigos\wheel2\wheelwheel\node_modules\
+ts-node\src\index.ts:859
+No C:\Program Files\nodejs\npm.ps1:29 caractere:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\codi 
+   gos\whee...rc\index.ts:859:String) [], RemoteExc  
+  eption
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    return new TSError(diagnosticText, 
+diagnosticCodes, diagnostics);
+           ^
+TSError: ⨯ Unable to compile TypeScript:
+src/utils/seoPageGenerator.ts(105,30): error TS2339: 
+Property 'options' does not exist on type 
+'WheelTemplate'.
+src/utils/seoPageGenerator.ts(110,31): error TS2339: 
+Property 'options' does not exist on type 
+'WheelTemplate'.
+src/utils/seoPageGenerator.ts(496,33): error TS2341: 
+Property 'generateStaticPagesFromTemplates' is 
+private and only accessible within class 
+'SEOPageGenerator'.
+
+    at createTSError (C:\codigos\wheel2\wheelwheel\no
+de_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\codigos\wheel2\wheelwheel\no
+de_modules\ts-node\src\index.ts:863:19)
+    at getOutput (C:\codigos\wheel2\wheelwheel\node_m
+odules\ts-node\src\index.ts:1077:36)
+    at Object.compile (C:\codigos\wheel2\wheelwheel\n
+ode_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (C:\codigos\wheel2\wheelwhee
+l\node_modules\ts-node\src\index.ts:1617:30)
+    at loadTS 
+(node:internal/modules/cjs/loader:1826:10)
+    at Object.require.extensions.<computed> [as .ts] 
+(C:\codigos\wheel2\wheelwheel\node_modules\ts-node\sr
+c\index.ts:1621:12)
+    at Module.load 
+(node:internal/modules/cjs/loader:1469:32)
+    at Module._load 
+(node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync 
+(node:diagnostics_channel:322:14) {
+  diagnosticCodes: [ 2339, 2339, 2341 ]
+}

@@ -84,75 +84,75 @@ export default function AdvancedEditor({ items, onItemsChange, isOpen, onClose }
   };
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-      <div className="bg-white rounded-xl max-w-4xl w-full max-h-[90vh] overflow-y-auto">
-        <div className="p-6">
+    <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+      <div className="bg-white/95 backdrop-blur-sm rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto border border-white/50 shadow-2xl">
+        <div className="p-8">
           {/* Header */}
-          <div className="flex justify-between items-center mb-6">
-            <h2 className="text-2xl font-bold text-gray-800">🎨 Editor Avançado</h2>
+          <div className="flex justify-between items-center mb-8">
+            <h2 className="text-3xl font-bold text-gray-800 leading-tight">🎨 Editor Avançado</h2>
             <button
               onClick={onClose}
-              className="text-gray-500 hover:text-gray-700 text-2xl"
+              className="text-gray-500 hover:text-gray-700 text-3xl font-bold transition-all duration-200 hover:scale-110 p-2 rounded-full hover:bg-gray-100"
             >
               ×
             </button>
           </div>
 
           {/* Color Presets */}
-          <div className="mb-8">
-            <h3 className="text-lg font-semibold mb-4">🌈 Presets de Cores</h3>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
+          <div className="mb-10">
+            <h3 className="text-xl font-bold mb-6 text-gray-800 leading-tight">🌈 Presets de Cores</h3>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
               {Object.entries(COLOR_PRESETS).map(([name, colors]) => (
                 <button
                   key={name}
                   onClick={() => applyColorPreset(name)}
-                  className={`p-3 rounded-lg border-2 transition-all ${
+                  className={`p-4 rounded-2xl border-2 transition-all duration-200 hover:scale-105 shadow-md ${
                     selectedPreset === name
-                      ? 'border-blue-500 bg-blue-50'
-                      : 'border-gray-200 hover:border-gray-300'
+                      ? 'border-blue-500 bg-blue-50/80 backdrop-blur-sm shadow-lg'
+                      : 'border-gray-200 hover:border-gray-300 bg-white/80 backdrop-blur-sm'
                   }`}
                 >
-                  <div className="flex space-x-1 mb-2">
+                  <div className="flex space-x-1 mb-3">
                     {colors.slice(0, 4).map((color, index) => (
                       <div
                         key={index}
-                        className="w-4 h-4 rounded"
+                        className="w-5 h-5 rounded-lg shadow-sm"
                         style={{ backgroundColor: color }}
                       />
                     ))}
                   </div>
-                  <span className="text-sm font-medium capitalize">{name}</span>
+                  <span className="text-sm font-bold capitalize text-gray-700">{name}</span>
                 </button>
               ))}
             </div>
             
-            <div className="flex gap-2">
+            <div className="flex gap-4">
               <button
                 onClick={randomizeColors}
-                className="px-4 py-2 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-colors"
+                className="px-6 py-3 bg-gradient-to-r from-purple-500 to-purple-600 text-white rounded-xl hover:from-purple-600 hover:to-purple-700 transition-all duration-200 hover:scale-105 shadow-lg font-bold"
               >
                 🎲 Cores Aleatórias
               </button>
               
-              <div className="flex items-center gap-2">
+              <div className="flex items-center gap-3 bg-gray-100/80 backdrop-blur-sm rounded-xl p-3 border border-gray-200">
                 <input
                   type="color"
                   value={customColor}
                   onChange={(e) => setCustomColor(e.target.value)}
-                  className="w-10 h-10 rounded border"
+                  className="w-12 h-12 rounded-xl border-2 border-gray-300 cursor-pointer"
                 />
-                <span className="text-sm text-gray-600">Cor personalizada</span>
+                <span className="text-sm font-bold text-gray-700">Cor personalizada</span>
               </div>
             </div>
           </div>
 
           {/* Individual Item Editor */}
-          <div className="mb-8">
-            <h3 className="text-lg font-semibold mb-4">✏️ Editar Itens Individuais</h3>
-            <div className="space-y-3 max-h-60 overflow-y-auto">
+          <div className="mb-10">
+            <h3 className="text-xl font-bold mb-6 text-gray-800 leading-tight">✏️ Editar Itens Individuais</h3>
+            <div className="space-y-4 max-h-60 overflow-y-auto">
               {items.map((item, index) => (
-                <div key={item.id} className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
-                  <span className="text-sm font-medium w-8">{index + 1}</span>
+                <div key={item.id} className="flex items-center gap-4 p-4 bg-gray-50/80 backdrop-blur-sm rounded-2xl border border-gray-200 shadow-md">
+                  <span className="text-base font-bold w-8 text-gray-700">{index + 1}</span>
                   
                   <input
                     type="text"
@@ -163,26 +163,26 @@ export default function AdvancedEditor({ items, onItemsChange, isOpen, onClose }
                       );
                       onItemsChange(updatedItems);
                     }}
-                    className="flex-1 px-3 py-2 border rounded-lg"
+                    className="flex-1 px-4 py-3 border border-gray-300 rounded-xl font-semibold text-gray-700 bg-white/80 backdrop-blur-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-200"
                   />
                   
                   <input
                     type="color"
                     value={item.color || '#FF6B6B'}
                     onChange={(e) => updateItemColor(item.id, e.target.value)}
-                    className="w-12 h-10 rounded border"
+                    className="w-14 h-12 rounded-xl border-2 border-gray-300 cursor-pointer"
                   />
                   
                   {showWeights && (
-                    <div className="flex items-center gap-1">
-                      <span className="text-xs text-gray-500">Peso:</span>
+                    <div className="flex items-center gap-2 bg-white/80 backdrop-blur-sm rounded-xl p-2 border border-gray-200">
+                      <span className="text-sm font-bold text-gray-600">Peso:</span>
                       <input
                         type="number"
                         min="1"
                         max="10"
                         value={item.weight || 1}
                         onChange={(e) => updateItemWeight(item.id, parseInt(e.target.value) || 1)}
-                        className="w-16 px-2 py-1 border rounded text-center"
+                        className="w-16 px-2 py-2 border border-gray-300 rounded-lg text-center font-bold text-gray-700 focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                       />
                     </div>
                   )}
@@ -192,12 +192,12 @@ export default function AdvancedEditor({ items, onItemsChange, isOpen, onClose }
           </div>
 
           {/* Weight Settings */}
-          <div className="mb-8">
-            <div className="flex items-center justify-between mb-4">
-              <h3 className="text-lg font-semibold">⚖️ Configurações de Peso</h3>
+          <div className="mb-10">
+            <div className="flex items-center justify-between mb-6">
+              <h3 className="text-xl font-bold text-gray-800 leading-tight">⚖️ Configurações de Peso</h3>
               <button
                 onClick={() => setShowWeights(!showWeights)}
-                className={`px-4 py-2 rounded-lg transition-colors ${
+                className={`px-6 py-3 rounded-xl transition-all duration-200 hover:scale-105 shadow-md font-bold ${
                   showWeights
                     ? 'bg-blue-500 text-white'
                     : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
@@ -208,15 +208,15 @@ export default function AdvancedEditor({ items, onItemsChange, isOpen, onClose }
             </div>
             
             {showWeights && (
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 {WEIGHT_PRESETS.map((preset, index) => (
                   <button
                     key={index}
                     onClick={() => applyWeightPreset(preset.weights)}
-                    className="p-3 border rounded-lg hover:bg-gray-50 transition-colors text-left"
+                    className="p-4 border-2 border-gray-200 rounded-2xl hover:border-blue-300 hover:bg-blue-50/80 backdrop-blur-sm transition-all duration-200 hover:scale-105 shadow-md text-left bg-white/80"
                   >
-                    <div className="font-medium text-sm">{preset.name}</div>
-                    <div className="text-xs text-gray-500 mt-1">
+                    <div className="font-bold text-base text-gray-800 leading-tight">{preset.name}</div>
+                    <div className="text-sm text-gray-600 mt-2 font-semibold">
                       {preset.weights.length > 0 ? preset.weights.join(', ') : 'Todos iguais'}
                     </div>
                   </button>
@@ -226,18 +226,18 @@ export default function AdvancedEditor({ items, onItemsChange, isOpen, onClose }
           </div>
 
           {/* Action Buttons */}
-          <div className="flex justify-end gap-3 pt-4 border-t">
+          <div className="flex justify-end gap-4 pt-6 border-t border-gray-200">
             <button
               onClick={onClose}
-              className="px-6 py-2 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
+              className="px-8 py-3 border-2 border-gray-300 rounded-xl hover:border-gray-400 hover:bg-gray-50/80 backdrop-blur-sm transition-all duration-200 hover:scale-105 shadow-md font-bold text-gray-700"
             >
-              Cancelar
+              ❌ Cancelar
             </button>
             <button
               onClick={onClose}
-              className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors"
+              className="px-8 py-3 bg-gradient-to-r from-blue-500 to-blue-600 text-white rounded-xl hover:from-blue-600 hover:to-blue-700 transition-all duration-200 hover:scale-105 shadow-lg font-bold"
             >
-              Aplicar Mudanças
+              ✅ Aplicar Mudanças
             </button>
           </div>
         </div>

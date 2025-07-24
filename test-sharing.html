@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de Funcionalidades de Compartilhamento</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .test-section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .test-button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .test-button:hover {
+            background: #0056b3;
+        }
+        .result {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f8f9fa;
+            border-left: 4px solid #007bff;
+        }
+        .error {
+            border-left-color: #dc3545;
+            background: #f8d7da;
+        }
+        .success {
+            border-left-color: #28a745;
+            background: #d4edda;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 8px;
+            margin: 5px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        img {
+            max-width: 200px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧪 Teste de Funcionalidades de Compartilhamento</h1>
+    
+    <!-- Teste 1: Geração de URL -->
+    <div class="test-section">
+        <h2>1. Teste de Geração de URL</h2>
+        <p>Testa a codificação e decodificação de dados da roda em URLs.</p>
+        <button class="test-button" onclick="testUrlGeneration()">Testar Geração de URL</button>
+        <div id="url-result" class="result" style="display: none;"></div>
+        <input type="text" id="generated-url" placeholder="URL gerada aparecerá aqui" readonly>
+    </div>
+
+    <!-- Teste 2: API de QR Code -->
+    <div class="test-section">
+        <h2>2. Teste de API de QR Code</h2>
+        <p>Testa se as APIs de QR Code estão funcionando.</p>
+        <button class="test-button" onclick="testQRCodeAPI()">Testar QR Code</button>
+        <div id="qr-result" class="result" style="display: none;"></div>
+        <div id="qr-images"></div>
+    </div>
+
+    <!-- Teste 3: Clipboard API -->
+    <div class="test-section">
+        <h2>3. Teste de Clipboard</h2>
+        <p>Testa a funcionalidade de copiar para área de transferência.</p>
+        <input type="text" id="clipboard-text" value="Texto de teste para clipboard" placeholder="Digite algo para testar">
+        <button class="test-button" onclick="testClipboard()">Testar Clipboard</button>
+        <div id="clipboard-result" class="result" style="display: none;"></div>
+    </div>
+
+    <!-- Teste 4: Redes Sociais -->
+    <div class="test-section">
+        <h2>4. Teste de Links de Redes Sociais</h2>
+        <p>Testa a geração de links para compartilhamento em redes sociais.</p>
+        <button class="test-button" onclick="testSocialLinks()">Testar Links Sociais</button>
+        <div id="social-result" class="result" style="display: none;"></div>
+    </div>
+
+    <!-- Teste 5: Processamento de URL Compartilhada -->
+    <div class="test-section">
+        <h2>5. Teste de Processamento de URL</h2>
+        <p>Testa se URLs compartilhadas são processadas corretamente.</p>
+        <textarea id="shared-url" placeholder="Cole uma URL compartilhada aqui"></textarea>
+        <button class="test-button" onclick="testUrlProcessing()">Testar Processamento</button>
+        <div id="processing-result" class="result" style="display: none;"></div>
+    </div>
+
+    <script>
+        // Dados de teste
+        const testWheelData = {
+            title: "Roda de Teste",
+            items: [
+                { label: "Opção 1", color: "#FF6B6B" },
+                { label: "Opção 2", color: "#4ECDC4" },
+                { label: "Opção 3", color: "#45B7D1" },
+                { label: "Opção 4", color: "#96CEB4" }
+            ],
+            timestamp: Date.now()
+        };
+
+        function showResult(elementId, message, isError = false) {
+            const element = document.getElementById(elementId);
+            element.style.display = 'block';
+            element.className = `result ${isError ? 'error' : 'success'}`;
+            element.innerHTML = message;
+        }
+
+        // Teste 1: Geração de URL
+        function testUrlGeneration() {
+            try {
+                const dataString = JSON.stringify(testWheelData);
+                const encodedData = btoa(encodeURIComponent(dataString));
+                const baseUrl = window.location.origin;
+                const shareUrl = `${baseUrl}?shared=${encodedData}`;
+                
+                document.getElementById('generated-url').value = shareUrl;
+                
+                // Testar decodificação
+                const urlParams = new URLSearchParams(`?shared=${encodedData}`);
+                const sharedData = urlParams.get('shared');
+                const decodedData = JSON.parse(decodeURIComponent(atob(sharedData)));
+                
+                if (JSON.stringify(decodedData) === JSON.stringify(testWheelData)) {
+                    showResult('url-result', '✅ Geração e decodificação de URL funcionando corretamente!');
+                } else {
+                    showResult('url-result', '❌ Erro na decodificação dos dados', true);
+                }
+            } catch (error) {
+                showResult('url-result', `❌ Erro: ${error.message}`, true);
+            }
+        }
+
+        // Teste 2: API de QR Code
+        function testQRCodeAPI() {
+            const testUrl = 'https://example.com/test';
+            const qrImagesDiv = document.getElementById('qr-images');
+            qrImagesDiv.innerHTML = '';
+            
+            // Testar API principal
+            const primaryAPI = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(testUrl)}`;
+            const fallbackAPI = `https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=${encodeURIComponent(testUrl)}`;
+            
+            let primaryLoaded = false;
+            let fallbackLoaded = false;
+            
+            // Testar API principal
+            const img1 = new Image();
+            img1.onload = () => {
+                primaryLoaded = true;
+                qrImagesDiv.innerHTML += `<div><h4>API Principal (qrserver.com):</h4><img src="${primaryAPI}" alt="QR Code 1"></div>`;
+                updateQRResult();
+            };
+            img1.onerror = () => {
+                updateQRResult();
+            };
+            img1.src = primaryAPI;
+            
+            // Testar API de fallback
+            const img2 = new Image();
+            img2.onload = () => {
+                fallbackLoaded = true;
+                qrImagesDiv.innerHTML += `<div><h4>API Fallback (Google Charts):</h4><img src="${fallbackAPI}" alt="QR Code 2"></div>`;
+                updateQRResult();
+            };
+            img2.onerror = () => {
+                updateQRResult();
+            };
+            img2.src = fallbackAPI;
+            
+            function updateQRResult() {
+                if (primaryLoaded && fallbackLoaded) {
+                    showResult('qr-result', '✅ Ambas APIs de QR Code funcionando!');
+                } else if (primaryLoaded || fallbackLoaded) {
+                    showResult('qr-result', '⚠️ Apenas uma API de QR Code funcionando');
+                } else {
+                    showResult('qr-result', '❌ Nenhuma API de QR Code funcionando', true);
+                }
+            }
+            
+            // Timeout para verificar se nenhuma carregou
+            setTimeout(() => {
+                if (!primaryLoaded && !fallbackLoaded) {
+                    showResult('qr-result', '❌ Timeout: Nenhuma API de QR Code respondeu', true);
+                }
+            }, 5000);
+        }
+
+        // Teste 3: Clipboard
+        async function testClipboard() {
+            const text = document.getElementById('clipboard-text').value;
+            
+            try {
+                if (navigator.clipboard && window.isSecureContext) {
+                    await navigator.clipboard.writeText(text);
+                    showResult('clipboard-result', '✅ Clipboard API moderna funcionando!');
+                } else {
+                    // Fallback
+                    const textArea = document.createElement('textarea');
+                    textArea.value = text;
+                    textArea.style.position = 'fixed';
+                    textArea.style.left = '-999999px';
+                    textArea.style.top = '-999999px';
+                    document.body.appendChild(textArea);
+                    textArea.focus();
+                    textArea.select();
+                    
+                    const successful = document.execCommand('copy');
+                    document.body.removeChild(textArea);
+                    
+                    if (successful) {
+                        showResult('clipboard-result', '✅ Clipboard fallback funcionando!');
+                    } else {
+                        showResult('clipboard-result', '❌ Clipboard não funcionando', true);
+                    }
+                }
+            } catch (error) {
+                showResult('clipboard-result', `❌ Erro no clipboard: ${error.message}`, true);
+            }
+        }
+
+        // Teste 4: Links de Redes Sociais
+        function testSocialLinks() {
+            const testUrl = 'https://example.com/wheel';
+            const testText = 'Confira esta roda de decisões!';
+            
+            const socialLinks = {
+                twitter: `https://twitter.com/intent/tweet?text=${encodeURIComponent(testText)}&url=${encodeURIComponent(testUrl)}`,
+                facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(testUrl)}`,
+                linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(testUrl)}`,
+                whatsapp: `https://wa.me/?text=${encodeURIComponent(`${testText} ${testUrl}`)}`,
+                telegram: `https://t.me/share/url?url=${encodeURIComponent(testUrl)}&text=${encodeURIComponent(testText)}`
+            };
+            
+            let resultHTML = '✅ Links de redes sociais gerados:<br>';
+            for (const [platform, link] of Object.entries(socialLinks)) {
+                resultHTML += `<strong>${platform}:</strong> <a href="${link}" target="_blank">Testar</a><br>`;
+            }
+            
+            showResult('social-result', resultHTML);
+        }
+
+        // Teste 5: Processamento de URL
+        function testUrlProcessing() {
+            const sharedUrl = document.getElementById('shared-url').value;
+            
+            try {
+                const url = new URL(sharedUrl);
+                const sharedData = url.searchParams.get('shared') || url.searchParams.get('wheel');
+                
+                if (!sharedData) {
+                    showResult('processing-result', '❌ Nenhum parâmetro de compartilhamento encontrado', true);
+                    return;
+                }
+                
+                // Tentar decodificar
+                let decodedData;
+                try {
+                    decodedData = JSON.parse(decodeURIComponent(atob(sharedData)));
+                } catch {
+                    decodedData = JSON.parse(atob(sharedData));
+                }
+                
+                if (decodedData && decodedData.items && Array.isArray(decodedData.items)) {
+                    showResult('processing-result', `✅ URL processada com sucesso! Encontrados ${decodedData.items.length} itens na roda "${decodedData.title || 'Sem título'}"`);
+                } else {
+                    showResult('processing-result', '❌ Dados da URL não estão no formato esperado', true);
+                }
+                
+            } catch (error) {
+                showResult('processing-result', `❌ Erro ao processar URL: ${error.message}`, true);
+            }
+        }
+
+        // Executar alguns testes automaticamente
+        window.onload = function() {
+            console.log('🧪 Página de testes carregada. Execute os testes manualmente.');
+        };
+    </script>
+</body>
+</html>

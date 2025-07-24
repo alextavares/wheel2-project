@@ -81,58 +81,58 @@ export default function BulkEdit({ isOpen, onClose, items, onItemsChange }: Bulk
   };
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-      <div className="bg-white rounded-lg max-w-4xl w-full max-h-[90vh] overflow-y-auto">
-        <div className="p-6 border-b border-gray-200 flex justify-between items-center">
-          <h2 className="text-2xl font-bold text-gray-800 flex items-center gap-2">
-            <Edit3 size={24} />
+    <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+      <div className="bg-white/95 backdrop-blur-sm rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto border border-white/50 shadow-2xl">
+        <div className="p-8 border-b border-gray-200 flex justify-between items-center bg-white/95 backdrop-blur-sm rounded-t-2xl">
+          <h2 className="text-3xl font-bold text-gray-800 flex items-center gap-3 leading-tight">
+            <Edit3 size={28} className="text-blue-600" />
             Editor em Massa
           </h2>
           <button
             onClick={onClose}
-            className="text-gray-500 hover:text-gray-700"
+            className="text-gray-500 hover:text-gray-700 text-3xl font-bold transition-all duration-200 hover:scale-110 p-2 rounded-full hover:bg-gray-100"
           >
-            <X size={24} />
+            <X size={28} />
           </button>
         </div>
 
-        <div className="p-6">
+        <div className="p-8">
           {/* Modo de Edição */}
-          <div className="flex gap-2 mb-4">
+          <div className="flex gap-3 mb-6">
             <button
               onClick={() => setMode('text')}
-              className={`px-4 py-2 rounded-lg ${
+              className={`px-6 py-3 rounded-xl font-bold text-lg transition-all duration-200 hover:scale-105 shadow-md ${
                 mode === 'text' 
-                  ? 'bg-blue-500 text-white' 
-                  : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                  ? 'bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg' 
+                  : 'bg-gray-100/80 backdrop-blur-sm text-gray-700 hover:bg-gray-200/80 border border-gray-200'
               }`}
             >
-              Modo Texto
+              📝 Modo Texto
             </button>
             <button
               onClick={() => setMode('table')}
-              className={`px-4 py-2 rounded-lg ${
+              className={`px-6 py-3 rounded-xl font-bold text-lg transition-all duration-200 hover:scale-105 shadow-md ${
                 mode === 'table' 
-                  ? 'bg-blue-500 text-white' 
-                  : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                  ? 'bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg' 
+                  : 'bg-gray-100/80 backdrop-blur-sm text-gray-700 hover:bg-gray-200/80 border border-gray-200'
               }`}
             >
-              Modo Tabela
+              📊 Modo Tabela
             </button>
           </div>
 
           {/* Ferramentas */}
-          <div className="flex flex-wrap gap-2 mb-4">
+          <div className="flex flex-wrap gap-3 mb-6">
             <button
               onClick={shuffleItems}
-              className="bg-purple-500 text-white px-3 py-1 rounded-lg hover:bg-purple-600 text-sm flex items-center gap-1"
+              className="bg-gradient-to-r from-purple-500 to-purple-600 text-white px-4 py-2 rounded-xl hover:from-purple-600 hover:to-purple-700 font-bold text-sm flex items-center gap-2 transition-all duration-200 hover:scale-105 shadow-md"
             >
-              <Shuffle size={14} />
+              <Shuffle size={16} />
               Embaralhar
             </button>
             
-            <label className="bg-green-500 text-white px-3 py-1 rounded-lg hover:bg-green-600 text-sm flex items-center gap-1 cursor-pointer">
-              <Upload size={14} />
+            <label className="bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-xl hover:from-green-600 hover:to-green-700 font-bold text-sm flex items-center gap-2 cursor-pointer transition-all duration-200 hover:scale-105 shadow-md">
+              <Upload size={16} />
               Importar
               <input
                 type="file"
@@ -144,60 +144,60 @@ export default function BulkEdit({ isOpen, onClose, items, onItemsChange }: Bulk
             
             <button
               onClick={handleExport}
-              className="bg-blue-500 text-white px-3 py-1 rounded-lg hover:bg-blue-600 text-sm flex items-center gap-1"
+              className="bg-gradient-to-r from-blue-500 to-blue-600 text-white px-4 py-2 rounded-xl hover:from-blue-600 hover:to-blue-700 font-bold text-sm flex items-center gap-2 transition-all duration-200 hover:scale-105 shadow-md"
             >
-              <Download size={14} />
+              <Download size={16} />
               Exportar
             </button>
             
             <button
               onClick={() => navigator.clipboard.writeText(textInput)}
-              className="bg-gray-500 text-white px-3 py-1 rounded-lg hover:bg-gray-600 text-sm flex items-center gap-1"
+              className="bg-gradient-to-r from-gray-500 to-gray-600 text-white px-4 py-2 rounded-xl hover:from-gray-600 hover:to-gray-700 font-bold text-sm flex items-center gap-2 transition-all duration-200 hover:scale-105 shadow-md"
             >
-              <Copy size={14} />
+              <Copy size={16} />
               Copiar
             </button>
             
             <button
               onClick={() => setTextInput('')}
-              className="bg-red-500 text-white px-3 py-1 rounded-lg hover:bg-red-600 text-sm flex items-center gap-1"
+              className="bg-gradient-to-r from-red-500 to-red-600 text-white px-4 py-2 rounded-xl hover:from-red-600 hover:to-red-700 font-bold text-sm flex items-center gap-2 transition-all duration-200 hover:scale-105 shadow-md"
             >
-              <Trash2 size={14} />
+              <Trash2 size={16} />
               Limpar
             </button>
           </div>
 
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             {/* Editor Principal */}
             <div className="lg:col-span-2">
               {mode === 'text' ? (
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Itens (um por linha):
+                  <label className="block text-lg font-bold text-gray-700 mb-4 leading-tight">
+                    📝 Itens (um por linha):
                   </label>
                   <textarea
                     value={textInput}
                     onChange={(e) => setTextInput(e.target.value)}
                     placeholder="Digite um item por linha...&#10;Exemplo:&#10;Pizza&#10;Hambúrguer&#10;Sushi&#10;Salada"
                     rows={20}
-                    className="w-full p-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none font-mono text-sm"
+                    className="w-full p-6 border border-gray-300 rounded-2xl focus:ring-2 focus:ring-blue-500 focus:border-blue-500 resize-none font-mono text-base bg-white/80 backdrop-blur-sm shadow-lg transition-all duration-200"
                   />
-                  <div className="mt-2 text-sm text-gray-500">
-                    Total: {textInput.split('\n').filter(item => item.trim()).length} itens
+                  <div className="mt-3 text-base font-bold text-blue-600 bg-blue-50/80 backdrop-blur-sm rounded-xl p-3 border border-blue-200">
+                    📊 Total: {textInput.split('\n').filter(item => item.trim()).length} itens
                   </div>
                 </div>
               ) : (
                 <div>
-                  <label className="block text-sm font-medium text-gray-700 mb-2">
-                    Edição em Tabela:
+                  <label className="block text-lg font-bold text-gray-700 mb-4 leading-tight">
+                    📊 Edição em Tabela:
                   </label>
-                  <div className="border border-gray-300 rounded-lg max-h-96 overflow-y-auto">
+                  <div className="border border-gray-300 rounded-2xl max-h-96 overflow-y-auto bg-white/80 backdrop-blur-sm shadow-lg">
                     <table className="w-full">
-                      <thead className="bg-gray-50">
+                      <thead className="bg-gray-100/80 backdrop-blur-sm">
                         <tr>
-                          <th className="px-4 py-2 text-left text-sm font-medium text-gray-700">#</th>
-                          <th className="px-4 py-2 text-left text-sm font-medium text-gray-700">Item</th>
-                          <th className="px-4 py-2 text-left text-sm font-medium text-gray-700">Ações</th>
+                          <th className="px-6 py-4 text-left text-base font-bold text-gray-700">#</th>
+                          <th className="px-6 py-4 text-left text-base font-bold text-gray-700">Item</th>
+                          <th className="px-6 py-4 text-left text-base font-bold text-gray-700">Ações</th>
                         </tr>
                       </thead>
                       <tbody>

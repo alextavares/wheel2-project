@@ -311,31 +311,32 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
       <div className="bg-white rounded-xl shadow-2xl max-w-6xl w-full max-h-[90vh] overflow-y-auto">
-        <div className="p-6 border-b border-gray-200">
-          <div className="flex justify-between items-center">
-            <h2 className="text-2xl font-bold text-gray-800 flex items-center gap-2">
-              <svg className="w-8 h-8 text-purple-500" fill="currentColor" viewBox="0 0 20 20">
-                <path fillRule="evenodd" d="M4 2a2 2 0 00-2 2v11a2 2 0 002 2h12a2 2 0 002-2V4a2 2 0 00-2-2H4zm0 2h12v11H4V4z" clipRule="evenodd" />
-              </svg>
-              Temas Avançados
-            </h2>
-            <div className="flex items-center gap-3">
-              <label className="flex items-center gap-2 text-sm">
-                <input
-                  type="checkbox"
-                  checked={previewMode}
-                  onChange={(e) => setPreviewMode(e.target.checked)}
-                  className="rounded"
-                />
-                Pré-visualização
-              </label>
-              <button
-                onClick={onClose}
-                className="text-gray-500 hover:text-gray-700 text-2xl font-bold"
-              >
-                ×
-              </button>
+        <div className="flex items-center justify-between p-8 border-b border-gray-200 bg-gradient-to-r from-purple-50 to-indigo-50">
+          <div className="flex items-center gap-4">
+            <div className="text-4xl drop-shadow-sm">🎨</div>
+            <div>
+              <h2 className="text-2xl font-bold text-gray-800 tracking-tight">Temas Avançados</h2>
+              <p className="text-base text-gray-600 font-medium">Personalize a aparência da sua roda</p>
             </div>
+          </div>
+          
+          <div className="flex items-center gap-4">
+            <label className="flex items-center gap-3 text-sm text-gray-700 font-medium cursor-pointer hover:text-purple-600 transition-colors">
+              <input
+                type="checkbox"
+                checked={previewMode}
+                onChange={(e) => setPreviewMode(e.target.checked)}
+                className="rounded-md w-4 h-4 text-purple-600 focus:ring-purple-500 focus:ring-2"
+              />
+              Pré-visualização
+            </label>
+            
+            <button
+              onClick={onClose}
+              className="p-3 hover:bg-white hover:shadow-md rounded-xl transition-all duration-200 text-gray-500 hover:text-gray-700 text-2xl font-bold"
+            >
+              ×
+            </button>
           </div>
         </div>
 
@@ -343,16 +344,16 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             {/* Lista de Temas */}
             <div className="lg:col-span-2">
-              <div className="flex justify-between items-center mb-4">
-                <h3 className="text-lg font-semibold text-gray-800">Temas Disponíveis</h3>
-                <div className="flex gap-2">
+              <div className="flex justify-between items-center mb-6">
+                <h3 className="text-xl font-bold text-gray-800 tracking-tight">Temas Disponíveis</h3>
+                <div className="flex gap-3">
                   <button
                     onClick={createCustomTheme}
-                    className="px-4 py-2 bg-purple-500 hover:bg-purple-600 text-white rounded-lg text-sm font-medium transition-colors"
+                    className="px-6 py-3 bg-gradient-to-r from-purple-500 to-purple-600 text-white font-semibold rounded-xl hover:from-purple-600 hover:to-purple-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105"
                   >
                     Criar Personalizado
                   </button>
-                  <label className="px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg text-sm font-medium cursor-pointer transition-colors">
+                  <label className="px-6 py-3 bg-gradient-to-r from-blue-500 to-blue-600 text-white font-semibold rounded-xl hover:from-blue-600 hover:to-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105 cursor-pointer">
                     Importar
                     <input
                       type="file"
@@ -364,38 +365,53 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
                 </div>
               </div>
 
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {defaultThemes.map((theme) => (
                   <div
                     key={theme.id}
                     onClick={() => applyTheme(theme)}
-                    className={`p-4 rounded-lg border-2 cursor-pointer transition-all hover:shadow-lg ${
+                    className={`p-6 rounded-xl border-2 cursor-pointer transition-all duration-200 hover:shadow-xl transform hover:scale-105 ${
                       selectedTheme.id === theme.id
-                        ? 'border-purple-500 bg-purple-50'
-                        : 'border-gray-200 hover:border-gray-300'
+                        ? 'border-purple-500 bg-gradient-to-br from-purple-50 to-purple-100 shadow-lg'
+                        : 'border-gray-200 hover:border-purple-300 bg-white hover:bg-gradient-to-br hover:from-gray-50 hover:to-gray-100'
                     }`}
                   >
-                    <div className="flex items-center gap-3 mb-3">
-                      <div className="text-2xl">{theme.preview}</div>
-                      <div>
-                        <h4 className="font-semibold text-gray-800">{theme.name}</h4>
-                        <p className="text-sm text-gray-600">{theme.description}</p>
+                    <div className="flex items-center gap-4 mb-4">
+                      <div className="text-3xl drop-shadow-sm">{theme.preview}</div>
+                      <div className="flex-1">
+                        <h4 className="text-lg font-bold text-gray-800 tracking-tight">{theme.name}</h4>
+                        <p className="text-sm text-gray-600 font-medium leading-relaxed">{theme.description}</p>
                       </div>
                     </div>
                     
                     {/* Preview das cores */}
-                    <div className="flex gap-1 mb-2">
+                    <div className="flex gap-2 mb-4">
                       {theme.colors.segmentColors.slice(0, 6).map((color, index) => (
                         <div
                           key={index}
-                          className="w-6 h-6 rounded-full border border-gray-300"
+                          className="w-8 h-8 rounded-lg border-2 border-white shadow-md"
                           style={{ backgroundColor: color }}
                         />
                       ))}
                     </div>
                     
-                    <div className="text-xs text-gray-500">
-                      {theme.fonts.primary.split(',')[0]} • {theme.effects.gradients ? 'Gradientes' : 'Sólido'}
+                    <div className="flex items-center justify-between">
+                      <div className="text-xs text-gray-500 font-medium uppercase tracking-wider">
+                        {theme.fonts.primary.split(',')[0]}
+                      </div>
+                      <div className="flex gap-2">
+                        {Object.entries(theme.effects)
+                          .filter(([_, value]) => value)
+                          .slice(0, 2)
+                          .map(([key]) => (
+                            <span
+                              key={key}
+                              className="px-3 py-1 bg-purple-100 text-purple-700 text-xs font-semibold rounded-full capitalize"
+                            >
+                              {key}
+                            </span>
+                          ))}
+                      </div>
                     </div>
                   </div>
                 ))}
@@ -403,71 +419,75 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
                 {customTheme && (
                   <div
                     onClick={() => applyTheme(customTheme)}
-                    className={`p-4 rounded-lg border-2 cursor-pointer transition-all hover:shadow-lg ${
+                    className={`p-6 rounded-xl border-2 cursor-pointer transition-all duration-200 hover:shadow-xl transform hover:scale-105 ${
                       selectedTheme.id === customTheme.id
-                        ? 'border-purple-500 bg-purple-50'
-                        : 'border-gray-200 hover:border-gray-300'
+                        ? 'border-purple-500 bg-gradient-to-br from-purple-50 to-purple-100 shadow-lg'
+                        : 'border-gray-200 hover:border-purple-300 bg-white hover:bg-gradient-to-br hover:from-gray-50 hover:to-gray-100'
                     }`}
                   >
-                    <div className="flex items-center gap-3 mb-3">
-                      <div className="text-2xl">🎨</div>
-                      <div>
-                        <h4 className="font-semibold text-gray-800">{customTheme.name}</h4>
-                        <p className="text-sm text-gray-600">{customTheme.description}</p>
+                    <div className="flex items-center gap-4 mb-4">
+                      <div className="text-3xl drop-shadow-sm">🎨</div>
+                      <div className="flex-1">
+                        <h4 className="text-lg font-bold text-gray-800 tracking-tight">{customTheme.name}</h4>
+                        <p className="text-sm text-gray-600 font-medium leading-relaxed">{customTheme.description}</p>
                       </div>
                     </div>
                     
-                    <div className="flex gap-1 mb-2">
+                    <div className="flex gap-2 mb-4">
                       {customTheme.colors.segmentColors.slice(0, 6).map((color, index) => (
                         <div
                           key={index}
-                          className="w-6 h-6 rounded-full border border-gray-300"
+                          className="w-8 h-8 rounded-lg border-2 border-white shadow-md"
                           style={{ backgroundColor: color }}
                         />
                       ))}
                     </div>
                     
-                    <div className="text-xs text-purple-600 font-medium">Personalizado</div>
+                    <div className="text-xs text-purple-600 font-bold uppercase tracking-wider bg-purple-100 px-3 py-1 rounded-full inline-block">
+                      Personalizado
+                    </div>
                   </div>
                 )}
               </div>
             </div>
 
             {/* Painel de Customização */}
-            <div className="space-y-6">
+            <div className="space-y-8">
               <div>
-                <h3 className="text-lg font-semibold text-gray-800 mb-4">
+                <h3 className="text-xl font-bold text-gray-800 tracking-tight mb-6">
                   {isCreatingCustom ? 'Personalizar Tema' : 'Detalhes do Tema'}
                 </h3>
                 
                 {isCreatingCustom && customTheme ? (
-                  <div className="space-y-4">
+                  <div className="space-y-6">
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-bold text-gray-700 mb-3 tracking-wide">
                         Nome do Tema
                       </label>
                       <input
                         type="text"
                         value={customTheme.name}
                         onChange={(e) => updateCustomTheme({ name: e.target.value })}
-                        className="w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent"
+                        className="w-full p-4 border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-purple-500 focus:border-purple-500 transition-all duration-200 font-medium text-gray-800 placeholder-gray-400"
+                        placeholder="Digite o nome do tema..."
                       />
                     </div>
 
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-bold text-gray-700 mb-3 tracking-wide">
                         Descrição
                       </label>
                       <input
                         type="text"
                         value={customTheme.description}
                         onChange={(e) => updateCustomTheme({ description: e.target.value })}
-                        className="w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent"
+                        className="w-full p-4 border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-purple-500 focus:border-purple-500 transition-all duration-200 font-medium text-gray-800 placeholder-gray-400"
+                        placeholder="Descreva seu tema..."
                       />
                     </div>
 
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-bold text-gray-700 mb-3 tracking-wide">
                         Cor Principal
                       </label>
                       <input
@@ -476,12 +496,12 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
                         onChange={(e) => updateCustomTheme({
                           colors: { ...customTheme.colors, primary: e.target.value }
                         })}
-                        className="w-full h-10 border border-gray-300 rounded-lg"
+                        className="w-full h-12 border-2 border-gray-300 rounded-xl cursor-pointer hover:border-purple-400 transition-colors"
                       />
                     </div>
 
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-bold text-gray-700 mb-3 tracking-wide">
                         Cor de Fundo
                       </label>
                       <input
@@ -490,12 +510,12 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
                         onChange={(e) => updateCustomTheme({
                           colors: { ...customTheme.colors, background: e.target.value }
                         })}
-                        className="w-full h-10 border border-gray-300 rounded-lg"
+                        className="w-full h-12 border-2 border-gray-300 rounded-xl cursor-pointer hover:border-purple-400 transition-colors"
                       />
                     </div>
 
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-bold text-gray-700 mb-3 tracking-wide">
                         Fonte Principal
                       </label>
                       <select
@@ -503,7 +523,7 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
                         onChange={(e) => updateCustomTheme({
                           fonts: { ...customTheme.fonts, primary: e.target.value }
                         })}
-                        className="w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent"
+                        className="w-full p-4 border-2 border-gray-300 rounded-xl focus:ring-2 focus:ring-purple-500 focus:border-purple-500 transition-all duration-200 font-medium text-gray-800 bg-white"
                       >
                         <option value="Inter, sans-serif">Inter</option>
                         <option value="Poppins, sans-serif">Poppins</option>
@@ -514,40 +534,40 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
                     </div>
 
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-bold text-gray-700 mb-4 tracking-wide">
                         Efeitos
                       </label>
-                      <div className="space-y-2">
+                      <div className="space-y-3">
                         {Object.entries(customTheme.effects).map(([key, value]) => (
-                          <label key={key} className="flex items-center gap-2">
+                          <label key={key} className="flex items-center gap-3 p-3 rounded-lg hover:bg-gray-50 transition-colors cursor-pointer">
                             <input
                               type="checkbox"
                               checked={value}
                               onChange={(e) => updateCustomTheme({
                                 effects: { ...customTheme.effects, [key]: e.target.checked }
                               })}
-                              className="rounded"
+                              className="rounded-md w-5 h-5 text-purple-600 focus:ring-purple-500 focus:ring-2"
                             />
-                            <span className="text-sm capitalize">{key}</span>
+                            <span className="text-sm font-medium text-gray-700 capitalize">{key}</span>
                           </label>
                         ))}
                       </div>
                     </div>
                   </div>
                 ) : (
-                  <div className="space-y-4">
+                  <div className="space-y-6">
                     <div>
-                      <h4 className="font-medium text-gray-800 mb-2">{selectedTheme.name}</h4>
-                      <p className="text-sm text-gray-600 mb-4">{selectedTheme.description}</p>
+                      <h4 className="text-lg font-bold text-gray-800 mb-3 tracking-tight">{selectedTheme.name}</h4>
+                      <p className="text-sm text-gray-600 mb-6 font-medium leading-relaxed">{selectedTheme.description}</p>
                     </div>
 
                     <div>
-                      <h5 className="text-sm font-medium text-gray-700 mb-2">Paleta de Cores</h5>
-                      <div className="grid grid-cols-4 gap-2">
+                      <h5 className="text-sm font-bold text-gray-700 mb-4 tracking-wide uppercase">Paleta de Cores</h5>
+                      <div className="grid grid-cols-4 gap-3">
                         {selectedTheme.colors.segmentColors.map((color, index) => (
                           <div
                             key={index}
-                            className="w-full h-8 rounded border border-gray-300"
+                            className="w-full h-12 rounded-lg border-2 border-white shadow-md hover:scale-105 transition-transform cursor-pointer"
                             style={{ backgroundColor: color }}
                             title={color}
                           />
@@ -556,19 +576,19 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
                     </div>
 
                     <div>
-                      <h5 className="text-sm font-medium text-gray-700 mb-2">Tipografia</h5>
-                      <p className="text-sm text-gray-600">{selectedTheme.fonts.primary}</p>
+                      <h5 className="text-sm font-bold text-gray-700 mb-3 tracking-wide uppercase">Tipografia</h5>
+                      <p className="text-sm text-gray-600 font-medium bg-gray-50 p-3 rounded-lg">{selectedTheme.fonts.primary}</p>
                     </div>
 
                     <div>
-                      <h5 className="text-sm font-medium text-gray-700 mb-2">Efeitos Ativos</h5>
-                      <div className="flex flex-wrap gap-2">
+                      <h5 className="text-sm font-bold text-gray-700 mb-4 tracking-wide uppercase">Efeitos Ativos</h5>
+                      <div className="flex flex-wrap gap-3">
                         {Object.entries(selectedTheme.effects)
                           .filter(([_, value]) => value)
                           .map(([key]) => (
                             <span
                               key={key}
-                              className="px-2 py-1 bg-purple-100 text-purple-700 text-xs rounded-full capitalize"
+                              className="px-4 py-2 bg-gradient-to-r from-purple-100 to-purple-200 text-purple-700 text-xs font-bold rounded-full capitalize tracking-wide"
                             >
                               {key}
                             </span>
@@ -580,17 +600,17 @@ export function AdvancedThemes({ currentTheme, onThemeChange, onClose }: Advance
               </div>
 
               {/* Ações */}
-              <div className="space-y-3">
+              <div className="space-y-4">
                 <button
                   onClick={saveTheme}
-                  className="w-full py-3 bg-gradient-to-r from-purple-500 to-purple-600 text-white font-bold rounded-lg hover:from-purple-600 hover:to-purple-700 transition-all"
+                  className="w-full py-4 bg-gradient-to-r from-purple-500 to-purple-600 text-white font-bold text-lg rounded-xl hover:from-purple-600 hover:to-purple-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105"
                 >
                   Aplicar Tema
                 </button>
                 
                 <button
                   onClick={exportTheme}
-                  className="w-full py-2 bg-gray-500 hover:bg-gray-600 text-white font-medium rounded-lg transition-colors"
+                  className="w-full py-3 bg-gradient-to-r from-gray-500 to-gray-600 hover:from-gray-600 hover:to-gray-700 text-white font-semibold rounded-xl transition-all duration-200 shadow-md hover:shadow-lg transform hover:scale-105"
                 >
                   Exportar Tema
                 </button>

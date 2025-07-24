@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://wheelmaker.app/sitemap-index.xml
+Sitemap: https://wheelmaker.app/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /api/internal/
+Disallow: /_next/
+Disallow: /static/
+
+# Allow important pages
+Allow: /wheel/
+Allow: /category/
+Allow: /api/og/

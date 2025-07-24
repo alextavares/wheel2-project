@@ -105,7 +105,9 @@ export const BulkImport: React.FC<BulkImportProps> = ({ onImport, onClose }) => 
             }
           } else if (data.items && Array.isArray(data.items)) {
             // Formato de configuração de roda
-            const labels = data.items.map((item: any) => item.label || item.name || item);
+            const labels = data.items.map((item: { label?: string; name?: string } | string) => 
+            typeof item === 'string' ? item : (item.label || item.name || '')
+          );
             setImportText(labels.join('\n'));
           }
         }

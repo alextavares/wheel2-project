@@ -1,9 +1,15 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import ConfettiEffect from './ConfettiEffect';
 import { ShareSystem } from './ShareSystem';
 import { AdvancedSettings } from './AdvancedSettings';
+
+// Interface para Window estendido
+interface ExtendedWindow extends Window {
+  webkitAudioContext?: typeof AudioContext;
+  playSpinSound?: () => void;
+}
 
 interface WheelItem {
   id: string;
@@ -59,7 +65,11 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
     // Som de giro usando Web Audio API
     const createSpinSound = () => {
       if (typeof window !== 'undefined' && 'AudioContext' in window) {
-        const audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+        const extendedWindow = window as ExtendedWindow;
+        const AudioContextClass = window.AudioContext || extendedWindow.webkitAudioContext;
+        if (!AudioContextClass) return () => {};
+        
+        const audioContext = new AudioContextClass();
         
         const playSpinSound = () => {
           if (!advancedSettings.sound.enabled || !advancedSettings.sound.spinSound) return;
@@ -86,7 +96,10 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
     };
 
     const spinSoundFunction = createSpinSound();
-    (window as any).playSpinSound = spinSoundFunction;
+    if (typeof window !== 'undefined') {
+      const extendedWindow = window as ExtendedWindow;
+      extendedWindow.playSpinSound = spinSoundFunction;
+    }
   }, [advancedSettings.sound]);
 
   const spin = () => {
@@ -97,8 +110,11 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
     setSpinCount(prev => prev + 1);
     
     // Tocar som de giro
-    if ((window as any).playSpinSound) {
-      (window as any).playSpinSound();
+    if (typeof window !== 'undefined') {
+      const extendedWindow = window as ExtendedWindow;
+      if (extendedWindow.playSpinSound) {
+        extendedWindow.playSpinSound();
+      }
     }
 
     // Adicionar efeito de vibração no mobile
@@ -127,7 +143,11 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
       
       // Som de vitória
       if (advancedSettings.sound.enabled && advancedSettings.sound.winSound && typeof window !== 'undefined' && 'AudioContext' in window) {
-        const audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+        const extendedWindow = window as ExtendedWindow;
+        const AudioContextClass = window.AudioContext || extendedWindow.webkitAudioContext;
+        if (!AudioContextClass) return;
+        
+        const audioContext = new AudioContextClass();
         const playWinSound = () => {
           // Sequência de notas para som de vitória
           const notes = [261.63, 329.63, 392.00, 523.25]; // C4, E4, G4, C5
@@ -175,39 +195,39 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
       <div className="flex flex-col items-center gap-6">
         {/* Contador de giros e resultado */}
         <div className="text-center">
-          <div className="flex items-center justify-center gap-4 mb-2">
-            <div className="px-4 py-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-full text-sm font-bold shadow-lg">
-              Giros: {spinCount}
+          <div className="flex items-center justify-center gap-4 mb-3">
+            <div className="px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-full text-sm font-bold shadow-lg backdrop-blur-sm border border-white/20">
+              <span className="font-semibold">Giros:</span> <span className="font-bold text-lg">{spinCount}</span>
             </div>
             {lastResult && lastResult.label && (
-              <div className="px-4 py-2 bg-gradient-to-r from-green-500 to-emerald-500 text-white rounded-full text-sm font-bold shadow-lg animate-pulse">
-                Último: {lastResult.label}
+              <div className="px-6 py-3 bg-gradient-to-r from-green-500 to-emerald-500 text-white rounded-full text-sm font-bold shadow-lg animate-pulse backdrop-blur-sm border border-white/20">
+                <span className="font-semibold">Último:</span> <span className="font-bold text-lg">{lastResult.label}</span>
               </div>
             )}
           </div>
         </div>
 
         {/* Botões de ação */}
-        <div className="flex gap-3 mb-4">
+        <div className="flex gap-4 mb-6">
           <button
             onClick={() => setShowShareSystem(true)}
-            className="px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg font-medium transition-colors duration-200 flex items-center gap-2"
+            className="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-xl font-semibold transition-all duration-200 flex items-center gap-3 shadow-lg hover:shadow-xl transform hover:scale-105 active:scale-95 backdrop-blur-sm border border-white/20"
           >
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.367 2.684 3 3 0 00-5.367-2.684z" />
             </svg>
-            Compartilhar
+            <span className="font-bold">Compartilhar</span>
           </button>
           
           <button
             onClick={() => setShowAdvancedSettings(true)}
-            className="px-4 py-2 bg-gray-500 hover:bg-gray-600 text-white rounded-lg font-medium transition-colors duration-200 flex items-center gap-2"
+            className="px-6 py-3 bg-gray-500 hover:bg-gray-600 text-white rounded-xl font-semibold transition-all duration-200 flex items-center gap-3 shadow-lg hover:shadow-xl transform hover:scale-105 active:scale-95 backdrop-blur-sm border border-white/20"
           >
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
             </svg>
-            Configurações
+            <span className="font-bold">Configurações</span>
           </button>
         </div>
 
@@ -270,19 +290,21 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
                               left: `${textX}%`,
                               top: `${textY}%`,
                               transform: `translate(-50%, -50%) rotate(${textAngle}deg)`,
-                              fontSize: `${Math.max(11, Math.min(16, size / 22))}px`,
-                              textShadow: '3px 3px 6px rgba(0,0,0,0.9), 2px 2px 4px rgba(0,0,0,0.7), 0 0 8px rgba(0,0,0,0.6)',
+                              fontSize: `${Math.max(12, Math.min(18, size / 20))}px`,
+                              textShadow: '3px 3px 8px rgba(0,0,0,0.9), 2px 2px 6px rgba(0,0,0,0.8), 1px 1px 4px rgba(0,0,0,0.7), 0 0 10px rgba(0,0,0,0.6)',
                               maxWidth: `${parseFloat((size / 4).toFixed(2))}px`,
                               wordWrap: 'break-word',
                               zIndex: 22,
-                              lineHeight: '1.1',
-                              fontWeight: '800',
+                              lineHeight: '1.2',
+                              fontWeight: '900',
                               color: '#ffffff',
-                              WebkitTextStroke: '1.2px rgba(0,0,0,0.8)',
+                              WebkitTextStroke: '1.5px rgba(0,0,0,0.9)',
                               textAlign: 'center',
                               whiteSpace: 'nowrap',
                               overflow: 'hidden',
                               textOverflow: 'ellipsis',
+                              fontFamily: 'var(--font-poppins), system-ui, -apple-system, sans-serif',
+                              letterSpacing: '0.02em',
                             }}
                           >
                             {item.label}
@@ -306,19 +328,36 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
         <button
           onClick={spin}
           disabled={isSpinning || items.length === 0}
-          className={`px-8 py-4 text-xl font-bold rounded-full transition-all duration-300 transform ${
+          className={`px-12 py-5 text-2xl font-bold rounded-2xl transition-all duration-300 transform shadow-2xl ${
             isSpinning || items.length === 0
-              ? 'bg-gray-400 cursor-not-allowed'
-              : 'bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 hover:scale-105 active:scale-95 shadow-lg hover:shadow-xl'
-          } text-white`}
+              ? 'bg-gray-400 cursor-not-allowed text-gray-600'
+              : 'bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 hover:scale-110 active:scale-95 shadow-lg hover:shadow-2xl text-white'
+          } backdrop-blur-sm border-2 border-white/30 font-black tracking-wide`}
+          style={{
+            textShadow: isSpinning || items.length === 0 ? 'none' : '2px 2px 4px rgba(0,0,0,0.3)',
+            letterSpacing: '0.1em'
+          }}
         >
-          {isSpinning ? 'Girando...' : 'GIRAR!'}
+          {isSpinning ? (
+            <span className="flex items-center gap-3">
+              <div className="w-6 h-6 border-3 border-white border-t-transparent rounded-full animate-spin"></div>
+              GIRANDO...
+            </span>
+          ) : (
+            'GIRAR!'
+          )}
         </button>
 
         {items.length === 0 && (
-          <p className="text-gray-500 text-center">
-            Adicione itens à roda para começar a girar!
-          </p>
+          <div className="text-center py-8 px-6 bg-white/90 backdrop-blur-sm rounded-2xl shadow-xl border border-white/50 max-w-md">
+            <div className="text-4xl mb-4">🎯</div>
+            <p className="text-gray-700 text-lg font-semibold leading-relaxed">
+              Adicione itens à roda para começar a girar!
+            </p>
+            <p className="text-gray-500 text-sm mt-2 font-medium">
+              Use o painel lateral para criar sua roda personalizada
+            </p>
+          </div>
         )}
       </div>
 
@@ -326,7 +365,7 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
       {showShareSystem && (
         <ShareSystem
           items={items}
-          wheelTitle="Minha Roda"
+          wheelTitle="Minha Roda da Sorte"
           onClose={() => setShowShareSystem(false)}
         />
       )}

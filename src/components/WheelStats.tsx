@@ -1,7 +1,7 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { BarChart3, Trophy, Target, Clock, TrendingUp } from 'lucide-react';
+import React, { useState, useEffect, useMemo } from 'react';
+import { BarChart3, Target, Clock, Trophy, TrendingUp } from 'lucide-react';
 
 interface SpinResult {
   id: string;
@@ -19,18 +19,20 @@ interface WheelStatsProps {
 
 export default function WheelStats({ isOpen, onClose, currentResult, wheelItems }: WheelStatsProps) {
   const [spinHistory, setSpinHistory] = useState<SpinResult[]>([]);
-  const [totalSpins, setTotalSpins] = useState(0);
+
+  // Calcular totalSpins usando useMemo para evitar re-renders
+  const totalSpins = useMemo(() => spinHistory.length, [spinHistory]);
 
   useEffect(() => {
     // Carregar histórico do localStorage
     const savedHistory = localStorage.getItem('wheelSpinHistory');
     if (savedHistory) {
-      const parsed = JSON.parse(savedHistory).map((item: any) => ({
-        ...item,
-        timestamp: new Date(item.timestamp)
-      }));
-      setSpinHistory(parsed);
-      setTotalSpins(parsed.length);
+      try {
+        const parsedHistory = JSON.parse(savedHistory);
+        setSpinHistory(parsedHistory);
+      } catch (error) {
+        console.error('Erro ao carregar histórico:', error);
+      }
     }
   }, []);
 
@@ -43,12 +45,14 @@ export default function WheelStats({ isOpen, onClose, currentResult, wheelItems 
         wheelItems: [...wheelItems]
       };
 
-      const updatedHistory = [newResult, ...spinHistory].slice(0, 50); // Manter apenas os últimos 50
-      setSpinHistory(updatedHistory);
-      setTotalSpins(updatedHistory.length);
-
-      // Salvar no localStorage
-      localStorage.setItem('wheelSpinHistory', JSON.stringify(updatedHistory));
+      setSpinHistory(prevHistory => {
+        const updatedHistory = [newResult, ...prevHistory].slice(0, 50); // Manter apenas os últimos 50
+        
+        // Salvar no localStorage
+        localStorage.setItem('wheelSpinHistory', JSON.stringify(updatedHistory));
+        
+        return updatedHistory;
+      });
     }
   }, [currentResult, wheelItems]);
 
@@ -73,7 +77,6 @@ export default function WheelStats({ isOpen, onClose, currentResult, wheelItems 
 
   const clearHistory = () => {
     setSpinHistory([]);
-    setTotalSpins(0);
     localStorage.removeItem('wheelSpinHistory');
   };
 
@@ -205,7 +208,7 @@ export default function WheelStats({ isOpen, onClose, currentResult, wheelItems 
               <div className="text-center py-8 text-gray-500">
                 <Target size={48} className="mx-auto mb-4 opacity-50" />
                 <p>Nenhum giro registrado ainda</p>
-                <p className="text-sm">Gire a roda para ver suas estatísticas!</p>
+                <p>Gire a roda para ver suas estatísticas!</p>
               </div>
             ) : (
               <div className="bg-gray-50 rounded-xl p-4 max-h-64 overflow-y-auto">

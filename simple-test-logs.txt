@@ -1,0 +1,18 @@
+[2025-07-22T13:40:55.234Z] 🔍 Teste simples de geração...
+[2025-07-22T13:40:55.243Z] 1. Criando diretório: ./src/simple-test-output
+[2025-07-22T13:40:55.244Z] ✅ Diretório principal criado
+[2025-07-22T13:40:55.248Z] 2. Criando subdiretório: src\simple-test-output\wheels
+[2025-07-22T13:40:55.249Z] ✅ Subdiretório wheels criado
+[2025-07-22T13:40:55.250Z] 2. Criando subdiretório: src\simple-test-output\categories
+[2025-07-22T13:40:55.252Z] ✅ Subdiretório categories criado
+[2025-07-22T13:40:55.255Z] 2. Criando subdiretório: src\simple-test-output\sitemaps
+[2025-07-22T13:40:55.257Z] ✅ Subdiretório sitemaps criado
+[2025-07-22T13:40:55.259Z] 3. Criando arquivo de teste...
+[2025-07-22T13:40:55.260Z] ✅ Arquivo de teste criado
+[2025-07-22T13:40:55.262Z] 4. Verificando estrutura criada...
+[2025-07-22T13:40:55.263Z] 📁 Conteúdo do diretório: categories, sitemaps, test.html, wheels
+[2025-07-22T13:40:55.265Z] 📂 categories/: 0 itens
+[2025-07-22T13:40:55.266Z] 📂 sitemaps/: 0 itens
+[2025-07-22T13:40:55.266Z] 📄 test.html: 175 bytes
+[2025-07-22T13:40:55.267Z] 📂 wheels/: 0 itens
+[2025-07-22T13:40:55.275Z] 🎉 Teste simples concluído com sucesso!

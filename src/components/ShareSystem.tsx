@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { WheelItem } from '@/types/wheel';
 
 interface ShareSystemProps {
@@ -21,11 +21,7 @@ export const ShareSystem: React.FC<ShareSystemProps> = ({
   const [shareMethod, setShareMethod] = useState<'url' | 'embed' | 'qr' | 'social'>('url');
 
   // Gerar URL de compartilhamento
-  useEffect(() => {
-    generateShareUrl();
-  }, [items, wheelTitle]);
-
-  const generateShareUrl = async () => {
+  const generateShareUrl = useCallback(async () => {
     setIsGenerating(true);
     
     try {
@@ -50,33 +46,69 @@ export const ShareSystem: React.FC<ShareSystemProps> = ({
       
       setShareUrl(url);
       
-      // Gerar QR Code usando API pública
-      const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(url)}`;
-      setQrCodeUrl(qrUrl);
+      // Gerar QR Code usando API pública com fallback
+      try {
+        const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(url)}`;
+        
+        // Testar se a imagem carrega
+        const img = new Image();
+        img.onload = () => setQrCodeUrl(qrUrl);
+        img.onerror = () => {
+          // Fallback para outra API de QR Code
+          const fallbackUrl = `https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=${encodeURIComponent(url)}`;
+          setQrCodeUrl(fallbackUrl);
+        };
+        img.src = qrUrl;
+      } catch (error) {
+        console.error('Erro ao gerar QR Code:', error);
+        // Usar API alternativa como fallback
+        const fallbackUrl = `https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=${encodeURIComponent(url)}`;
+        setQrCodeUrl(fallbackUrl);
+      }
       
     } catch (error) {
       console.error('Erro ao gerar URL de compartilhamento:', error);
     } finally {
       setIsGenerating(false);
     }
-  };
+  }, [items, wheelTitle]);
+
+  useEffect(() => {
+    generateShareUrl();
+  }, [generateShareUrl]);
 
   // Copiar para clipboard
   const copyToClipboard = async (text: string) => {
     try {
-      await navigator.clipboard.writeText(text);
-      setCopySuccess(true);
-      setTimeout(() => setCopySuccess(false), 2000);
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+        setCopySuccess(true);
+        setTimeout(() => setCopySuccess(false), 2000);
+      } else {
+        // Fallback para navegadores mais antigos ou contextos não seguros
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.style.position = 'fixed';
+        textArea.style.left = '-999999px';
+        textArea.style.top = '-999999px';
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+        
+        const successful = document.execCommand('copy');
+        document.body.removeChild(textArea);
+        
+        if (successful) {
+          setCopySuccess(true);
+          setTimeout(() => setCopySuccess(false), 2000);
+        } else {
+          throw new Error('Falha ao copiar usando fallback');
+        }
+      }
     } catch (error) {
-      // Fallback para navegadores mais antigos
-      const textArea = document.createElement('textarea');
-      textArea.value = text;
-      document.body.appendChild(textArea);
-      textArea.select();
-      document.execCommand('copy');
-      document.body.removeChild(textArea);
-      setCopySuccess(true);
-      setTimeout(() => setCopySuccess(false), 2000);
+      console.error('Erro ao copiar para área de transferência:', error);
+      // Mostrar erro para o usuário
+      alert('Erro ao copiar para área de transferência. Tente selecionar e copiar manualmente.');
     }
   };
 
@@ -94,40 +126,91 @@ export const ShareSystem: React.FC<ShareSystemProps> = ({
 
   // Compartilhar em redes sociais
   const shareToSocial = (platform: string) => {
-    const text = `Confira esta roda de decisões: "${wheelTitle}"`;
-    const url = shareUrl;
-    
-    let shareLink = '';
-    
-    switch (platform) {
-      case 'twitter':
-        shareLink = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
-        break;
-      case 'facebook':
-        shareLink = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
-        break;
-      case 'linkedin':
-        shareLink = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`;
-        break;
-      case 'whatsapp':
-        shareLink = `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`;
-        break;
-      case 'telegram':
-        shareLink = `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
-        break;
-    }
-    
-    if (shareLink) {
-      window.open(shareLink, '_blank', 'width=600,height=400');
+    try {
+      if (!shareUrl) {
+        alert('URL de compartilhamento ainda não foi gerada. Aguarde um momento.');
+        return;
+      }
+
+      const text = `Confira esta roda de decisões: "${wheelTitle}"`;
+      const url = shareUrl;
+      
+      let shareLink = '';
+      
+      switch (platform) {
+        case 'twitter':
+          shareLink = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+          break;
+        case 'facebook':
+          shareLink = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+          break;
+        case 'linkedin':
+          shareLink = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`;
+          break;
+        case 'whatsapp':
+          shareLink = `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`;
+          break;
+        case 'telegram':
+          shareLink = `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
+          break;
+        default:
+          alert('Plataforma de compartilhamento não suportada.');
+          return;
+      }
+      
+      if (shareLink) {
+        // Tentar usar navigator.share primeiro (para dispositivos móveis)
+        if (navigator.share && /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+          navigator.share({
+            title: wheelTitle,
+            text: text,
+            url: url
+          }).catch(() => {
+            // Fallback para abrir em nova janela
+            window.open(shareLink, '_blank', 'width=600,height=400,scrollbars=yes,resizable=yes');
+          });
+        } else {
+          // Abrir em nova janela para desktop
+          const popup = window.open(shareLink, '_blank', 'width=600,height=400,scrollbars=yes,resizable=yes');
+          if (!popup) {
+            alert('Pop-up bloqueado. Por favor, permita pop-ups para este site ou copie o link manualmente.');
+          }
+        }
+      }
+    } catch (error) {
+      console.error('Erro ao compartilhar em rede social:', error);
+      alert('Erro ao abrir compartilhamento. Tente copiar o link manualmente.');
     }
   };
 
   // Baixar QR Code
-  const downloadQRCode = () => {
-    const link = document.createElement('a');
-    link.href = qrCodeUrl;
-    link.download = `qr-code-${wheelTitle.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.png`;
-    link.click();
+  const downloadQRCode = async () => {
+    try {
+      if (!qrCodeUrl) {
+        alert('QR Code ainda não foi gerado. Aguarde um momento.');
+        return;
+      }
+
+      // Tentar download direto primeiro
+      const link = document.createElement('a');
+      link.href = qrCodeUrl;
+      link.download = `qr-code-${wheelTitle.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.png`;
+      link.target = '_blank';
+      
+      // Para alguns navegadores, precisamos adicionar o link ao DOM
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      
+    } catch (error) {
+      console.error('Erro ao baixar QR Code:', error);
+      // Fallback: abrir em nova aba
+      try {
+        window.open(qrCodeUrl, '_blank');
+      } catch (fallbackError) {
+        alert('Não foi possível baixar o QR Code automaticamente. Clique com o botão direito na imagem e selecione "Salvar imagem como..."');
+      }
+    }
   };
 
   return (
@@ -144,7 +227,7 @@ export const ShareSystem: React.FC<ShareSystemProps> = ({
               </div>
               <div>
                 <h2 className="text-2xl font-bold">Compartilhar Roda</h2>
-                <p className="opacity-90">"{wheelTitle}"</p>
+                <p className="opacity-90">&quot;{wheelTitle}&quot;</p>
               </div>
             </div>
             <button
@@ -357,7 +440,7 @@ export const ShareSystem: React.FC<ShareSystemProps> = ({
               <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
                 <h4 className="font-medium text-gray-800 mb-2">📝 Preview da Mensagem:</h4>
                 <div className="bg-white p-3 rounded border text-sm">
-                  <p className="font-medium">Confira esta roda de decisões: "{wheelTitle}"</p>
+                  <p className="font-medium">Confira esta roda de decisões: &quot;{wheelTitle}&quot;</p>
                   <p className="text-gray-600 mt-1">
                     {items.length} opções • Clique para girar e descobrir o resultado!
                   </p>

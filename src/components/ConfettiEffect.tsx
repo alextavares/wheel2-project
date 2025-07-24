@@ -68,7 +68,7 @@ export default function ConfettiEffect({
 
       return () => clearTimeout(timer);
     }
-  }, [isActive, duration, isAnimating, winnerText]);
+  }, [isActive, duration, winnerText]);
 
   const createConfetti = () => {
     const pieces: ConfettiPiece[] = [];

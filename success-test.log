@@ -1,0 +1,50 @@
+﻿
+> wheelwheel-app@1.0.0 seo:sample
+> npx ts-node --esm=false src/scripts/generate-seo.ts sample
+
+node.exe : (node:7584) [DEP0180] DeprecationWarning: 
+fs.Stats constructor is deprecated.
+No C:\Program Files\nodejs\npm.ps1:29 caractere:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ((node:7 
+   584) [DE... is deprecated.:String) [], RemoteExc  
+  eption
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+(Use `node --trace-deprecation ...` to show where 
+the warning was created)
+(node:7584) ExperimentalWarning: Type Stripping is 
+an experimental feature and might change at any time
+(node:7584) ExperimentalWarning: Type Stripping is 
+an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the 
+warning was created)
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\
+codigos\wheel2\wheelwheel\src\utils\seoPageGenerator'
+ imported from C:\codigos\wheel2\wheelwheel\src\scrip
+ts\generate-seo.ts
+    at finalizeResolution 
+(node:internal/modules/esm/resolve:274:11)
+    at moduleResolve 
+(node:internal/modules/esm/resolve:859:10)
+    at defaultResolve 
+(node:internal/modules/esm/resolve:983:11)
+    at nextResolve 
+(node:internal/modules/esm/hooks:748:28)
+    at resolve (C:\codigos\wheel2\wheelwheel\node_mod
+ules\ts-node\dist\child\child-loader.js:15:125)
+    at nextResolve 
+(node:internal/modules/esm/hooks:748:28)
+    at Hooks.resolve 
+(node:internal/modules/esm/hooks:240:30)
+    at handleMessage 
+(node:internal/modules/esm/worker:199:24)
+    at Immediate.checkForMessages 
+(node:internal/modules/esm/worker:141:28)
+    at process.processImmediate 
+(node:internal/timers:505:21) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/codigos/wheel2/wheelwheel/src/util
+s/seoPageGenerator'
+}

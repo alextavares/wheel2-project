@@ -1,0 +1,44 @@
+﻿
+> wheelwheel-app@1.0.0 seo:sample
+> set TS_NODE_PROJECT=tsconfig.scripts.json && node -r ts-node/register src/scripts/generate-seo.ts sample
+
+node.exe : C:\codigos\wheel2\wheelwheel\node_modules\
+ts-node\src\index.ts:859
+No C:\Program Files\nodejs\npm.ps1:29 caractere:3
++   & $NODE_EXE $NPM_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\codi 
+   gos\whee...rc\index.ts:859:String) [], RemoteExc  
+  eption
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    return new TSError(diagnosticText, 
+diagnosticCodes, diagnostics);
+           ^
+TSError: ⨯ Unable to compile TypeScript:
+error TS5083: Cannot read file 
+'C:\codigos\wheel2\wheelwheel\tsconfig.scripts.json 
+'.
+
+    at createTSError (C:\codigos\wheel2\wheelwheel\no
+de_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\codigos\wheel2\wheelwheel\no
+de_modules\ts-node\src\index.ts:863:19)
+    at createFromPreloadedConfig (C:\codigos\wheel2\w
+heelwheel\node_modules\ts-node\src\index.ts:874:36)
+    at create (C:\codigos\wheel2\wheelwheel\node_modu
+les\ts-node\src\index.ts:624:10)
+    at Object.register (C:\codigos\wheel2\wheelwheel\
+node_modules\ts-node\src\index.ts:591:15)
+    at Object.<anonymous> (C:\codigos\wheel2\wheelwhe
+el\node_modules\ts-node\register\index.js:1:16)
+    at Module._compile 
+(node:internal/modules/cjs/loader:1734:14)
+    at Object..js 
+(node:internal/modules/cjs/loader:1899:10)
+    at Module.load 
+(node:internal/modules/cjs/loader:1469:32)
+    at Module._load 
+(node:internal/modules/cjs/loader:1286:12) {
+  diagnosticCodes: [ 5083 ]
+}

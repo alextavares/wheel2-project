@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
 interface WeightedItem {
   id: string;
@@ -86,7 +86,7 @@ const WeightSystem: React.FC<WeightSystemProps> = ({
               <div className="text-2xl">💡</div>
               <div>
                 <h3 className="font-semibold text-blue-900 mb-1">Como funciona?</h3>
-                <p className="text-blue-700 text-sm">
+                <p className="text-blue-800 text-sm font-medium">
                   Quanto maior o peso, maior a chance do item ser selecionado. 
                   Um item com peso 2 tem o dobro de chance de um item com peso 1.
                 </p>
@@ -143,7 +143,7 @@ const WeightSystem: React.FC<WeightSystemProps> = ({
                         className="w-4 h-4 rounded-full border-2 border-white shadow-lg"
                         style={{ backgroundColor: item.color }}
                       />
-                      <span className="font-semibold text-gray-800">{item.label}</span>
+                      <span className="font-semibold text-gray-900">{item.label}</span>
                     </div>
 
                     {/* Weight Controls */}
@@ -210,13 +210,13 @@ const WeightSystem: React.FC<WeightSystemProps> = ({
           <div className="flex gap-2">
             <button
               onClick={onClose}
-              className="px-6 py-2 bg-gray-300 text-gray-700 rounded-lg hover:bg-gray-400 transition-colors font-medium"
+              className="px-6 py-2 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 transition-colors font-medium border border-gray-300"
             >
               Cancelar
             </button>
             <button
               onClick={handleSave}
-              className="px-6 py-2 bg-gradient-to-r from-purple-500 to-blue-500 text-white rounded-lg hover:from-purple-600 hover:to-blue-600 transition-colors font-medium"
+              className="px-6 py-2 bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-lg hover:from-purple-700 hover:to-blue-700 transition-colors font-medium shadow-lg"
             >
               💾 Salvar Pesos
             </button>

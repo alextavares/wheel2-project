@@ -1,0 +1,175 @@
+🧪 Testando geração de páginas SEO...
+❌ Erro no teste: ⨯ Unable to compile TypeScript:
+[96msrc/utils/seoPageGenerator.ts[0m:[93m49[0m:[93m29[0m - [91merror[0m[90m TS2551: [0mProperty 'generateStaticPages' does not exist on type 'SEOPageGenerator'. Did you mean 'generateAllPages'?
+
+[7m49[0m     this.staticPages = this.generateStaticPages(this.templates);
+[7m  [0m [91m                            ~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m39[0m:[93m9[0m
+    [7m39[0m   async generateAllPages(): Promise<void> {
+    [7m  [0m [96m        ~~~~~~~~~~~~~~~~[0m
+    'generateAllPages' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m195[0m:[93m84[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m195[0m       const categoryTemplates = this.templates.filter(t => t.category === category.id);
+[7m   [0m [91m                                                                                   ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m198[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m198[0m       const filePath = `${this.outputDir}/categories/${category.id}.tsx`;
+[7m   [0m [91m                                                                ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m253[0m:[93m26[0m - [91merror[0m[90m TS2551: [0mProperty 'generateSitemap' does not exist on type 'SEOPageGenerator'. Did you mean 'generateSitemapFile'?
+
+[7m253[0m     const sitemap = this.generateSitemap(this.templates);
+[7m   [0m [91m                         ~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m250[0m:[93m17[0m
+    [7m250[0m   private async generateSitemapFile(): Promise<void> {
+    [7m   [0m [96m                ~~~~~~~~~~~~~~~~~~~[0m
+    'generateSitemapFile' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m322[0m:[93m17[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m322[0m         id: cat.id,
+[7m   [0m [91m                ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m324[0m:[93m19[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m324[0m         slug: cat.id
+[7m   [0m [91m                  ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m382[0m:[93m29[0m - [91merror[0m[90m TS2551: [0mProperty 'generateStaticPages' does not exist on type 'SEOPageGenerator'. Did you mean 'generateAllPages'?
+
+[7m382[0m     this.staticPages = this.generateStaticPages(this.templates);
+[7m   [0m [91m                            ~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m39[0m:[93m9[0m
+    [7m39[0m   async generateAllPages(): Promise<void> {
+    [7m  [0m [96m        ~~~~~~~~~~~~~~~~[0m
+    'generateAllPages' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m422[0m:[93m13[0m - [91merror[0m[90m TS2341: [0mProperty 'templates' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m422[0m   generator.templates = generateMassiveTemplateCollection().slice(0, count);
+[7m   [0m [91m            ~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m423[0m:[93m13[0m - [91merror[0m[90m TS2341: [0mProperty 'staticPages' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m423[0m   generator.staticPages = generator.generateStaticPages(generator.templates);
+[7m   [0m [91m            ~~~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m423[0m:[93m37[0m - [91merror[0m[90m TS2551: [0mProperty 'generateStaticPages' does not exist on type 'SEOPageGenerator'. Did you mean 'generateAllPages'?
+
+[7m423[0m   generator.staticPages = generator.generateStaticPages(generator.templates);
+[7m   [0m [91m                                    ~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m39[0m:[93m9[0m
+    [7m39[0m   async generateAllPages(): Promise<void> {
+    [7m  [0m [96m        ~~~~~~~~~~~~~~~~[0m
+    'generateAllPages' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m423[0m:[93m67[0m - [91merror[0m[90m TS2341: [0mProperty 'templates' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m423[0m   generator.staticPages = generator.generateStaticPages(generator.templates);
+[7m   [0m [91m                                                                  ~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m426[0m:[93m19[0m - [91merror[0m[90m TS2341: [0mProperty 'generateIndividualPages' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m426[0m   await generator.generateIndividualPages();
+[7m   [0m [91m                  ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m427[0m:[93m19[0m - [91merror[0m[90m TS2341: [0mProperty 'generateCategoryPages' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m427[0m   await generator.generateCategoryPages();
+[7m   [0m [91m                  ~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m428[0m:[93m19[0m - [91merror[0m[90m TS2341: [0mProperty 'generateSitemapFile' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m428[0m   await generator.generateSitemapFile();
+[7m   [0m [91m                  ~~~~~~~~~~~~~~~~~~~[0m
+
+Stack: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/utils/seoPageGenerator.ts[0m:[93m49[0m:[93m29[0m - [91merror[0m[90m TS2551: [0mProperty 'generateStaticPages' does not exist on type 'SEOPageGenerator'. Did you mean 'generateAllPages'?
+
+[7m49[0m     this.staticPages = this.generateStaticPages(this.templates);
+[7m  [0m [91m                            ~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m39[0m:[93m9[0m
+    [7m39[0m   async generateAllPages(): Promise<void> {
+    [7m  [0m [96m        ~~~~~~~~~~~~~~~~[0m
+    'generateAllPages' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m195[0m:[93m84[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m195[0m       const categoryTemplates = this.templates.filter(t => t.category === category.id);
+[7m   [0m [91m                                                                                   ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m198[0m:[93m65[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m198[0m       const filePath = `${this.outputDir}/categories/${category.id}.tsx`;
+[7m   [0m [91m                                                                ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m253[0m:[93m26[0m - [91merror[0m[90m TS2551: [0mProperty 'generateSitemap' does not exist on type 'SEOPageGenerator'. Did you mean 'generateSitemapFile'?
+
+[7m253[0m     const sitemap = this.generateSitemap(this.templates);
+[7m   [0m [91m                         ~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m250[0m:[93m17[0m
+    [7m250[0m   private async generateSitemapFile(): Promise<void> {
+    [7m   [0m [96m                ~~~~~~~~~~~~~~~~~~~[0m
+    'generateSitemapFile' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m322[0m:[93m17[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m322[0m         id: cat.id,
+[7m   [0m [91m                ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m324[0m:[93m19[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; } | ... 10 more ... | { ...; }'.
+  Property 'id' does not exist on type '{ readonly name: "Comida e Restaurantes"; readonly icon: "🍽️"; readonly prefix: "Melhor"; readonly suffix: "Hoje"; readonly keywords: readonly ["comida", "restaurante", "gastronomia", "culinária", "almoço", "jantar", "delivery"]; readonly schemaType: "FoodEstablishment"; }'.
+
+[7m324[0m         slug: cat.id
+[7m   [0m [91m                  ~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m382[0m:[93m29[0m - [91merror[0m[90m TS2551: [0mProperty 'generateStaticPages' does not exist on type 'SEOPageGenerator'. Did you mean 'generateAllPages'?
+
+[7m382[0m     this.staticPages = this.generateStaticPages(this.templates);
+[7m   [0m [91m                            ~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m39[0m:[93m9[0m
+    [7m39[0m   async generateAllPages(): Promise<void> {
+    [7m  [0m [96m        ~~~~~~~~~~~~~~~~[0m
+    'generateAllPages' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m422[0m:[93m13[0m - [91merror[0m[90m TS2341: [0mProperty 'templates' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m422[0m   generator.templates = generateMassiveTemplateCollection().slice(0, count);
+[7m   [0m [91m            ~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m423[0m:[93m13[0m - [91merror[0m[90m TS2341: [0mProperty 'staticPages' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m423[0m   generator.staticPages = generator.generateStaticPages(generator.templates);
+[7m   [0m [91m            ~~~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m423[0m:[93m37[0m - [91merror[0m[90m TS2551: [0mProperty 'generateStaticPages' does not exist on type 'SEOPageGenerator'. Did you mean 'generateAllPages'?
+
+[7m423[0m   generator.staticPages = generator.generateStaticPages(generator.templates);
+[7m   [0m [91m                                    ~~~~~~~~~~~~~~~~~~~[0m
+
+  [96msrc/utils/seoPageGenerator.ts[0m:[93m39[0m:[93m9[0m
+    [7m39[0m   async generateAllPages(): Promise<void> {
+    [7m  [0m [96m        ~~~~~~~~~~~~~~~~[0m
+    'generateAllPages' is declared here.
+[96msrc/utils/seoPageGenerator.ts[0m:[93m423[0m:[93m67[0m - [91merror[0m[90m TS2341: [0mProperty 'templates' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m423[0m   generator.staticPages = generator.generateStaticPages(generator.templates);
+[7m   [0m [91m                                                                  ~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m426[0m:[93m19[0m - [91merror[0m[90m TS2341: [0mProperty 'generateIndividualPages' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m426[0m   await generator.generateIndividualPages();
+[7m   [0m [91m                  ~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m427[0m:[93m19[0m - [91merror[0m[90m TS2341: [0mProperty 'generateCategoryPages' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m427[0m   await generator.generateCategoryPages();
+[7m   [0m [91m                  ~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/utils/seoPageGenerator.ts[0m:[93m428[0m:[93m19[0m - [91merror[0m[90m TS2341: [0mProperty 'generateSitemapFile' is private and only accessible within class 'SEOPageGenerator'.
+
+[7m428[0m   await generator.generateSitemapFile();
+[7m   [0m [91m                  ~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (C:\codigos\wheel2\wheelwheel\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (C:\codigos\wheel2\wheelwheel\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (C:\codigos\wheel2\wheelwheel\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (C:\codigos\wheel2\wheelwheel\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (C:\codigos\wheel2\wheelwheel\node_modules\ts-node\src\index.ts:1617:30)
+    at loadTS (node:internal/modules/cjs/loader:1826:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\codigos\wheel2\wheelwheel\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Module._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
