@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "literatura"
   ],
-  "usageCount": 8044,
+  "usageCount": 6224,
   "isPopular": false,
   "createdAt": "2025-07-07",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-literatura-agora-modelo-510-pgina-6",
   "seoTitle": "Aprender Literatura Agora - Modelo 510 | Página 6 - Roleta Online Grátis",

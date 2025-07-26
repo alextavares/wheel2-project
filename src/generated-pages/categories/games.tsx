@@ -87,9 +87,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "verdade ou desafio"
     ],
-    "usageCount": 5554,
+    "usageCount": 9136,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-15",
     "seo": {
       "title": "Jogos de Verdade ou Desafio Divertidos - Modelo 1 | Página 1",
       "description": "Descubra o melhor template para Verdade ou Desafio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -115,7 +115,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -182,9 +182,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "mímica"
     ],
-    "usageCount": 2200,
+    "usageCount": 2668,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Jogos de Mímica Divertidos - Modelo 2 | Página 1",
       "description": "Descubra o melhor template para Mímica com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -210,7 +210,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -277,9 +277,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "stop/adedonha"
     ],
-    "usageCount": 1769,
+    "usageCount": 42,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Jogos de Stop/Adedonha Divertidos - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para Stop/Adedonha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -305,7 +305,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -372,9 +372,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "karaokê"
     ],
-    "usageCount": 9399,
+    "usageCount": 6850,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Jogos de Karaokê Divertidos - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Karaokê com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -400,7 +400,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -467,9 +467,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "dança das cadeiras"
     ],
-    "usageCount": 9037,
+    "usageCount": 4914,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Jogos de Dança das Cadeiras Divertidos - Modelo 5 | Página 1",
       "description": "Descubra o melhor template para Dança das Cadeiras com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -495,7 +495,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -562,9 +562,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "imagem e ação"
     ],
-    "usageCount": 2463,
+    "usageCount": 1214,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Jogos de Imagem e Ação Divertidos - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para Imagem e Ação com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -590,7 +590,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -657,9 +657,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "telefone sem fio"
     ],
-    "usageCount": 7454,
+    "usageCount": 5485,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Jogos de Telefone sem Fio Divertidos - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Telefone sem Fio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -685,7 +685,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -752,9 +752,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo da memória"
     ],
-    "usageCount": 8794,
+    "usageCount": 1039,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Jogos de Jogo da Memória Divertidos - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Jogo da Memória com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -780,7 +780,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -847,9 +847,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo da velha"
     ],
-    "usageCount": 2625,
+    "usageCount": 5822,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Jogos de Jogo da Velha Divertidos - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Jogo da Velha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -875,7 +875,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -942,9 +942,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "detetive"
     ],
-    "usageCount": 4912,
+    "usageCount": 8223,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Jogos de Detetive Divertidos - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Detetive com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -970,7 +970,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1037,9 +1037,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "uno"
     ],
-    "usageCount": 1604,
+    "usageCount": 3641,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Jogos de Uno Divertidos - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Uno com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1065,7 +1065,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1132,9 +1132,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "dominó"
     ],
-    "usageCount": 3828,
+    "usageCount": 6329,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Jogos de Dominó Divertidos - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Dominó com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1160,7 +1160,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1227,9 +1227,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "baralho"
     ],
-    "usageCount": 5673,
+    "usageCount": 5081,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Jogos de Baralho Divertidos - Modelo 13 | Página 1",
       "description": "Descubra o melhor template para Baralho com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1255,7 +1255,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1322,9 +1322,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo de tabuleiro"
     ],
-    "usageCount": 1526,
+    "usageCount": 9110,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Jogos de Jogo de Tabuleiro Divertidos - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Jogo de Tabuleiro com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1350,7 +1350,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1417,9 +1417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo de cartas"
     ],
-    "usageCount": 7142,
+    "usageCount": 4211,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Jogos de Jogo de Cartas Divertidos - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Jogo de Cartas com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1445,7 +1445,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1512,9 +1512,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "verdade ou desafio"
     ],
-    "usageCount": 3560,
+    "usageCount": 3967,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Jogos de Verdade ou Desafio Divertidos - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para Verdade ou Desafio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1540,7 +1540,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1607,9 +1607,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "mímica"
     ],
-    "usageCount": 2670,
+    "usageCount": 6440,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Jogos de Mímica Divertidos - Modelo 17 | Página 1",
       "description": "Descubra o melhor template para Mímica com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1635,7 +1635,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1702,9 +1702,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "stop/adedonha"
     ],
-    "usageCount": 3780,
+    "usageCount": 121,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Jogos de Stop/Adedonha Divertidos - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para Stop/Adedonha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1730,7 +1730,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1797,9 +1797,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "karaokê"
     ],
-    "usageCount": 243,
+    "usageCount": 279,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Jogos de Karaokê Divertidos - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Karaokê com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1825,7 +1825,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1892,9 +1892,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "dança das cadeiras"
     ],
-    "usageCount": 5440,
+    "usageCount": 4180,
     "isPopular": true,
-    "createdAt": "2025-06-25",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Jogos de Dança das Cadeiras Divertidos - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para Dança das Cadeiras com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -1920,7 +1920,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1987,9 +1987,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "imagem e ação"
     ],
-    "usageCount": 7854,
+    "usageCount": 3593,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Jogos de Imagem e Ação Divertidos - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para Imagem e Ação com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2015,7 +2015,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2082,9 +2082,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "telefone sem fio"
     ],
-    "usageCount": 1064,
+    "usageCount": 4887,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Jogos de Telefone sem Fio Divertidos - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Telefone sem Fio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2110,7 +2110,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2177,9 +2177,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo da memória"
     ],
-    "usageCount": 7506,
+    "usageCount": 4635,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-06-29",
     "seo": {
       "title": "Jogos de Jogo da Memória Divertidos - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Jogo da Memória com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2205,7 +2205,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2272,9 +2272,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo da velha"
     ],
-    "usageCount": 4239,
+    "usageCount": 9108,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Jogos de Jogo da Velha Divertidos - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Jogo da Velha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2300,7 +2300,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2367,9 +2367,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "detetive"
     ],
-    "usageCount": 3903,
+    "usageCount": 8797,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Jogos de Detetive Divertidos - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Detetive com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2395,7 +2395,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2462,9 +2462,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "uno"
     ],
-    "usageCount": 4542,
+    "usageCount": 8471,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Jogos de Uno Divertidos - Modelo 26 | Página 1",
       "description": "Descubra o melhor template para Uno com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2490,7 +2490,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2557,9 +2557,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "dominó"
     ],
-    "usageCount": 4134,
+    "usageCount": 1954,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Jogos de Dominó Divertidos - Modelo 27 | Página 1",
       "description": "Descubra o melhor template para Dominó com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2585,7 +2585,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2652,9 +2652,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "baralho"
     ],
-    "usageCount": 7181,
+    "usageCount": 7544,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Jogos de Baralho Divertidos - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Baralho com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2680,7 +2680,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2747,9 +2747,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo de tabuleiro"
     ],
-    "usageCount": 1352,
+    "usageCount": 7797,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Jogos de Jogo de Tabuleiro Divertidos - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Jogo de Tabuleiro com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2775,7 +2775,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2842,9 +2842,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo de cartas"
     ],
-    "usageCount": 656,
+    "usageCount": 4968,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Jogos de Jogo de Cartas Divertidos - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Jogo de Cartas com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2870,7 +2870,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2937,9 +2937,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "verdade ou desafio"
     ],
-    "usageCount": 8690,
+    "usageCount": 9889,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Jogos de Verdade ou Desafio Divertidos - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para Verdade ou Desafio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -2965,7 +2965,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3032,9 +3032,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "mímica"
     ],
-    "usageCount": 5089,
+    "usageCount": 6787,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Jogos de Mímica Divertidos - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para Mímica com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3060,7 +3060,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3127,9 +3127,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "stop/adedonha"
     ],
-    "usageCount": 3264,
+    "usageCount": 9428,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-06-29",
     "seo": {
       "title": "Jogos de Stop/Adedonha Divertidos - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para Stop/Adedonha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3155,7 +3155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3222,9 +3222,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "karaokê"
     ],
-    "usageCount": 5807,
+    "usageCount": 8861,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Jogos de Karaokê Divertidos - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Karaokê com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3250,7 +3250,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3317,9 +3317,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "dança das cadeiras"
     ],
-    "usageCount": 2391,
+    "usageCount": 2493,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Jogos de Dança das Cadeiras Divertidos - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para Dança das Cadeiras com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3345,7 +3345,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3412,9 +3412,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "imagem e ação"
     ],
-    "usageCount": 9929,
+    "usageCount": 9310,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Jogos de Imagem e Ação Divertidos - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para Imagem e Ação com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3440,7 +3440,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3507,9 +3507,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "telefone sem fio"
     ],
-    "usageCount": 6773,
+    "usageCount": 1077,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Jogos de Telefone sem Fio Divertidos - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Telefone sem Fio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3535,7 +3535,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3602,9 +3602,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo da memória"
     ],
-    "usageCount": 1389,
+    "usageCount": 2110,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Jogos de Jogo da Memória Divertidos - Modelo 38 | Página 1",
       "description": "Descubra o melhor template para Jogo da Memória com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3630,7 +3630,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3697,7 +3697,7 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo da velha"
     ],
-    "usageCount": 1490,
+    "usageCount": 8992,
     "isPopular": true,
     "createdAt": "2025-07-21",
     "seo": {
@@ -3725,7 +3725,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3792,9 +3792,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "detetive"
     ],
-    "usageCount": 1592,
+    "usageCount": 5206,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Jogos de Detetive Divertidos - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Detetive com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3820,7 +3820,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3887,9 +3887,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "uno"
     ],
-    "usageCount": 5258,
+    "usageCount": 6552,
     "isPopular": true,
-    "createdAt": "2025-06-25",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Jogos de Uno Divertidos - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Uno com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -3915,7 +3915,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3982,9 +3982,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "dominó"
     ],
-    "usageCount": 4448,
+    "usageCount": 2805,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Jogos de Dominó Divertidos - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Dominó com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4010,7 +4010,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4077,9 +4077,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "baralho"
     ],
-    "usageCount": 1663,
+    "usageCount": 6165,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Jogos de Baralho Divertidos - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Baralho com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4105,7 +4105,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4172,9 +4172,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo de tabuleiro"
     ],
-    "usageCount": 2336,
+    "usageCount": 9629,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Jogos de Jogo de Tabuleiro Divertidos - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Jogo de Tabuleiro com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4200,7 +4200,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4267,9 +4267,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "jogo de cartas"
     ],
-    "usageCount": 7061,
+    "usageCount": 2693,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Jogos de Jogo de Cartas Divertidos - Modelo 45 | Página 1",
       "description": "Descubra o melhor template para Jogo de Cartas com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4295,7 +4295,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4362,9 +4362,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "verdade ou desafio"
     ],
-    "usageCount": 3759,
+    "usageCount": 6139,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Jogos de Verdade ou Desafio Divertidos - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para Verdade ou Desafio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4390,7 +4390,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4457,9 +4457,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "mímica"
     ],
-    "usageCount": 328,
+    "usageCount": 8975,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Jogos de Mímica Divertidos - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para Mímica com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4485,7 +4485,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4552,9 +4552,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "stop/adedonha"
     ],
-    "usageCount": 8069,
+    "usageCount": 1032,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Jogos de Stop/Adedonha Divertidos - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para Stop/Adedonha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4647,9 +4647,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "karaokê"
     ],
-    "usageCount": 8188,
+    "usageCount": 6633,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Jogos de Karaokê Divertidos - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Karaokê com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4675,7 +4675,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4742,9 +4742,9 @@ const categoryTemplates: WheelTemplate[] = [
       "lazer",
       "dança das cadeiras"
     ],
-    "usageCount": 8596,
+    "usageCount": 9301,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Jogos de Dança das Cadeiras Divertidos - Modelo 50 | Página 1",
       "description": "Descubra o melhor template para Dança das Cadeiras com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -4770,7 +4770,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

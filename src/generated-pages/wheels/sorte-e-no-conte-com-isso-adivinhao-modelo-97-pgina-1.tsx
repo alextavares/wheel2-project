@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "não conte com isso"
   ],
-  "usageCount": 7391,
+  "usageCount": 3612,
   "isPopular": true,
-  "createdAt": "2025-07-17",
+  "createdAt": "2025-07-18",
   "seo": {
     "title": "Sorte e Não conte com isso Adivinhação - Modelo 97 | Página 1",
     "description": "Descubra o melhor template para Não conte com isso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-no-conte-com-isso-adivinhao-modelo-97-pgina-1",
   "seoTitle": "Sorte e Não conte com isso Adivinhação - Modelo 97 | Página 1 - Roleta Online Grátis",

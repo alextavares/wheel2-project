@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "hip hop"
   ],
-  "usageCount": 9477,
+  "usageCount": 2209,
   "isPopular": false,
   "createdAt": "2025-07-05",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-hip-hop-ouvir-modelo-228-pgina-3",
   "seoTitle": "Músicas para Hip Hop Ouvir - Modelo 228 | Página 3 - Roleta Online Grátis",

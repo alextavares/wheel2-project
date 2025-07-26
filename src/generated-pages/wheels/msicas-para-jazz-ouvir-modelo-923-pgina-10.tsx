@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "jazz"
   ],
-  "usageCount": 6594,
+  "usageCount": 8644,
   "isPopular": false,
-  "createdAt": "2025-07-04",
+  "createdAt": "2025-07-22",
   "seo": {
     "title": "Músicas para Jazz Ouvir - Modelo 923 | Página 10",
     "description": "Descubra o melhor template para Jazz com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-jazz-ouvir-modelo-923-pgina-10",
   "seoTitle": "Músicas para Jazz Ouvir - Modelo 923 | Página 10 - Roleta Online Grátis",

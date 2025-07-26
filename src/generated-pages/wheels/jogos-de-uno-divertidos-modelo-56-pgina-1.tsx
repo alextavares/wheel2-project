@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "uno"
   ],
-  "usageCount": 2952,
+  "usageCount": 2042,
   "isPopular": true,
   "createdAt": "2025-06-28",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-uno-divertidos-modelo-56-pgina-1",
   "seoTitle": "Jogos de Uno Divertidos - Modelo 56 | Página 1 - Roleta Online Grátis",

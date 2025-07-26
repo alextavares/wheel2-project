@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "blues"
   ],
-  "usageCount": 5412,
+  "usageCount": 8330,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-blues-ouvir-modelo-315-pgina-4",
   "seoTitle": "Músicas para Blues Ouvir - Modelo 315 | Página 4 - Roleta Online Grátis",

@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "histórico"
   ],
-  "usageCount": 7850,
+  "usageCount": 8305,
   "isPopular": true,
-  "createdAt": "2025-07-09",
+  "createdAt": "2025-07-07",
   "seo": {
     "title": "Filmes para Histórico Assistir - Modelo 60 | Página 1",
     "description": "Descubra o melhor template para Histórico com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-histrico-assistir-modelo-60-pgina-1",
   "seoTitle": "Filmes para Histórico Assistir - Modelo 60 | Página 1 - Roleta Online Grátis",

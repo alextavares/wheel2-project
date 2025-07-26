@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "animação"
   ],
-  "usageCount": 9626,
+  "usageCount": 3289,
   "isPopular": false,
   "createdAt": "2025-07-04",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-animao-assistir-modelo-638-pgina-7",
   "seoTitle": "Filmes para Animação Assistir - Modelo 638 | Página 7 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "baralho"
   ],
-  "usageCount": 2999,
+  "usageCount": 6219,
   "isPopular": false,
   "createdAt": "2025-07-09",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-baralho-divertidos-modelo-628-pgina-7",
   "seoTitle": "Jogos de Baralho Divertidos - Modelo 628 | Página 7 - Roleta Online Grátis",

@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "drama"
   ],
-  "usageCount": 528,
+  "usageCount": 927,
   "isPopular": false,
   "createdAt": "2025-07-11",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-drama-assistir-modelo-858-pgina-9",
   "seoTitle": "Filmes para Drama Assistir - Modelo 858 | Página 9 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "câmera"
   ],
-  "usageCount": 2360,
+  "usageCount": 4785,
   "isPopular": true,
   "createdAt": "2025-06-26",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-cmera-premiao-modelo-83-pgina-1",
   "seoTitle": "Sorteio de Câmera Premiação - Modelo 83 | Página 1 - Roleta Online Grátis",

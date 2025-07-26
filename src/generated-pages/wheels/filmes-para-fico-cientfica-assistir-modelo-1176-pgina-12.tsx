@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "ficção científica"
   ],
-  "usageCount": 97,
+  "usageCount": 791,
   "isPopular": false,
-  "createdAt": "2025-06-25",
+  "createdAt": "2025-07-03",
   "seo": {
     "title": "Filmes para Ficção Científica Assistir - Modelo 1176 | Página 12",
     "description": "Descubra o melhor template para Ficção Científica com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fico-cientfica-assistir-modelo-1176-pgina-12",
   "seoTitle": "Filmes para Ficção Científica Assistir - Modelo 1176 | Página 12 - Roleta Online Grátis",

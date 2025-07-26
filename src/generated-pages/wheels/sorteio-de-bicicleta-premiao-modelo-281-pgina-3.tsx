@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "bicicleta"
   ],
-  "usageCount": 9977,
+  "usageCount": 9819,
   "isPopular": false,
   "createdAt": "2025-07-05",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-bicicleta-premiao-modelo-281-pgina-3",
   "seoTitle": "Sorteio de Bicicleta Premiação - Modelo 281 | Página 3 - Roleta Online Grátis",

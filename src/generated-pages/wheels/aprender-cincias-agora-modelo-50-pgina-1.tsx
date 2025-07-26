@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "ciências"
   ],
-  "usageCount": 5982,
+  "usageCount": 3456,
   "isPopular": true,
-  "createdAt": "2025-07-12",
+  "createdAt": "2025-07-18",
   "seo": {
     "title": "Aprender Ciências Agora - Modelo 50 | Página 1",
     "description": "Descubra o melhor template para Ciências com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-cincias-agora-modelo-50-pgina-1",
   "seoTitle": "Aprender Ciências Agora - Modelo 50 | Página 1 - Roleta Online Grátis",

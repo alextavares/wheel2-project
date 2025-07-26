@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "muito duvidoso"
   ],
-  "usageCount": 8704,
+  "usageCount": 7705,
   "isPopular": false,
-  "createdAt": "2025-06-29",
+  "createdAt": "2025-07-17",
   "seo": {
     "title": "Sorte e Muito duvidoso Adivinhação - Modelo 324 | Página 4",
     "description": "Descubra o melhor template para Muito duvidoso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-muito-duvidoso-adivinhao-modelo-324-pgina-4",
   "seoTitle": "Sorte e Muito duvidoso Adivinhação - Modelo 324 | Página 4 - Roleta Online Grátis",

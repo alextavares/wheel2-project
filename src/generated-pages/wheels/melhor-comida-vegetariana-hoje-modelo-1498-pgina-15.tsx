@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida vegetariana"
   ],
-  "usageCount": 6659,
+  "usageCount": 5033,
   "isPopular": false,
   "createdAt": "2025-07-21",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-vegetariana-hoje-modelo-1498-pgina-15",
   "seoTitle": "Melhor Comida Vegetariana Hoje - Modelo 1498 | Página 15 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "carro 0km"
   ],
-  "usageCount": 4700,
+  "usageCount": 1770,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-carro-0km-premiao-modelo-481-pgina-5",
   "seoTitle": "Sorteio de Carro 0km Premiação - Modelo 481 | Página 5 - Roleta Online Grátis",

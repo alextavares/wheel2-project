@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "dança das cadeiras"
   ],
-  "usageCount": 1921,
+  "usageCount": 3678,
   "isPopular": false,
   "createdAt": "2025-06-28",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-dana-das-cadeiras-divertidos-modelo-755-pgina-8",
   "seoTitle": "Jogos de Dança das Cadeiras Divertidos - Modelo 755 | Página 8 - Roleta Online Grátis",

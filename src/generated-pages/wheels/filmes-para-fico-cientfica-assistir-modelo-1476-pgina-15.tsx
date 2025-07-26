@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "ficção científica"
   ],
-  "usageCount": 1002,
+  "usageCount": 9680,
   "isPopular": false,
   "createdAt": "2025-07-12",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fico-cientfica-assistir-modelo-1476-pgina-15",
   "seoTitle": "Filmes para Ficção Científica Assistir - Modelo 1476 | Página 15 - Roleta Online Grátis",

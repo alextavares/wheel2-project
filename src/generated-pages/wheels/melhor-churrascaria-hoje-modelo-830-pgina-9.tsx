@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "churrascaria"
   ],
-  "usageCount": 6314,
+  "usageCount": 8568,
   "isPopular": false,
   "createdAt": "2025-07-15",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-churrascaria-hoje-modelo-830-pgina-9",
   "seoTitle": "Melhor Churrascaria Hoje - Modelo 830 | Página 9 - Roleta Online Grátis",

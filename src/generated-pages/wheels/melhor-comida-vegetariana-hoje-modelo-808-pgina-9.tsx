@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida vegetariana"
   ],
-  "usageCount": 4929,
+  "usageCount": 7810,
   "isPopular": false,
   "createdAt": "2025-07-18",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-vegetariana-hoje-modelo-808-pgina-9",
   "seoTitle": "Melhor Comida Vegetariana Hoje - Modelo 808 | Página 9 - Roleta Online Grátis",

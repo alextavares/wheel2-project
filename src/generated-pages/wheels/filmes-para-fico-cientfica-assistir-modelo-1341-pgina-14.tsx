@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "ficção científica"
   ],
-  "usageCount": 5317,
+  "usageCount": 5429,
   "isPopular": false,
   "createdAt": "2025-07-23",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fico-cientfica-assistir-modelo-1341-pgina-14",
   "seoTitle": "Filmes para Ficção Científica Assistir - Modelo 1341 | Página 14 - Roleta Online Grátis",

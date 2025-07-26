@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "minha resposta é não"
   ],
-  "usageCount": 1293,
+  "usageCount": 1252,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Sorte e Minha resposta é não Adivinhação - Modelo 278 | Página 3",
     "description": "Descubra o melhor template para Minha resposta é não com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-minha-resposta-no-adivinhao-modelo-278-pgina-3",
   "seoTitle": "Sorte e Minha resposta é não Adivinhação - Modelo 278 | Página 3 - Roleta Online Grátis",

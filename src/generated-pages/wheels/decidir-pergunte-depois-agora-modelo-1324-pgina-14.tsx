@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "pergunte depois"
   ],
-  "usageCount": 3061,
+  "usageCount": 483,
   "isPopular": false,
-  "createdAt": "2025-07-04",
+  "createdAt": "2025-07-09",
   "seo": {
     "title": "Decidir Pergunte Depois Agora - Modelo 1324 | Página 14",
     "description": "Descubra o melhor template para Pergunte Depois com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-pergunte-depois-agora-modelo-1324-pgina-14",
   "seoTitle": "Decidir Pergunte Depois Agora - Modelo 1324 | Página 14 - Roleta Online Grátis",

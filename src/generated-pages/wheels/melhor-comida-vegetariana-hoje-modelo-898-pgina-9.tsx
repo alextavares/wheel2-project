@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida vegetariana"
   ],
-  "usageCount": 4164,
+  "usageCount": 6560,
   "isPopular": false,
-  "createdAt": "2025-07-21",
+  "createdAt": "2025-07-19",
   "seo": {
     "title": "Melhor Comida Vegetariana Hoje - Modelo 898 | Página 9",
     "description": "Descubra o melhor template para Comida Vegetariana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-vegetariana-hoje-modelo-898-pgina-9",
   "seoTitle": "Melhor Comida Vegetariana Hoje - Modelo 898 | Página 9 - Roleta Online Grátis",

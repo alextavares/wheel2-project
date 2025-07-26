@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "analise"
   ],
-  "usageCount": 9710,
+  "usageCount": 2760,
   "isPopular": true,
   "createdAt": "2025-06-26",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-analise-agora-modelo-85-pgina-1",
   "seoTitle": "Decidir Analise Agora - Modelo 85 | Página 1 - Roleta Online Grátis",

@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida coreana"
   ],
-  "usageCount": 3167,
+  "usageCount": 1312,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-coreana-hoje-modelo-552-pgina-6",
   "seoTitle": "Melhor Comida Coreana Hoje - Modelo 552 | Página 6 - Roleta Online Grátis",

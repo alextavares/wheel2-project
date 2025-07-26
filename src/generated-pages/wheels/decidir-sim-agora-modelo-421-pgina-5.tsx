@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "sim"
   ],
-  "usageCount": 2782,
+  "usageCount": 5041,
   "isPopular": false,
   "createdAt": "2025-07-07",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-sim-agora-modelo-421-pgina-5",
   "seoTitle": "Decidir SIM Agora - Modelo 421 | Página 5 - Roleta Online Grátis",

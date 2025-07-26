@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo da memória"
   ],
-  "usageCount": 156,
+  "usageCount": 8163,
   "isPopular": false,
-  "createdAt": "2025-07-16",
+  "createdAt": "2025-07-13",
   "seo": {
     "title": "Jogos de Jogo da Memória Divertidos - Modelo 803 | Página 9",
     "description": "Descubra o melhor template para Jogo da Memória com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-da-memria-divertidos-modelo-803-pgina-9",
   "seoTitle": "Jogos de Jogo da Memória Divertidos - Modelo 803 | Página 9 - Roleta Online Grátis",

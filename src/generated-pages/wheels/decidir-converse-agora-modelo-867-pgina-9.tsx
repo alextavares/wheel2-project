@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "converse"
   ],
-  "usageCount": 1317,
+  "usageCount": 1885,
   "isPopular": false,
   "createdAt": "2025-06-25",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-converse-agora-modelo-867-pgina-9",
   "seoTitle": "Decidir Converse Agora - Modelo 867 | Página 9 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "inglês"
   ],
-  "usageCount": 5800,
+  "usageCount": 4821,
   "isPopular": false,
   "createdAt": "2025-07-08",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-ingls-agora-modelo-504-pgina-6",
   "seoTitle": "Aprender Inglês Agora - Modelo 504 | Página 6 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "física"
   ],
-  "usageCount": 8282,
+  "usageCount": 2725,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-fsica-agora-modelo-951-pgina-10",
   "seoTitle": "Aprender Física Agora - Modelo 951 | Página 10 - Roleta Online Grátis",

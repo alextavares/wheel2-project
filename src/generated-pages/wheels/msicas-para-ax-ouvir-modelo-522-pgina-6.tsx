@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "axé"
   ],
-  "usageCount": 3049,
+  "usageCount": 7523,
   "isPopular": false,
   "createdAt": "2025-07-09",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-ax-ouvir-modelo-522-pgina-6",
   "seoTitle": "Músicas para Axé Ouvir - Modelo 522 | Página 6 - Roleta Online Grátis",

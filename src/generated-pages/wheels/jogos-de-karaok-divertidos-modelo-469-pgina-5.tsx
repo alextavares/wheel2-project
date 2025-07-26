@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "karaokê"
   ],
-  "usageCount": 8027,
+  "usageCount": 6956,
   "isPopular": false,
   "createdAt": "2025-07-07",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-karaok-divertidos-modelo-469-pgina-5",
   "seoTitle": "Jogos de Karaokê Divertidos - Modelo 469 | Página 5 - Roleta Online Grátis",

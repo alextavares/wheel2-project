@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "ciências"
   ],
-  "usageCount": 74,
+  "usageCount": 1632,
   "isPopular": false,
   "createdAt": "2025-06-28",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-cincias-agora-modelo-215-pgina-3",
   "seoTitle": "Aprender Ciências Agora - Modelo 215 | Página 3 - Roleta Online Grátis",

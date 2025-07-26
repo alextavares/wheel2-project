@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "converse"
   ],
-  "usageCount": 6754,
+  "usageCount": 1573,
   "isPopular": false,
-  "createdAt": "2025-07-10",
+  "createdAt": "2025-07-21",
   "seo": {
     "title": "Decidir Converse Agora - Modelo 987 | Página 10",
     "description": "Descubra o melhor template para Converse com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-converse-agora-modelo-987-pgina-10",
   "seoTitle": "Decidir Converse Agora - Modelo 987 | Página 10 - Roleta Online Grátis",

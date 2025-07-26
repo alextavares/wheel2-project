@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "aja"
   ],
-  "usageCount": 5039,
+  "usageCount": 7827,
   "isPopular": false,
   "createdAt": "2025-07-02",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-aja-agora-modelo-810-pgina-9",
   "seoTitle": "Decidir Aja Agora - Modelo 810 | Página 9 - Roleta Online Grátis",

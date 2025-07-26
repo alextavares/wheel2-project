@@ -87,9 +87,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "sim"
     ],
-    "usageCount": 7781,
+    "usageCount": 6946,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Decidir SIM Agora - Modelo 1 | Página 1",
       "description": "Descubra o melhor template para SIM com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -115,7 +115,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -182,9 +182,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "não"
     ],
-    "usageCount": 344,
+    "usageCount": 5822,
     "isPopular": true,
-    "createdAt": "2025-06-25",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Decidir NÃO Agora - Modelo 2 | Página 1",
       "description": "Descubra o melhor template para NÃO com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -210,7 +210,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -277,9 +277,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "talvez"
     ],
-    "usageCount": 4771,
+    "usageCount": 4958,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Decidir Talvez Agora - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -305,7 +305,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -372,9 +372,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pergunte depois"
     ],
-    "usageCount": 2219,
+    "usageCount": 6694,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Decidir Pergunte Depois Agora - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Pergunte Depois com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -400,7 +400,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -467,9 +467,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "depende"
     ],
-    "usageCount": 867,
+    "usageCount": 398,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Decidir Depende Agora - Modelo 5 | Página 1",
       "description": "Descubra o melhor template para Depende com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -495,7 +495,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -562,9 +562,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "não sei"
     ],
-    "usageCount": 1720,
+    "usageCount": 4600,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Decidir Não Sei Agora - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para Não Sei com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -590,7 +590,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -657,9 +657,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "melhor não"
     ],
-    "usageCount": 212,
+    "usageCount": 1346,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Decidir Melhor Não Agora - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Melhor Não com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -685,7 +685,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -752,9 +752,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "vá em frente"
     ],
-    "usageCount": 6190,
+    "usageCount": 6408,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Decidir Vá em Frente Agora - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Vá em Frente com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -780,7 +780,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -847,9 +847,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "espere"
     ],
-    "usageCount": 1821,
+    "usageCount": 1054,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Decidir Espere Agora - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Espere com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -875,7 +875,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -942,9 +942,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "analise"
     ],
-    "usageCount": 333,
+    "usageCount": 2851,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Decidir Analise Agora - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Analise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -970,7 +970,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1037,9 +1037,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pesquise"
     ],
-    "usageCount": 2899,
+    "usageCount": 5365,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-15",
     "seo": {
       "title": "Decidir Pesquise Agora - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Pesquise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1065,7 +1065,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1132,9 +1132,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "converse"
     ],
-    "usageCount": 7398,
+    "usageCount": 343,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Decidir Converse Agora - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Converse com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1160,7 +1160,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1227,9 +1227,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pense"
     ],
-    "usageCount": 1869,
+    "usageCount": 8322,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Decidir Pense Agora - Modelo 13 | Página 1",
       "description": "Descubra o melhor template para Pense com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1255,7 +1255,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1322,9 +1322,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "decida"
     ],
-    "usageCount": 1850,
+    "usageCount": 395,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Decidir Decida Agora - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Decida com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1350,7 +1350,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1417,9 +1417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "aja"
     ],
-    "usageCount": 3078,
+    "usageCount": 9550,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Decidir Aja Agora - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Aja com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1445,7 +1445,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1512,9 +1512,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "sim"
     ],
-    "usageCount": 269,
+    "usageCount": 7167,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Decidir SIM Agora - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para SIM com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1540,7 +1540,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1607,9 +1607,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "não"
     ],
-    "usageCount": 1754,
+    "usageCount": 8947,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Decidir NÃO Agora - Modelo 17 | Página 1",
       "description": "Descubra o melhor template para NÃO com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1635,7 +1635,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1702,9 +1702,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "talvez"
     ],
-    "usageCount": 6452,
+    "usageCount": 6398,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Decidir Talvez Agora - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1730,7 +1730,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1797,9 +1797,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pergunte depois"
     ],
-    "usageCount": 6343,
+    "usageCount": 2790,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Decidir Pergunte Depois Agora - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Pergunte Depois com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1825,7 +1825,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1892,9 +1892,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "depende"
     ],
-    "usageCount": 1718,
+    "usageCount": 8202,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Decidir Depende Agora - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para Depende com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -1920,7 +1920,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1987,9 +1987,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "não sei"
     ],
-    "usageCount": 12,
+    "usageCount": 9374,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Decidir Não Sei Agora - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para Não Sei com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2015,7 +2015,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2082,9 +2082,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "melhor não"
     ],
-    "usageCount": 9049,
+    "usageCount": 8166,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Decidir Melhor Não Agora - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Melhor Não com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2110,7 +2110,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2177,9 +2177,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "vá em frente"
     ],
-    "usageCount": 1512,
+    "usageCount": 1260,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Decidir Vá em Frente Agora - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Vá em Frente com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2205,7 +2205,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2272,9 +2272,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "espere"
     ],
-    "usageCount": 8418,
+    "usageCount": 6586,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Decidir Espere Agora - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Espere com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2300,7 +2300,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2367,9 +2367,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "analise"
     ],
-    "usageCount": 5327,
+    "usageCount": 3399,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Decidir Analise Agora - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Analise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2395,7 +2395,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2462,9 +2462,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pesquise"
     ],
-    "usageCount": 4544,
+    "usageCount": 4020,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Decidir Pesquise Agora - Modelo 26 | Página 1",
       "description": "Descubra o melhor template para Pesquise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2490,7 +2490,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2557,9 +2557,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "converse"
     ],
-    "usageCount": 2566,
+    "usageCount": 7072,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Decidir Converse Agora - Modelo 27 | Página 1",
       "description": "Descubra o melhor template para Converse com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2585,7 +2585,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2652,9 +2652,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pense"
     ],
-    "usageCount": 8898,
+    "usageCount": 7432,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Decidir Pense Agora - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Pense com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2680,7 +2680,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2747,9 +2747,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "decida"
     ],
-    "usageCount": 3903,
+    "usageCount": 2750,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Decidir Decida Agora - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Decida com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2775,7 +2775,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2842,9 +2842,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "aja"
     ],
-    "usageCount": 5085,
+    "usageCount": 261,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-06-29",
     "seo": {
       "title": "Decidir Aja Agora - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Aja com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2870,7 +2870,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2937,9 +2937,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "sim"
     ],
-    "usageCount": 1502,
+    "usageCount": 7953,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Decidir SIM Agora - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para SIM com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -2965,7 +2965,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3032,9 +3032,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "não"
     ],
-    "usageCount": 5152,
+    "usageCount": 9144,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Decidir NÃO Agora - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para NÃO com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3060,7 +3060,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3127,9 +3127,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "talvez"
     ],
-    "usageCount": 3212,
+    "usageCount": 1258,
     "isPopular": true,
-    "createdAt": "2025-06-23",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Decidir Talvez Agora - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3155,7 +3155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3222,9 +3222,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pergunte depois"
     ],
-    "usageCount": 7598,
+    "usageCount": 8096,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Decidir Pergunte Depois Agora - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Pergunte Depois com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3250,7 +3250,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3317,9 +3317,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "depende"
     ],
-    "usageCount": 1486,
+    "usageCount": 2297,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-15",
     "seo": {
       "title": "Decidir Depende Agora - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para Depende com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3345,7 +3345,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3412,9 +3412,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "não sei"
     ],
-    "usageCount": 8409,
+    "usageCount": 3383,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Decidir Não Sei Agora - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para Não Sei com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3440,7 +3440,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3507,9 +3507,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "melhor não"
     ],
-    "usageCount": 4609,
+    "usageCount": 8714,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Decidir Melhor Não Agora - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Melhor Não com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3535,7 +3535,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3602,9 +3602,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "vá em frente"
     ],
-    "usageCount": 8063,
+    "usageCount": 9982,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Decidir Vá em Frente Agora - Modelo 38 | Página 1",
       "description": "Descubra o melhor template para Vá em Frente com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3630,7 +3630,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3697,9 +3697,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "espere"
     ],
-    "usageCount": 3269,
+    "usageCount": 5030,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Decidir Espere Agora - Modelo 39 | Página 1",
       "description": "Descubra o melhor template para Espere com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3725,7 +3725,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3792,9 +3792,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "analise"
     ],
-    "usageCount": 4541,
+    "usageCount": 3598,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Decidir Analise Agora - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Analise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3820,7 +3820,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3887,9 +3887,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pesquise"
     ],
-    "usageCount": 8513,
+    "usageCount": 7284,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Decidir Pesquise Agora - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Pesquise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -3915,7 +3915,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3982,9 +3982,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "converse"
     ],
-    "usageCount": 3676,
+    "usageCount": 7600,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Decidir Converse Agora - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Converse com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4010,7 +4010,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4077,9 +4077,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pense"
     ],
-    "usageCount": 7753,
+    "usageCount": 3915,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Decidir Pense Agora - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Pense com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4105,7 +4105,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4172,9 +4172,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "decida"
     ],
-    "usageCount": 2109,
+    "usageCount": 3232,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Decidir Decida Agora - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Decida com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4200,7 +4200,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4267,9 +4267,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "aja"
     ],
-    "usageCount": 9130,
+    "usageCount": 6768,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Decidir Aja Agora - Modelo 45 | Página 1",
       "description": "Descubra o melhor template para Aja com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4295,7 +4295,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4362,9 +4362,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "sim"
     ],
-    "usageCount": 4459,
+    "usageCount": 8182,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Decidir SIM Agora - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para SIM com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4390,7 +4390,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4457,9 +4457,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "não"
     ],
-    "usageCount": 9308,
+    "usageCount": 9010,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-06-29",
     "seo": {
       "title": "Decidir NÃO Agora - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para NÃO com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4485,7 +4485,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4552,9 +4552,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "talvez"
     ],
-    "usageCount": 4969,
+    "usageCount": 380,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Decidir Talvez Agora - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4647,9 +4647,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "pergunte depois"
     ],
-    "usageCount": 3415,
+    "usageCount": 9232,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Decidir Pergunte Depois Agora - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Pergunte Depois com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4675,7 +4675,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4742,9 +4742,9 @@ const categoryTemplates: WheelTemplate[] = [
       "probabilidade",
       "depende"
     ],
-    "usageCount": 5783,
+    "usageCount": 7277,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Decidir Depende Agora - Modelo 50 | Página 1",
       "description": "Descubra o melhor template para Depende com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -4770,7 +4770,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

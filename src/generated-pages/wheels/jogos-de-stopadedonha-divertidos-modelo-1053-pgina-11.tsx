@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "stop/adedonha"
   ],
-  "usageCount": 6881,
+  "usageCount": 7532,
   "isPopular": false,
-  "createdAt": "2025-07-20",
+  "createdAt": "2025-07-04",
   "seo": {
     "title": "Jogos de Stop/Adedonha Divertidos - Modelo 1053 | Página 11",
     "description": "Descubra o melhor template para Stop/Adedonha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-stopadedonha-divertidos-modelo-1053-pgina-11",
   "seoTitle": "Jogos de Stop/Adedonha Divertidos - Modelo 1053 | Página 11 - Roleta Online Grátis",

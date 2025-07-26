@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "biologia"
   ],
-  "usageCount": 5315,
+  "usageCount": 4612,
   "isPopular": false,
   "createdAt": "2025-06-28",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-biologia-agora-modelo-278-pgina-3",
   "seoTitle": "Aprender Biologia Agora - Modelo 278 | Página 3 - Roleta Online Grátis",

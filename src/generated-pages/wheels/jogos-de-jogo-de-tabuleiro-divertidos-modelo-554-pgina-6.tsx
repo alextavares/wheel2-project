@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo de tabuleiro"
   ],
-  "usageCount": 5891,
+  "usageCount": 5793,
   "isPopular": false,
-  "createdAt": "2025-07-20",
+  "createdAt": "2025-07-14",
   "seo": {
     "title": "Jogos de Jogo de Tabuleiro Divertidos - Modelo 554 | Página 6",
     "description": "Descubra o melhor template para Jogo de Tabuleiro com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-de-tabuleiro-divertidos-modelo-554-pgina-6",
   "seoTitle": "Jogos de Jogo de Tabuleiro Divertidos - Modelo 554 | Página 6 - Roleta Online Grátis",

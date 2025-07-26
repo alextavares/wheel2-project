@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "sociologia"
   ],
-  "usageCount": 4014,
+  "usageCount": 9359,
   "isPopular": false,
   "createdAt": "2025-07-12",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-sociologia-agora-modelo-899-pgina-9",
   "seoTitle": "Aprender Sociologia Agora - Modelo 899 | Página 9 - Roleta Online Grátis",

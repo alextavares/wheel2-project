@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "geografia"
   ],
-  "usageCount": 3652,
+  "usageCount": 9809,
   "isPopular": false,
-  "createdAt": "2025-07-03",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Aprender Geografia Agora - Modelo 1204 | Página 13",
     "description": "Descubra o melhor template para Geografia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-geografia-agora-modelo-1204-pgina-13",
   "seoTitle": "Aprender Geografia Agora - Modelo 1204 | Página 13 - Roleta Online Grátis",

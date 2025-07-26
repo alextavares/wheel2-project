@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "fantasia"
   ],
-  "usageCount": 7636,
+  "usageCount": 252,
   "isPopular": false,
-  "createdAt": "2025-07-08",
+  "createdAt": "2025-07-06",
   "seo": {
     "title": "Filmes para Fantasia Assistir - Modelo 612 | Página 7",
     "description": "Descubra o melhor template para Fantasia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fantasia-assistir-modelo-612-pgina-7",
   "seoTitle": "Filmes para Fantasia Assistir - Modelo 612 | Página 7 - Roleta Online Grátis",

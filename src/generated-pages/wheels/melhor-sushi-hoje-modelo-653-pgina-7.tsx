@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "sushi"
   ],
-  "usageCount": 1885,
+  "usageCount": 9837,
   "isPopular": false,
   "createdAt": "2025-07-04",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-sushi-hoje-modelo-653-pgina-7",
   "seoTitle": "Melhor Sushi Hoje - Modelo 653 | Página 7 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "vá em frente"
   ],
-  "usageCount": 6992,
+  "usageCount": 3165,
   "isPopular": false,
   "createdAt": "2025-06-30",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-v-em-frente-agora-modelo-1373-pgina-14",
   "seoTitle": "Decidir Vá em Frente Agora - Modelo 1373 | Página 14 - Roleta Online Grátis",

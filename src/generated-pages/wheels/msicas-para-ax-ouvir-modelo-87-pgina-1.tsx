@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "axé"
   ],
-  "usageCount": 2700,
+  "usageCount": 7131,
   "isPopular": true,
-  "createdAt": "2025-07-15",
+  "createdAt": "2025-07-21",
   "seo": {
     "title": "Músicas para Axé Ouvir - Modelo 87 | Página 1",
     "description": "Descubra o melhor template para Axé com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-ax-ouvir-modelo-87-pgina-1",
   "seoTitle": "Músicas para Axé Ouvir - Modelo 87 | Página 1 - Roleta Online Grátis",

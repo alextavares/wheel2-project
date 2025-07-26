@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "aja"
   ],
-  "usageCount": 4767,
+  "usageCount": 100,
   "isPopular": false,
   "createdAt": "2025-07-20",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-aja-agora-modelo-780-pgina-8",
   "seoTitle": "Decidir Aja Agora - Modelo 780 | Página 8 - Roleta Online Grátis",

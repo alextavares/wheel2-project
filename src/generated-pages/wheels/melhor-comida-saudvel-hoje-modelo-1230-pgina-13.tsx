@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida saudável"
   ],
-  "usageCount": 2496,
+  "usageCount": 1131,
   "isPopular": false,
   "createdAt": "2025-07-14",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-saudvel-hoje-modelo-1230-pgina-13",
   "seoTitle": "Melhor Comida Saudável Hoje - Modelo 1230 | Página 13 - Roleta Online Grátis",

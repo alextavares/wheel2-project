@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "reggae"
   ],
-  "usageCount": 6430,
+  "usageCount": 8892,
   "isPopular": false,
-  "createdAt": "2025-07-12",
+  "createdAt": "2025-07-21",
   "seo": {
     "title": "Músicas para Reggae Ouvir - Modelo 730 | Página 8",
     "description": "Descubra o melhor template para Reggae com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-reggae-ouvir-modelo-730-pgina-8",
   "seoTitle": "Músicas para Reggae Ouvir - Modelo 730 | Página 8 - Roleta Online Grátis",

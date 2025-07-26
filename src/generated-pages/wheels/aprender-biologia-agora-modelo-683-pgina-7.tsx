@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "biologia"
   ],
-  "usageCount": 1199,
+  "usageCount": 907,
   "isPopular": false,
-  "createdAt": "2025-06-29",
+  "createdAt": "2025-07-02",
   "seo": {
     "title": "Aprender Biologia Agora - Modelo 683 | Página 7",
     "description": "Descubra o melhor template para Biologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-biologia-agora-modelo-683-pgina-7",
   "seoTitle": "Aprender Biologia Agora - Modelo 683 | Página 7 - Roleta Online Grátis",

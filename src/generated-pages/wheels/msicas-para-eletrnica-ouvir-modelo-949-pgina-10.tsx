@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "eletrônica"
   ],
-  "usageCount": 4878,
+  "usageCount": 4852,
   "isPopular": false,
-  "createdAt": "2025-07-22",
+  "createdAt": "2025-06-27",
   "seo": {
     "title": "Músicas para Eletrônica Ouvir - Modelo 949 | Página 10",
     "description": "Descubra o melhor template para Eletrônica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-eletrnica-ouvir-modelo-949-pgina-10",
   "seoTitle": "Músicas para Eletrônica Ouvir - Modelo 949 | Página 10 - Roleta Online Grátis",

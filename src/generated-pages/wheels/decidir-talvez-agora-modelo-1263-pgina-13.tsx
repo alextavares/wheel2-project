@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "talvez"
   ],
-  "usageCount": 4572,
+  "usageCount": 6934,
   "isPopular": false,
   "createdAt": "2025-07-18",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-talvez-agora-modelo-1263-pgina-13",
   "seoTitle": "Decidir Talvez Agora - Modelo 1263 | Página 13 - Roleta Online Grátis",

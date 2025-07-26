@@ -4,7 +4,7 @@
 import React, { useState, useEffect } from 'react';
 import { WheelTemplate, WheelItem } from '@/types/wheel';
 import Wheel from '@/components/Wheel';
-import { Helmet } from 'react-helmet-async';
+import RelatedWheels from '@/components/RelatedWheels';
 
 interface WheelPageProps {
   route?: {
@@ -102,28 +102,7 @@ export default function WheelPage({ route, template: providedTemplate, seoTitle:
   }
 
   return (
-    <>
-      <Helmet>
-        <title>{seoTitle}</title>
-        <meta name="description" content={seoDescription} />
-        <meta name="keywords" content={template.keywords?.join(', ') || template.tags?.join(', ') || ''} />
-        <link rel="canonical" href={`https://wheelmaker.app/wheel/${template.slug}`} />
-        
-        {/* Open Graph */}
-        <meta property="og:title" content={seoTitle} />
-        <meta property="og:description" content={seoDescription} />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://wheelmaker.app/wheel/${template.slug}`} />
-        <meta property="og:image" content={`https://wheelmaker.app/api/og/wheel/${template.slug}`} />
-        
-        {/* Twitter */}
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={seoTitle} />
-        <meta name="twitter:description" content={seoDescription} />
-        <meta name="twitter:image" content={`https://wheelmaker.app/api/og/wheel/${template.slug}`} />
-      </Helmet>
-
-      <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900">
+    <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900">
         {/* Header Simplificado */}
         <div className="container mx-auto px-4 py-8">
           <div className="text-center mb-8">
@@ -272,9 +251,15 @@ export default function WheelPage({ route, template: providedTemplate, seoTitle:
                 </button>
               </div>
             )}
+            
+            {/* Seção de Roletas Relacionadas */}
+            <RelatedWheels 
+              currentSlug={template.slug}
+              category={template.category}
+              maxItems={6}
+            />
           </div>
         </div>
       </div>
-    </>
   );
 }

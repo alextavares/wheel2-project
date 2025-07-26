@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "documentário"
   ],
-  "usageCount": 6500,
+  "usageCount": 3392,
   "isPopular": false,
   "createdAt": "2025-06-28",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-documentrio-assistir-modelo-1282-pgina-13",
   "seoTitle": "Filmes para Documentário Assistir - Modelo 1282 | Página 13 - Roleta Online Grátis",

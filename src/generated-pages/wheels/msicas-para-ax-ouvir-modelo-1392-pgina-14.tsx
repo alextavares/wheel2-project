@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "axé"
   ],
-  "usageCount": 4226,
+  "usageCount": 3112,
   "isPopular": false,
   "createdAt": "2025-06-29",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-ax-ouvir-modelo-1392-pgina-14",
   "seoTitle": "Músicas para Axé Ouvir - Modelo 1392 | Página 14 - Roleta Online Grátis",

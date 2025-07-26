@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante mexicano"
   ],
-  "usageCount": 900,
+  "usageCount": 2148,
   "isPopular": false,
   "createdAt": "2025-07-22",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-mexicano-hoje-modelo-1443-pgina-15",
   "seoTitle": "Melhor Restaurante Mexicano Hoje - Modelo 1443 | Página 15 - Roleta Online Grátis",

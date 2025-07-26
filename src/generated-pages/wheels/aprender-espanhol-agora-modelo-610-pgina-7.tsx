@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "espanhol"
   ],
-  "usageCount": 7656,
+  "usageCount": 7457,
   "isPopular": false,
   "createdAt": "2025-07-23",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-espanhol-agora-modelo-610-pgina-7",
   "seoTitle": "Aprender Espanhol Agora - Modelo 610 | Página 7 - Roleta Online Grátis",

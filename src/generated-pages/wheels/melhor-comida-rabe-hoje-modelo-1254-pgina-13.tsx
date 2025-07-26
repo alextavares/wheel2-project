@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida árabe"
   ],
-  "usageCount": 6535,
+  "usageCount": 737,
   "isPopular": false,
   "createdAt": "2025-06-25",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-rabe-hoje-modelo-1254-pgina-13",
   "seoTitle": "Melhor Comida Árabe Hoje - Modelo 1254 | Página 13 - Roleta Online Grátis",

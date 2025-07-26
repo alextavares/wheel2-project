@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "mpb"
   ],
-  "usageCount": 6955,
+  "usageCount": 4810,
   "isPopular": false,
   "createdAt": "2025-07-18",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-mpb-ouvir-modelo-171-pgina-2",
   "seoTitle": "Músicas para MPB Ouvir - Modelo 171 | Página 2 - Roleta Online Grátis",

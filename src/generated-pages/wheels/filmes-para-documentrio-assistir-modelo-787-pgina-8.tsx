@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "documentário"
   ],
-  "usageCount": 8928,
+  "usageCount": 1268,
   "isPopular": false,
-  "createdAt": "2025-07-10",
+  "createdAt": "2025-07-02",
   "seo": {
     "title": "Filmes para Documentário Assistir - Modelo 787 | Página 8",
     "description": "Descubra o melhor template para Documentário com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-documentrio-assistir-modelo-787-pgina-8",
   "seoTitle": "Filmes para Documentário Assistir - Modelo 787 | Página 8 - Roleta Online Grátis",

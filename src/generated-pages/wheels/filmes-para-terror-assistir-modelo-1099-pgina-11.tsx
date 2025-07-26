@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "terror"
   ],
-  "usageCount": 5633,
+  "usageCount": 1207,
   "isPopular": false,
   "createdAt": "2025-07-13",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-terror-assistir-modelo-1099-pgina-11",
   "seoTitle": "Filmes para Terror Assistir - Modelo 1099 | Página 11 - Roleta Online Grátis",

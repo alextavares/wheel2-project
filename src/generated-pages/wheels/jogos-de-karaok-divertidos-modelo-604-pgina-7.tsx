@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "karaokê"
   ],
-  "usageCount": 162,
+  "usageCount": 3637,
   "isPopular": false,
   "createdAt": "2025-07-21",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-karaok-divertidos-modelo-604-pgina-7",
   "seoTitle": "Jogos de Karaokê Divertidos - Modelo 604 | Página 7 - Roleta Online Grátis",

@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "churrascaria"
   ],
-  "usageCount": 7954,
+  "usageCount": 7383,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-churrascaria-hoje-modelo-695-pgina-7",
   "seoTitle": "Melhor Churrascaria Hoje - Modelo 695 | Página 7 - Roleta Online Grátis",

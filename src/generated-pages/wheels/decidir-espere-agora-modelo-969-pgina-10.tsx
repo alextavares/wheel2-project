@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "espere"
   ],
-  "usageCount": 9497,
+  "usageCount": 4891,
   "isPopular": false,
   "createdAt": "2025-07-22",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-espere-agora-modelo-969-pgina-10",
   "seoTitle": "Decidir Espere Agora - Modelo 969 | Página 10 - Roleta Online Grátis",

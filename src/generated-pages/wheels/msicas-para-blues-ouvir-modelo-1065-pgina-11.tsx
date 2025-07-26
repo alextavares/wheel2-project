@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "blues"
   ],
-  "usageCount": 9249,
+  "usageCount": 8375,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-06-26",
   "seo": {
     "title": "Músicas para Blues Ouvir - Modelo 1065 | Página 11",
     "description": "Descubra o melhor template para Blues com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-blues-ouvir-modelo-1065-pgina-11",
   "seoTitle": "Músicas para Blues Ouvir - Modelo 1065 | Página 11 - Roleta Online Grátis",

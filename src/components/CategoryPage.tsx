@@ -2,7 +2,6 @@
 import React, { useState, useEffect } from 'react';
 import { WheelTemplate } from '@/data/templates';
 import Link from 'next/link';
-import { Helmet } from 'react-helmet-async';
 
 interface CategoryPageProps {
   category: {
@@ -33,22 +32,7 @@ export default function CategoryPage({ category, templates, totalTemplates }: Ca
   const currentTemplates = filteredTemplates.slice(startIndex, startIndex + templatesPerPage);
 
   return (
-    <>
-      <Helmet>
-        <title>{category.seoTitle}</title>
-        <meta name="description" content={category.seoDescription} />
-        <meta name="keywords" content={`${category.subcategories.join(', ')}, roleta, sorteio, escolha aleatória`} />
-        <link rel="canonical" href={`https://wheelmaker.app/category/${category.id}`} />
-        
-        {/* Open Graph */}
-        <meta property="og:title" content={category.seoTitle} />
-        <meta property="og:description" content={category.seoDescription} />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://wheelmaker.app/category/${category.id}`} />
-        <meta property="og:image" content={`https://wheelmaker.app/api/og/category/${category.id}`} />
-      </Helmet>
-
-      <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900">
+    <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900">
         <div className="container mx-auto px-4 py-8">
           {/* Header da Categoria */}
           <div className="text-center mb-12">
@@ -258,6 +242,5 @@ export default function CategoryPage({ category, templates, totalTemplates }: Ca
           </div>
         </div>
       </div>
-    </>
   );
 }

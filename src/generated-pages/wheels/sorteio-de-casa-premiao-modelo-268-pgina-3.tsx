@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "casa"
   ],
-  "usageCount": 2291,
+  "usageCount": 52,
   "isPopular": false,
-  "createdAt": "2025-07-10",
+  "createdAt": "2025-07-24",
   "seo": {
     "title": "Sorteio de Casa Premiação - Modelo 268 | Página 3",
     "description": "Descubra o melhor template para Casa com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-casa-premiao-modelo-268-pgina-3",
   "seoTitle": "Sorteio de Casa Premiação - Modelo 268 | Página 3 - Roleta Online Grátis",

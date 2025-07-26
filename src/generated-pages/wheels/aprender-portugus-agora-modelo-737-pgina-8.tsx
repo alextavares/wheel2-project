@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "português"
   ],
-  "usageCount": 1074,
+  "usageCount": 5588,
   "isPopular": false,
-  "createdAt": "2025-06-26",
+  "createdAt": "2025-06-29",
   "seo": {
     "title": "Aprender Português Agora - Modelo 737 | Página 8",
     "description": "Descubra o melhor template para Português com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-portugus-agora-modelo-737-pgina-8",
   "seoTitle": "Aprender Português Agora - Modelo 737 | Página 8 - Roleta Online Grátis",

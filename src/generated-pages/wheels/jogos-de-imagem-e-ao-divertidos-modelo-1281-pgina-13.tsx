@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "imagem e ação"
   ],
-  "usageCount": 810,
+  "usageCount": 1641,
   "isPopular": false,
   "createdAt": "2025-06-25",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-imagem-e-ao-divertidos-modelo-1281-pgina-13",
   "seoTitle": "Jogos de Imagem e Ação Divertidos - Modelo 1281 | Página 13 - Roleta Online Grátis",

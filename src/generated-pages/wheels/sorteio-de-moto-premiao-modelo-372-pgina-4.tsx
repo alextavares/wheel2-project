@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "moto"
   ],
-  "usageCount": 2626,
+  "usageCount": 3660,
   "isPopular": false,
-  "createdAt": "2025-07-15",
+  "createdAt": "2025-07-22",
   "seo": {
     "title": "Sorteio de Moto Premiação - Modelo 372 | Página 4",
     "description": "Descubra o melhor template para Moto com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-moto-premiao-modelo-372-pgina-4",
   "seoTitle": "Sorteio de Moto Premiação - Modelo 372 | Página 4 - Roleta Online Grátis",

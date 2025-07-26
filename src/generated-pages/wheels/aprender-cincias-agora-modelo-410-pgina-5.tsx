@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "ciências"
   ],
-  "usageCount": 2817,
+  "usageCount": 296,
   "isPopular": false,
   "createdAt": "2025-07-04",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-cincias-agora-modelo-410-pgina-5",
   "seoTitle": "Aprender Ciências Agora - Modelo 410 | Página 5 - Roleta Online Grátis",

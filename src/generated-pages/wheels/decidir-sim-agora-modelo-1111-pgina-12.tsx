@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "sim"
   ],
-  "usageCount": 2936,
+  "usageCount": 916,
   "isPopular": false,
-  "createdAt": "2025-07-15",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Decidir SIM Agora - Modelo 1111 | Página 12",
     "description": "Descubra o melhor template para SIM com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-sim-agora-modelo-1111-pgina-12",
   "seoTitle": "Decidir SIM Agora - Modelo 1111 | Página 12 - Roleta Online Grátis",

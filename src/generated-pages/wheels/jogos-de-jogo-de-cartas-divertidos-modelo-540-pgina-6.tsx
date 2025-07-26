@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo de cartas"
   ],
-  "usageCount": 2178,
+  "usageCount": 5716,
   "isPopular": false,
-  "createdAt": "2025-06-25",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Jogos de Jogo de Cartas Divertidos - Modelo 540 | Página 6",
     "description": "Descubra o melhor template para Jogo de Cartas com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-de-cartas-divertidos-modelo-540-pgina-6",
   "seoTitle": "Jogos de Jogo de Cartas Divertidos - Modelo 540 | Página 6 - Roleta Online Grátis",

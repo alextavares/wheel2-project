@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "forró"
   ],
-  "usageCount": 8286,
+  "usageCount": 7599,
   "isPopular": false,
   "createdAt": "2025-07-03",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-forr-ouvir-modelo-1211-pgina-13",
   "seoTitle": "Músicas para Forró Ouvir - Modelo 1211 | Página 13 - Roleta Online Grátis",

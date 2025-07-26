@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "verdade ou desafio"
   ],
-  "usageCount": 9,
+  "usageCount": 741,
   "isPopular": true,
   "createdAt": "2025-07-11",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-verdade-ou-desafio-divertidos-modelo-91-pgina-1",
   "seoTitle": "Jogos de Verdade ou Desafio Divertidos - Modelo 91 | Página 1 - Roleta Online Grátis",

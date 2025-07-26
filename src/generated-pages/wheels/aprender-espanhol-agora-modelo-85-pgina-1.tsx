@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "espanhol"
   ],
-  "usageCount": 3735,
+  "usageCount": 5369,
   "isPopular": true,
-  "createdAt": "2025-07-11",
+  "createdAt": "2025-06-27",
   "seo": {
     "title": "Aprender Espanhol Agora - Modelo 85 | Página 1",
     "description": "Descubra o melhor template para Espanhol com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-espanhol-agora-modelo-85-pgina-1",
   "seoTitle": "Aprender Espanhol Agora - Modelo 85 | Página 1 - Roleta Online Grátis",

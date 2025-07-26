@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "terror"
   ],
-  "usageCount": 2687,
+  "usageCount": 6466,
   "isPopular": true,
-  "createdAt": "2025-07-22",
+  "createdAt": "2025-07-09",
   "seo": {
     "title": "Filmes para Terror Assistir - Modelo 4 | Página 1",
     "description": "Descubra o melhor template para Terror com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-terror-assistir-modelo-4-pgina-1",
   "seoTitle": "Filmes para Terror Assistir - Modelo 4 | Página 1 - Roleta Online Grátis",

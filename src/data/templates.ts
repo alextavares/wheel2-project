@@ -130,6 +130,26 @@ export const WHEEL_TEMPLATES: WheelTemplate[] = [
     isPopular: true,
     createdAt: '2024-01-25'
   },
+  {
+    id: 'gameSelector',
+    title: 'Seletor de Jogos',
+    description: 'Escolha que tipo de jogo jogar hoje',
+    category: 'games',
+    items: [
+      { id: '1', label: 'Jogo de Tabuleiro', color: colors.red },
+      { id: '2', label: 'Videogame', color: colors.blue },
+      { id: '3', label: 'Jogo de Cartas', color: colors.green },
+      { id: '4', label: 'Esporte', color: colors.orange },
+      { id: '5', label: 'Jogo de Festa', color: colors.purple },
+      { id: '6', label: 'Quebra-cabeça', color: colors.teal },
+      { id: '7', label: 'Jogo Online', color: colors.pink },
+      { id: '8', label: 'Jogo Educativo', color: colors.yellow }
+    ],
+    tags: ['seletor', 'jogos', 'tipos', 'categorias', 'escolha'],
+    usageCount: 5420,
+    isPopular: false,
+    createdAt: '2024-01-15'
+  },
 
   // FILMES & SÉRIES
   {

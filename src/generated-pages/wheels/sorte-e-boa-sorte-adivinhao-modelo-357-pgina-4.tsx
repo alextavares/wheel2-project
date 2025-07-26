@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "boa sorte"
   ],
-  "usageCount": 7761,
+  "usageCount": 1128,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-boa-sorte-adivinhao-modelo-357-pgina-4",
   "seoTitle": "Sorte e Boa sorte Adivinhação - Modelo 357 | Página 4 - Roleta Online Grátis",

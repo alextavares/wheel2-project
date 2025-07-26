@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "pense"
   ],
-  "usageCount": 7856,
+  "usageCount": 8030,
   "isPopular": false,
-  "createdAt": "2025-06-30",
+  "createdAt": "2025-07-03",
   "seo": {
     "title": "Decidir Pense Agora - Modelo 988 | Página 10",
     "description": "Descubra o melhor template para Pense com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-pense-agora-modelo-988-pgina-10",
   "seoTitle": "Decidir Pense Agora - Modelo 988 | Página 10 - Roleta Online Grátis",

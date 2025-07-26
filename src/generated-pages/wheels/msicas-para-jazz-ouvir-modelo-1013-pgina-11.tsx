@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "jazz"
   ],
-  "usageCount": 5404,
+  "usageCount": 9638,
   "isPopular": false,
   "createdAt": "2025-06-25",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-jazz-ouvir-modelo-1013-pgina-11",
   "seoTitle": "Músicas para Jazz Ouvir - Modelo 1013 | Página 11 - Roleta Online Grátis",

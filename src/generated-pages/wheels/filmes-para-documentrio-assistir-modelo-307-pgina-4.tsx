@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "documentário"
   ],
-  "usageCount": 7844,
+  "usageCount": 4881,
   "isPopular": false,
   "createdAt": "2025-07-20",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-documentrio-assistir-modelo-307-pgina-4",
   "seoTitle": "Filmes para Documentário Assistir - Modelo 307 | Página 4 - Roleta Online Grátis",

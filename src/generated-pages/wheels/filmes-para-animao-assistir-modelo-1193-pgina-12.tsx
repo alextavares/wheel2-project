@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "animação"
   ],
-  "usageCount": 7280,
+  "usageCount": 379,
   "isPopular": false,
-  "createdAt": "2025-07-19",
+  "createdAt": "2025-07-10",
   "seo": {
     "title": "Filmes para Animação Assistir - Modelo 1193 | Página 12",
     "description": "Descubra o melhor template para Animação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-animao-assistir-modelo-1193-pgina-12",
   "seoTitle": "Filmes para Animação Assistir - Modelo 1193 | Página 12 - Roleta Online Grátis",

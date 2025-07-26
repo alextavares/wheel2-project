@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "axé"
   ],
-  "usageCount": 7693,
+  "usageCount": 9235,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-ax-ouvir-modelo-747-pgina-8",
   "seoTitle": "Músicas para Axé Ouvir - Modelo 747 | Página 8 - Roleta Online Grátis",

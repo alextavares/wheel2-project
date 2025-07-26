@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "azar"
   ],
-  "usageCount": 8690,
+  "usageCount": 3336,
   "isPopular": false,
   "createdAt": "2025-07-19",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-azar-adivinhao-modelo-223-pgina-3",
   "seoTitle": "Sorte e Azar Adivinhação - Modelo 223 | Página 3 - Roleta Online Grátis",

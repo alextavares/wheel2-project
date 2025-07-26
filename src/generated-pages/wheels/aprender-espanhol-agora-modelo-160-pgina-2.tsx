@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "espanhol"
   ],
-  "usageCount": 2237,
+  "usageCount": 4040,
   "isPopular": false,
-  "createdAt": "2025-07-07",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Aprender Espanhol Agora - Modelo 160 | Página 2",
     "description": "Descubra o melhor template para Espanhol com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-espanhol-agora-modelo-160-pgina-2",
   "seoTitle": "Aprender Espanhol Agora - Modelo 160 | Página 2 - Roleta Online Grátis",

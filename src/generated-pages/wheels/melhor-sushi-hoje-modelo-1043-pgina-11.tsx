@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "sushi"
   ],
-  "usageCount": 5341,
+  "usageCount": 8116,
   "isPopular": false,
-  "createdAt": "2025-06-27",
+  "createdAt": "2025-07-23",
   "seo": {
     "title": "Melhor Sushi Hoje - Modelo 1043 | Página 11",
     "description": "Descubra o melhor template para Sushi com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-sushi-hoje-modelo-1043-pgina-11",
   "seoTitle": "Melhor Sushi Hoje - Modelo 1043 | Página 11 - Roleta Online Grátis",

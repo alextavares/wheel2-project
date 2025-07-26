@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "rock"
   ],
-  "usageCount": 4008,
+  "usageCount": 9753,
   "isPopular": false,
   "createdAt": "2025-07-07",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-rock-ouvir-modelo-1337-pgina-14",
   "seoTitle": "Músicas para Rock Ouvir - Modelo 1337 | Página 14 - Roleta Online Grátis",

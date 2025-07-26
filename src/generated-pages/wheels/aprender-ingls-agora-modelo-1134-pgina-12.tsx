@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "inglês"
   ],
-  "usageCount": 4890,
+  "usageCount": 4700,
   "isPopular": false,
   "createdAt": "2025-07-04",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-ingls-agora-modelo-1134-pgina-12",
   "seoTitle": "Aprender Inglês Agora - Modelo 1134 | Página 12 - Roleta Online Grátis",

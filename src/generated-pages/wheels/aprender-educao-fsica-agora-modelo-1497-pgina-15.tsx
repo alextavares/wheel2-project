@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "educação física"
   ],
-  "usageCount": 2140,
+  "usageCount": 4777,
   "isPopular": false,
-  "createdAt": "2025-07-20",
+  "createdAt": "2025-06-27",
   "seo": {
     "title": "Aprender Educação Física Agora - Modelo 1497 | Página 15",
     "description": "Descubra o melhor template para Educação Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-educao-fsica-agora-modelo-1497-pgina-15",
   "seoTitle": "Aprender Educação Física Agora - Modelo 1497 | Página 15 - Roleta Online Grátis",

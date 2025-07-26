@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "baralho"
   ],
-  "usageCount": 5821,
+  "usageCount": 7655,
   "isPopular": false,
-  "createdAt": "2025-07-20",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Jogos de Baralho Divertidos - Modelo 1138 | Página 12",
     "description": "Descubra o melhor template para Baralho com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-baralho-divertidos-modelo-1138-pgina-12",
   "seoTitle": "Jogos de Baralho Divertidos - Modelo 1138 | Página 12 - Roleta Online Grátis",

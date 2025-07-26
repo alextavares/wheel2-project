@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "hip hop"
   ],
-  "usageCount": 8630,
+  "usageCount": 8021,
   "isPopular": false,
   "createdAt": "2025-07-14",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-hip-hop-ouvir-modelo-903-pgina-10",
   "seoTitle": "Músicas para Hip Hop Ouvir - Modelo 903 | Página 10 - Roleta Online Grátis",

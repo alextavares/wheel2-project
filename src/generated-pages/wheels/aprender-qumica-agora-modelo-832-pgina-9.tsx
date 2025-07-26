@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "química"
   ],
-  "usageCount": 2218,
+  "usageCount": 2172,
   "isPopular": false,
-  "createdAt": "2025-07-03",
+  "createdAt": "2025-07-09",
   "seo": {
     "title": "Aprender Química Agora - Modelo 832 | Página 9",
     "description": "Descubra o melhor template para Química com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-qumica-agora-modelo-832-pgina-9",
   "seoTitle": "Aprender Química Agora - Modelo 832 | Página 9 - Roleta Online Grátis",

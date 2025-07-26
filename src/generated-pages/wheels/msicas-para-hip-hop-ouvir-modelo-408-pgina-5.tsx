@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "hip hop"
   ],
-  "usageCount": 3047,
+  "usageCount": 4358,
   "isPopular": false,
-  "createdAt": "2025-07-12",
+  "createdAt": "2025-07-10",
   "seo": {
     "title": "Músicas para Hip Hop Ouvir - Modelo 408 | Página 5",
     "description": "Descubra o melhor template para Hip Hop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-hip-hop-ouvir-modelo-408-pgina-5",
   "seoTitle": "Músicas para Hip Hop Ouvir - Modelo 408 | Página 5 - Roleta Online Grátis",

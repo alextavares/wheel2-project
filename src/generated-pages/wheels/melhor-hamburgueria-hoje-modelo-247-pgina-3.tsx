@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "hamburgueria"
   ],
-  "usageCount": 7026,
+  "usageCount": 8812,
   "isPopular": false,
   "createdAt": "2025-07-04",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-hamburgueria-hoje-modelo-247-pgina-3",
   "seoTitle": "Melhor Hamburgueria Hoje - Modelo 247 | Página 3 - Roleta Online Grátis",

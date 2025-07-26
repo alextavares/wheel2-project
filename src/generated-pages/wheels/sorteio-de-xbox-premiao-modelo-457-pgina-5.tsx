@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "xbox"
   ],
-  "usageCount": 5866,
+  "usageCount": 3004,
   "isPopular": false,
-  "createdAt": "2025-06-28",
+  "createdAt": "2025-07-07",
   "seo": {
     "title": "Sorteio de Xbox Premiação - Modelo 457 | Página 5",
     "description": "Descubra o melhor template para Xbox com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-xbox-premiao-modelo-457-pgina-5",
   "seoTitle": "Sorteio de Xbox Premiação - Modelo 457 | Página 5 - Roleta Online Grátis",

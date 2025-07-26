@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "detetive"
   ],
-  "usageCount": 296,
+  "usageCount": 6407,
   "isPopular": false,
   "createdAt": "2025-07-23",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-detetive-divertidos-modelo-1480-pgina-15",
   "seoTitle": "Jogos de Detetive Divertidos - Modelo 1480 | Página 15 - Roleta Online Grátis",

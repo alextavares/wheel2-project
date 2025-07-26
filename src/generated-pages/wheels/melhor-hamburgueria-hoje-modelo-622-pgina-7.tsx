@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "hamburgueria"
   ],
-  "usageCount": 6844,
+  "usageCount": 2428,
   "isPopular": false,
   "createdAt": "2025-07-07",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-hamburgueria-hoje-modelo-622-pgina-7",
   "seoTitle": "Melhor Hamburgueria Hoje - Modelo 622 | Página 7 - Roleta Online Grátis",

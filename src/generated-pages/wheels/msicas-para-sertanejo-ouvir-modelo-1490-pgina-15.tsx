@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "sertanejo"
   ],
-  "usageCount": 6655,
+  "usageCount": 753,
   "isPopular": false,
   "createdAt": "2025-07-20",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-sertanejo-ouvir-modelo-1490-pgina-15",
   "seoTitle": "Músicas para Sertanejo Ouvir - Modelo 1490 | Página 15 - Roleta Online Grátis",

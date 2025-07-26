@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "carro 0km"
   ],
-  "usageCount": 9433,
+  "usageCount": 7660,
   "isPopular": false,
   "createdAt": "2025-07-03",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-carro-0km-premiao-modelo-316-pgina-4",
   "seoTitle": "Sorteio de Carro 0km Premiação - Modelo 316 | Página 4 - Roleta Online Grátis",

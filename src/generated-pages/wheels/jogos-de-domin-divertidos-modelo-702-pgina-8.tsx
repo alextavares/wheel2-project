@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "dominó"
   ],
-  "usageCount": 9566,
+  "usageCount": 4611,
   "isPopular": false,
   "createdAt": "2025-07-01",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-domin-divertidos-modelo-702-pgina-8",
   "seoTitle": "Jogos de Dominó Divertidos - Modelo 702 | Página 8 - Roleta Online Grátis",

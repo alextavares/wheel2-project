@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "fantasia"
   ],
-  "usageCount": 5017,
+  "usageCount": 1653,
   "isPopular": false,
-  "createdAt": "2025-06-30",
+  "createdAt": "2025-07-13",
   "seo": {
     "title": "Filmes para Fantasia Assistir - Modelo 1122 | Página 12",
     "description": "Descubra o melhor template para Fantasia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fantasia-assistir-modelo-1122-pgina-12",
   "seoTitle": "Filmes para Fantasia Assistir - Modelo 1122 | Página 12 - Roleta Online Grátis",

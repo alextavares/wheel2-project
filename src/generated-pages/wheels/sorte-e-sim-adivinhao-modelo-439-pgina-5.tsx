@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "sim"
   ],
-  "usageCount": 2571,
+  "usageCount": 1449,
   "isPopular": false,
-  "createdAt": "2025-07-05",
+  "createdAt": "2025-07-18",
   "seo": {
     "title": "Sorte e Sim Adivinhação - Modelo 439 | Página 5",
     "description": "Descubra o melhor template para Sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-sim-adivinhao-modelo-439-pgina-5",
   "seoTitle": "Sorte e Sim Adivinhação - Modelo 439 | Página 5 - Roleta Online Grátis",

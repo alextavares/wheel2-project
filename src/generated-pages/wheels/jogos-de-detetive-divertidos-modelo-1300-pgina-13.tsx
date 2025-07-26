@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "detetive"
   ],
-  "usageCount": 1559,
+  "usageCount": 3379,
   "isPopular": false,
   "createdAt": "2025-07-12",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-detetive-divertidos-modelo-1300-pgina-13",
   "seoTitle": "Jogos de Detetive Divertidos - Modelo 1300 | Página 13 - Roleta Online Grátis",

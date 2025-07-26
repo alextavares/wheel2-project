@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "melhor não"
   ],
-  "usageCount": 2458,
+  "usageCount": 7515,
   "isPopular": false,
   "createdAt": "2025-07-19",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-melhor-no-agora-modelo-922-pgina-10",
   "seoTitle": "Decidir Melhor Não Agora - Modelo 922 | Página 10 - Roleta Online Grátis",

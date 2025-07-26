@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo de tabuleiro"
   ],
-  "usageCount": 1019,
+  "usageCount": 804,
   "isPopular": false,
   "createdAt": "2025-07-04",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-de-tabuleiro-divertidos-modelo-1304-pgina-14",
   "seoTitle": "Jogos de Jogo de Tabuleiro Divertidos - Modelo 1304 | Página 14 - Roleta Online Grátis",

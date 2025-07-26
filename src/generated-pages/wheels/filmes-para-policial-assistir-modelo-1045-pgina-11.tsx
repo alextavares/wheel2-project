@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "policial"
   ],
-  "usageCount": 4245,
+  "usageCount": 1587,
   "isPopular": false,
-  "createdAt": "2025-07-10",
+  "createdAt": "2025-07-24",
   "seo": {
     "title": "Filmes para Policial Assistir - Modelo 1045 | Página 11",
     "description": "Descubra o melhor template para Policial com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-policial-assistir-modelo-1045-pgina-11",
   "seoTitle": "Filmes para Policial Assistir - Modelo 1045 | Página 11 - Roleta Online Grátis",

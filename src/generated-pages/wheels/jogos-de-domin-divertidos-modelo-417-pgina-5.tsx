@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "dominó"
   ],
-  "usageCount": 233,
+  "usageCount": 3040,
   "isPopular": false,
   "createdAt": "2025-07-05",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-domin-divertidos-modelo-417-pgina-5",
   "seoTitle": "Jogos de Dominó Divertidos - Modelo 417 | Página 5 - Roleta Online Grátis",

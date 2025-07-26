@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "casa"
   ],
-  "usageCount": 3752,
+  "usageCount": 8552,
   "isPopular": false,
   "createdAt": "2025-07-09",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-casa-premiao-modelo-343-pgina-4",
   "seoTitle": "Sorteio de Casa Premiação - Modelo 343 | Página 4 - Roleta Online Grátis",

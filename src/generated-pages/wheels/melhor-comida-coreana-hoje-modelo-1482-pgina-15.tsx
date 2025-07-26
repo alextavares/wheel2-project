@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida coreana"
   ],
-  "usageCount": 2364,
+  "usageCount": 8033,
   "isPopular": false,
-  "createdAt": "2025-07-13",
+  "createdAt": "2025-06-27",
   "seo": {
     "title": "Melhor Comida Coreana Hoje - Modelo 1482 | Página 15",
     "description": "Descubra o melhor template para Comida Coreana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-coreana-hoje-modelo-1482-pgina-15",
   "seoTitle": "Melhor Comida Coreana Hoje - Modelo 1482 | Página 15 - Roleta Online Grátis",

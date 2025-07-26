@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "reggae"
   ],
-  "usageCount": 2979,
+  "usageCount": 6536,
   "isPopular": false,
   "createdAt": "2025-07-20",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-reggae-ouvir-modelo-265-pgina-3",
   "seoTitle": "Músicas para Reggae Ouvir - Modelo 265 | Página 3 - Roleta Online Grátis",

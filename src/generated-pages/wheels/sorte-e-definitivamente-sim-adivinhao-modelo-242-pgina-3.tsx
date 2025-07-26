@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "definitivamente sim"
   ],
-  "usageCount": 8166,
+  "usageCount": 7039,
   "isPopular": false,
   "createdAt": "2025-06-25",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-definitivamente-sim-adivinhao-modelo-242-pgina-3",
   "seoTitle": "Sorte e Definitivamente sim Adivinhação - Modelo 242 | Página 3 - Roleta Online Grátis",

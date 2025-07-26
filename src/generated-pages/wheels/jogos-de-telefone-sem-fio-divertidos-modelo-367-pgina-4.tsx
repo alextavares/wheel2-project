@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "telefone sem fio"
   ],
-  "usageCount": 3702,
+  "usageCount": 812,
   "isPopular": false,
   "createdAt": "2025-07-21",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-telefone-sem-fio-divertidos-modelo-367-pgina-4",
   "seoTitle": "Jogos de Telefone sem Fio Divertidos - Modelo 367 | Página 4 - Roleta Online Grátis",

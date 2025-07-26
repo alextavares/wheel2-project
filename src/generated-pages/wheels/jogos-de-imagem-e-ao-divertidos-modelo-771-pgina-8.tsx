@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "imagem e ação"
   ],
-  "usageCount": 7026,
+  "usageCount": 3112,
   "isPopular": false,
-  "createdAt": "2025-07-18",
+  "createdAt": "2025-07-09",
   "seo": {
     "title": "Jogos de Imagem e Ação Divertidos - Modelo 771 | Página 8",
     "description": "Descubra o melhor template para Imagem e Ação com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-imagem-e-ao-divertidos-modelo-771-pgina-8",
   "seoTitle": "Jogos de Imagem e Ação Divertidos - Modelo 771 | Página 8 - Roleta Online Grátis",

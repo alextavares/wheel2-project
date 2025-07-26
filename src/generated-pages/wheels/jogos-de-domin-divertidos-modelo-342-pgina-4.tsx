@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "dominó"
   ],
-  "usageCount": 7805,
+  "usageCount": 82,
   "isPopular": false,
-  "createdAt": "2025-06-24",
+  "createdAt": "2025-07-15",
   "seo": {
     "title": "Jogos de Dominó Divertidos - Modelo 342 | Página 4",
     "description": "Descubra o melhor template para Dominó com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-domin-divertidos-modelo-342-pgina-4",
   "seoTitle": "Jogos de Dominó Divertidos - Modelo 342 | Página 4 - Roleta Online Grátis",

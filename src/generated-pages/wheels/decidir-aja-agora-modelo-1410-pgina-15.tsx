@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "aja"
   ],
-  "usageCount": 9029,
+  "usageCount": 9220,
   "isPopular": false,
-  "createdAt": "2025-06-27",
+  "createdAt": "2025-07-24",
   "seo": {
     "title": "Decidir Aja Agora - Modelo 1410 | Página 15",
     "description": "Descubra o melhor template para Aja com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-aja-agora-modelo-1410-pgina-15",
   "seoTitle": "Decidir Aja Agora - Modelo 1410 | Página 15 - Roleta Online Grátis",

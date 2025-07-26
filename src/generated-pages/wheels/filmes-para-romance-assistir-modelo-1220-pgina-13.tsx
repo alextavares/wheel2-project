@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "romance"
   ],
-  "usageCount": 1895,
+  "usageCount": 566,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-romance-assistir-modelo-1220-pgina-13",
   "seoTitle": "Filmes para Romance Assistir - Modelo 1220 | Página 13 - Roleta Online Grátis",

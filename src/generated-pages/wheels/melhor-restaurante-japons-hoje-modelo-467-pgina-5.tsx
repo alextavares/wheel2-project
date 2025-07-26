@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante japonês"
   ],
-  "usageCount": 5458,
+  "usageCount": 6417,
   "isPopular": false,
   "createdAt": "2025-07-23",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-japons-hoje-modelo-467-pgina-5",
   "seoTitle": "Melhor Restaurante Japonês Hoje - Modelo 467 | Página 5 - Roleta Online Grátis",

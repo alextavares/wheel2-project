@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "decida"
   ],
-  "usageCount": 4941,
+  "usageCount": 8967,
   "isPopular": false,
   "createdAt": "2025-07-15",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-decida-agora-modelo-1289-pgina-13",
   "seoTitle": "Decidir Decida Agora - Modelo 1289 | Página 13 - Roleta Online Grátis",

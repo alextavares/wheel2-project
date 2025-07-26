@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "azar"
   ],
-  "usageCount": 6095,
+  "usageCount": 7376,
   "isPopular": true,
   "createdAt": "2025-07-09",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-azar-adivinhao-modelo-58-pgina-1",
   "seoTitle": "Sorte e Azar Adivinhação - Modelo 58 | Página 1 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "provavelmente"
   ],
-  "usageCount": 9882,
+  "usageCount": 1271,
   "isPopular": false,
-  "createdAt": "2025-07-11",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Sorte e Provavelmente Adivinhação - Modelo 200 | Página 2",
     "description": "Descubra o melhor template para Provavelmente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-provavelmente-adivinhao-modelo-200-pgina-2",
   "seoTitle": "Sorte e Provavelmente Adivinhação - Modelo 200 | Página 2 - Roleta Online Grátis",

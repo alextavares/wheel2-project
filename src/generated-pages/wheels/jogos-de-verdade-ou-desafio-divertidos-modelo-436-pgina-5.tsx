@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "verdade ou desafio"
   ],
-  "usageCount": 2677,
+  "usageCount": 8825,
   "isPopular": false,
   "createdAt": "2025-07-06",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-verdade-ou-desafio-divertidos-modelo-436-pgina-5",
   "seoTitle": "Jogos de Verdade ou Desafio Divertidos - Modelo 436 | Página 5 - Roleta Online Grátis",

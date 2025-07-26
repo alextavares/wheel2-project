@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "guerra"
   ],
-  "usageCount": 7515,
+  "usageCount": 8624,
   "isPopular": false,
   "createdAt": "2025-07-19",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-guerra-assistir-modelo-1439-pgina-15",
   "seoTitle": "Filmes para Guerra Assistir - Modelo 1439 | Página 15 - Roleta Online Grátis",

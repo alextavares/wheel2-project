@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "jazz"
   ],
-  "usageCount": 9814,
+  "usageCount": 7746,
   "isPopular": false,
   "createdAt": "2025-07-21",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-jazz-ouvir-modelo-578-pgina-6",
   "seoTitle": "Músicas para Jazz Ouvir - Modelo 578 | Página 6 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "analise"
   ],
-  "usageCount": 3488,
+  "usageCount": 2269,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-06-30",
   "seo": {
     "title": "Decidir Analise Agora - Modelo 430 | Página 5",
     "description": "Descubra o melhor template para Analise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-analise-agora-modelo-430-pgina-5",
   "seoTitle": "Decidir Analise Agora - Modelo 430 | Página 5 - Roleta Online Grátis",

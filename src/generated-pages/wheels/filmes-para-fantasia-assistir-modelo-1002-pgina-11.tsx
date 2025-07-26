@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "fantasia"
   ],
-  "usageCount": 5192,
+  "usageCount": 4305,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fantasia-assistir-modelo-1002-pgina-11",
   "seoTitle": "Filmes para Fantasia Assistir - Modelo 1002 | Página 11 - Roleta Online Grátis",

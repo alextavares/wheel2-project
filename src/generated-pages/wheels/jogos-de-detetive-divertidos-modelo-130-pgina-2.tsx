@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "detetive"
   ],
-  "usageCount": 2695,
+  "usageCount": 3574,
   "isPopular": false,
-  "createdAt": "2025-06-30",
+  "createdAt": "2025-07-17",
   "seo": {
     "title": "Jogos de Detetive Divertidos - Modelo 130 | Página 2",
     "description": "Descubra o melhor template para Detetive com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-detetive-divertidos-modelo-130-pgina-2",
   "seoTitle": "Jogos de Detetive Divertidos - Modelo 130 | Página 2 - Roleta Online Grátis",

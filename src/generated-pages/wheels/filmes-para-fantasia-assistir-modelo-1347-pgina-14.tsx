@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "fantasia"
   ],
-  "usageCount": 6341,
+  "usageCount": 6983,
   "isPopular": false,
   "createdAt": "2025-06-26",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fantasia-assistir-modelo-1347-pgina-14",
   "seoTitle": "Filmes para Fantasia Assistir - Modelo 1347 | Página 14 - Roleta Online Grátis",

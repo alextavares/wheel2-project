@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "terror"
   ],
-  "usageCount": 5012,
+  "usageCount": 1316,
   "isPopular": false,
   "createdAt": "2025-06-28",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-terror-assistir-modelo-454-pgina-5",
   "seoTitle": "Filmes para Terror Assistir - Modelo 454 | Página 5 - Roleta Online Grátis",

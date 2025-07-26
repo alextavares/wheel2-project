@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "imagem e ação"
   ],
-  "usageCount": 3708,
+  "usageCount": 3343,
   "isPopular": false,
-  "createdAt": "2025-06-25",
+  "createdAt": "2025-06-29",
   "seo": {
     "title": "Jogos de Imagem e Ação Divertidos - Modelo 576 | Página 6",
     "description": "Descubra o melhor template para Imagem e Ação com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-imagem-e-ao-divertidos-modelo-576-pgina-6",
   "seoTitle": "Jogos de Imagem e Ação Divertidos - Modelo 576 | Página 6 - Roleta Online Grátis",

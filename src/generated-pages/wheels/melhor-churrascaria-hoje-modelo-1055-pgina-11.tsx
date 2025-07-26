@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "churrascaria"
   ],
-  "usageCount": 2326,
+  "usageCount": 6614,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-churrascaria-hoje-modelo-1055-pgina-11",
   "seoTitle": "Melhor Churrascaria Hoje - Modelo 1055 | Página 11 - Roleta Online Grátis",

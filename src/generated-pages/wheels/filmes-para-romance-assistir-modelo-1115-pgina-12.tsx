@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "romance"
   ],
-  "usageCount": 7804,
+  "usageCount": 8371,
   "isPopular": false,
-  "createdAt": "2025-07-07",
+  "createdAt": "2025-07-23",
   "seo": {
     "title": "Filmes para Romance Assistir - Modelo 1115 | Página 12",
     "description": "Descubra o melhor template para Romance com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-romance-assistir-modelo-1115-pgina-12",
   "seoTitle": "Filmes para Romance Assistir - Modelo 1115 | Página 12 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo de cartas"
   ],
-  "usageCount": 1746,
+  "usageCount": 3756,
   "isPopular": false,
   "createdAt": "2025-07-04",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-de-cartas-divertidos-modelo-870-pgina-9",
   "seoTitle": "Jogos de Jogo de Cartas Divertidos - Modelo 870 | Página 9 - Roleta Online Grátis",

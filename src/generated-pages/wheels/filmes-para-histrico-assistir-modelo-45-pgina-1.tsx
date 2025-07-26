@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "histórico"
   ],
-  "usageCount": 8574,
+  "usageCount": 3966,
   "isPopular": true,
   "createdAt": "2025-07-10",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-histrico-assistir-modelo-45-pgina-1",
   "seoTitle": "Filmes para Histórico Assistir - Modelo 45 | Página 1 - Roleta Online Grátis",

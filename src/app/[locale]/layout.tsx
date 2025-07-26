@@ -1,15 +1,17 @@
 import { Locale } from '@/lib/i18n';
 
-export default function RootLayout({
+export default async function LocaleLayout({
   children,
   params,
 }: {
   children: React.ReactNode;
-  params: { locale: Locale };
+  params: Promise<{ locale: Locale }>;
 }) {
+  const { locale } = await params;
+  
   return (
-    <html lang={params.locale}>
-      <body>{children}</body>
-    </html>
+    <div data-locale={locale}>
+      {children}
+    </div>
   );
 }

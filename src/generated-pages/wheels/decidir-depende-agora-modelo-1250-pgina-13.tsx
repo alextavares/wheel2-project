@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "depende"
   ],
-  "usageCount": 840,
+  "usageCount": 6033,
   "isPopular": false,
-  "createdAt": "2025-07-18",
+  "createdAt": "2025-07-08",
   "seo": {
     "title": "Decidir Depende Agora - Modelo 1250 | Página 13",
     "description": "Descubra o melhor template para Depende com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-depende-agora-modelo-1250-pgina-13",
   "seoTitle": "Decidir Depende Agora - Modelo 1250 | Página 13 - Roleta Online Grátis",

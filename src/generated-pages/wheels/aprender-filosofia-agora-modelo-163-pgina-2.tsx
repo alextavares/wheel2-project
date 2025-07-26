@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "filosofia"
   ],
-  "usageCount": 9645,
+  "usageCount": 7738,
   "isPopular": false,
-  "createdAt": "2025-07-23",
+  "createdAt": "2025-07-07",
   "seo": {
     "title": "Aprender Filosofia Agora - Modelo 163 | Página 2",
     "description": "Descubra o melhor template para Filosofia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-filosofia-agora-modelo-163-pgina-2",
   "seoTitle": "Aprender Filosofia Agora - Modelo 163 | Página 2 - Roleta Online Grátis",

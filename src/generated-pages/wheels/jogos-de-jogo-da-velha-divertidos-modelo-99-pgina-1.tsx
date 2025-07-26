@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo da velha"
   ],
-  "usageCount": 6894,
+  "usageCount": 5275,
   "isPopular": true,
-  "createdAt": "2025-07-12",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Jogos de Jogo da Velha Divertidos - Modelo 99 | Página 1",
     "description": "Descubra o melhor template para Jogo da Velha com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-da-velha-divertidos-modelo-99-pgina-1",
   "seoTitle": "Jogos de Jogo da Velha Divertidos - Modelo 99 | Página 1 - Roleta Online Grátis",

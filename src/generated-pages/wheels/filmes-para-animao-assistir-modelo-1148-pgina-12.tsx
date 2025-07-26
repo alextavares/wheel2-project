@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "animação"
   ],
-  "usageCount": 6434,
+  "usageCount": 5289,
   "isPopular": false,
   "createdAt": "2025-07-11",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-animao-assistir-modelo-1148-pgina-12",
   "seoTitle": "Filmes para Animação Assistir - Modelo 1148 | Página 12 - Roleta Online Grátis",

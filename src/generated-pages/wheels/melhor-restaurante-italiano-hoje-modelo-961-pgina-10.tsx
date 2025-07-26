@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante italiano"
   ],
-  "usageCount": 2970,
+  "usageCount": 589,
   "isPopular": false,
-  "createdAt": "2025-07-16",
+  "createdAt": "2025-07-21",
   "seo": {
     "title": "Melhor Restaurante Italiano Hoje - Modelo 961 | Página 10",
     "description": "Descubra o melhor template para Restaurante Italiano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-italiano-hoje-modelo-961-pgina-10",
   "seoTitle": "Melhor Restaurante Italiano Hoje - Modelo 961 | Página 10 - Roleta Online Grátis",

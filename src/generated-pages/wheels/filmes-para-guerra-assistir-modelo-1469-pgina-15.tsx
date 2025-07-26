@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "guerra"
   ],
-  "usageCount": 7089,
+  "usageCount": 8128,
   "isPopular": false,
-  "createdAt": "2025-07-11",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Filmes para Guerra Assistir - Modelo 1469 | Página 15",
     "description": "Descubra o melhor template para Guerra com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-guerra-assistir-modelo-1469-pgina-15",
   "seoTitle": "Filmes para Guerra Assistir - Modelo 1469 | Página 15 - Roleta Online Grátis",

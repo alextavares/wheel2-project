@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "aventura"
   ],
-  "usageCount": 1156,
+  "usageCount": 7503,
   "isPopular": false,
   "createdAt": "2025-07-18",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-aventura-assistir-modelo-416-pgina-5",
   "seoTitle": "Filmes para Aventura Assistir - Modelo 416 | Página 5 - Roleta Online Grátis",

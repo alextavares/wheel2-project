@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "verdade ou desafio"
   ],
-  "usageCount": 613,
+  "usageCount": 3496,
   "isPopular": false,
-  "createdAt": "2025-07-11",
+  "createdAt": "2025-07-19",
   "seo": {
     "title": "Jogos de Verdade ou Desafio Divertidos - Modelo 1486 | Página 15",
     "description": "Descubra o melhor template para Verdade ou Desafio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-verdade-ou-desafio-divertidos-modelo-1486-pgina-15",
   "seoTitle": "Jogos de Verdade ou Desafio Divertidos - Modelo 1486 | Página 15 - Roleta Online Grátis",

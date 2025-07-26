@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "matemática"
   ],
-  "usageCount": 5751,
+  "usageCount": 5845,
   "isPopular": false,
   "createdAt": "2025-07-08",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-matemtica-agora-modelo-721-pgina-8",
   "seoTitle": "Aprender Matemática Agora - Modelo 721 | Página 8 - Roleta Online Grátis",

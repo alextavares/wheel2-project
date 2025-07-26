@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "matemática"
   ],
-  "usageCount": 2023,
+  "usageCount": 3318,
   "isPopular": false,
   "createdAt": "2025-07-23",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-matemtica-agora-modelo-1291-pgina-13",
   "seoTitle": "Aprender Matemática Agora - Modelo 1291 | Página 13 - Roleta Online Grátis",

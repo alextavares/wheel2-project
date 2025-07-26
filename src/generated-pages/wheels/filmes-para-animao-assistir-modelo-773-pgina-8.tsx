@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "animação"
   ],
-  "usageCount": 2648,
+  "usageCount": 5108,
   "isPopular": false,
   "createdAt": "2025-07-01",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-animao-assistir-modelo-773-pgina-8",
   "seoTitle": "Filmes para Animação Assistir - Modelo 773 | Página 8 - Roleta Online Grátis",

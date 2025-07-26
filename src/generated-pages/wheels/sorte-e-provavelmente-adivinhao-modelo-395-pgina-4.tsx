@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "provavelmente"
   ],
-  "usageCount": 806,
+  "usageCount": 3484,
   "isPopular": false,
   "createdAt": "2025-07-15",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-provavelmente-adivinhao-modelo-395-pgina-4",
   "seoTitle": "Sorte e Provavelmente Adivinhação - Modelo 395 | Página 4 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "azar"
   ],
-  "usageCount": 8350,
+  "usageCount": 1389,
   "isPopular": true,
-  "createdAt": "2025-07-17",
+  "createdAt": "2025-06-26",
   "seo": {
     "title": "Sorte e Azar Adivinhação - Modelo 73 | Página 1",
     "description": "Descubra o melhor template para Azar com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-azar-adivinhao-modelo-73-pgina-1",
   "seoTitle": "Sorte e Azar Adivinhação - Modelo 73 | Página 1 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "espere e veja"
   ],
-  "usageCount": 9978,
+  "usageCount": 2105,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-06-28",
   "seo": {
     "title": "Sorte e Espere e veja Adivinhação - Modelo 206 | Página 3",
     "description": "Descubra o melhor template para Espere e veja com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-espere-e-veja-adivinhao-modelo-206-pgina-3",
   "seoTitle": "Sorte e Espere e veja Adivinhação - Modelo 206 | Página 3 - Roleta Online Grátis",

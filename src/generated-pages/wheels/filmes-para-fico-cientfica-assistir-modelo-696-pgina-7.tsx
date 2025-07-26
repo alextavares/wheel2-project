@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "ficção científica"
   ],
-  "usageCount": 3083,
+  "usageCount": 5682,
   "isPopular": false,
   "createdAt": "2025-07-07",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-fico-cientfica-assistir-modelo-696-pgina-7",
   "seoTitle": "Filmes para Ficção Científica Assistir - Modelo 696 | Página 7 - Roleta Online Grátis",

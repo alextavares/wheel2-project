@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "histórico"
   ],
-  "usageCount": 3778,
+  "usageCount": 19,
   "isPopular": false,
   "createdAt": "2025-07-02",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-histrico-assistir-modelo-1035-pgina-11",
   "seoTitle": "Filmes para Histórico Assistir - Modelo 1035 | Página 11 - Roleta Online Grátis",

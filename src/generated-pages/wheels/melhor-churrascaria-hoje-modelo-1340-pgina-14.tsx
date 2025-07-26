@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "churrascaria"
   ],
-  "usageCount": 8715,
+  "usageCount": 6368,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-07-20",
   "seo": {
     "title": "Melhor Churrascaria Hoje - Modelo 1340 | Página 14",
     "description": "Descubra o melhor template para Churrascaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-churrascaria-hoje-modelo-1340-pgina-14",
   "seoTitle": "Melhor Churrascaria Hoje - Modelo 1340 | Página 14 - Roleta Online Grátis",

@@ -89,9 +89,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante italiano"
     ],
-    "usageCount": 9343,
+    "usageCount": 5706,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Melhor Restaurante Italiano Hoje - Modelo 1 | Página 1",
       "description": "Descubra o melhor template para Restaurante Italiano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -118,7 +118,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -186,9 +186,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante japonês"
     ],
-    "usageCount": 9324,
+    "usageCount": 8610,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Melhor Restaurante Japonês Hoje - Modelo 2 | Página 1",
       "description": "Descubra o melhor template para Restaurante Japonês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -215,7 +215,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -283,9 +283,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante mexicano"
     ],
-    "usageCount": 8638,
+    "usageCount": 8024,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Melhor Restaurante Mexicano Hoje - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para Restaurante Mexicano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -312,7 +312,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -380,9 +380,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante chinês"
     ],
-    "usageCount": 2763,
+    "usageCount": 2828,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Melhor Restaurante Chinês Hoje - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Restaurante Chinês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -409,7 +409,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -477,9 +477,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "churrascaria"
     ],
-    "usageCount": 3233,
+    "usageCount": 4063,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Melhor Churrascaria Hoje - Modelo 5 | Página 1",
       "description": "Descubra o melhor template para Churrascaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -506,7 +506,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -574,9 +574,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "pizzaria"
     ],
-    "usageCount": 10,
+    "usageCount": 8120,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Melhor Pizzaria Hoje - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para Pizzaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -603,7 +603,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -671,9 +671,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "hamburgueria"
     ],
-    "usageCount": 5198,
+    "usageCount": 9585,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Melhor Hamburgueria Hoje - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Hamburgueria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -700,7 +700,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -768,9 +768,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "sushi"
     ],
-    "usageCount": 9260,
+    "usageCount": 9379,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Melhor Sushi Hoje - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Sushi com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -797,7 +797,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -865,9 +865,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida árabe"
     ],
-    "usageCount": 9664,
+    "usageCount": 2376,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Melhor Comida Árabe Hoje - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Comida Árabe com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -894,7 +894,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -962,9 +962,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida indiana"
     ],
-    "usageCount": 6188,
+    "usageCount": 1528,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Melhor Comida Indiana Hoje - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Comida Indiana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -991,7 +991,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1059,9 +1059,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida tailandesa"
     ],
-    "usageCount": 1413,
+    "usageCount": 3255,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Melhor Comida Tailandesa Hoje - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Comida Tailandesa com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1088,7 +1088,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1156,9 +1156,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida coreana"
     ],
-    "usageCount": 7930,
+    "usageCount": 8505,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Melhor Comida Coreana Hoje - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Comida Coreana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1185,7 +1185,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1253,9 +1253,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida vegetariana"
     ],
-    "usageCount": 2380,
+    "usageCount": 4736,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Melhor Comida Vegetariana Hoje - Modelo 13 | Página 1",
       "description": "Descubra o melhor template para Comida Vegetariana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1282,7 +1282,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1350,9 +1350,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida vegana"
     ],
-    "usageCount": 1129,
+    "usageCount": 777,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Melhor Comida Vegana Hoje - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Comida Vegana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1379,7 +1379,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1447,9 +1447,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida saudável"
     ],
-    "usageCount": 6874,
+    "usageCount": 1162,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Melhor Comida Saudável Hoje - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Comida Saudável com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1476,7 +1476,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1544,9 +1544,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante italiano"
     ],
-    "usageCount": 3255,
+    "usageCount": 8227,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Melhor Restaurante Italiano Hoje - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para Restaurante Italiano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1573,7 +1573,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1641,9 +1641,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante japonês"
     ],
-    "usageCount": 9583,
+    "usageCount": 1810,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Melhor Restaurante Japonês Hoje - Modelo 17 | Página 1",
       "description": "Descubra o melhor template para Restaurante Japonês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1670,7 +1670,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1738,9 +1738,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante mexicano"
     ],
-    "usageCount": 1407,
+    "usageCount": 5480,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Melhor Restaurante Mexicano Hoje - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para Restaurante Mexicano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1767,7 +1767,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1835,9 +1835,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante chinês"
     ],
-    "usageCount": 9224,
+    "usageCount": 6168,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Melhor Restaurante Chinês Hoje - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Restaurante Chinês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1864,7 +1864,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1932,9 +1932,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "churrascaria"
     ],
-    "usageCount": 5428,
+    "usageCount": 2522,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Melhor Churrascaria Hoje - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para Churrascaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -1961,7 +1961,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2029,9 +2029,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "pizzaria"
     ],
-    "usageCount": 8519,
+    "usageCount": 9494,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Melhor Pizzaria Hoje - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para Pizzaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2058,7 +2058,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2126,9 +2126,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "hamburgueria"
     ],
-    "usageCount": 2539,
+    "usageCount": 3585,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Melhor Hamburgueria Hoje - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Hamburgueria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2155,7 +2155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2223,9 +2223,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "sushi"
     ],
-    "usageCount": 8483,
+    "usageCount": 558,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Melhor Sushi Hoje - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Sushi com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2252,7 +2252,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2320,9 +2320,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida árabe"
     ],
-    "usageCount": 7196,
+    "usageCount": 9632,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Melhor Comida Árabe Hoje - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Comida Árabe com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2349,7 +2349,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2417,9 +2417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida indiana"
     ],
-    "usageCount": 3560,
+    "usageCount": 2781,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Melhor Comida Indiana Hoje - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Comida Indiana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2446,7 +2446,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2514,9 +2514,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida tailandesa"
     ],
-    "usageCount": 4816,
+    "usageCount": 5057,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Melhor Comida Tailandesa Hoje - Modelo 26 | Página 1",
       "description": "Descubra o melhor template para Comida Tailandesa com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2543,7 +2543,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2611,9 +2611,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida coreana"
     ],
-    "usageCount": 5532,
+    "usageCount": 6707,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Melhor Comida Coreana Hoje - Modelo 27 | Página 1",
       "description": "Descubra o melhor template para Comida Coreana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2640,7 +2640,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2708,9 +2708,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida vegetariana"
     ],
-    "usageCount": 8806,
+    "usageCount": 1137,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-15",
     "seo": {
       "title": "Melhor Comida Vegetariana Hoje - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Comida Vegetariana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2737,7 +2737,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2805,9 +2805,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida vegana"
     ],
-    "usageCount": 6259,
+    "usageCount": 7600,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Melhor Comida Vegana Hoje - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Comida Vegana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2834,7 +2834,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2902,9 +2902,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida saudável"
     ],
-    "usageCount": 4461,
+    "usageCount": 9670,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Melhor Comida Saudável Hoje - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Comida Saudável com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -2931,7 +2931,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2999,9 +2999,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante italiano"
     ],
-    "usageCount": 8466,
+    "usageCount": 2985,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Melhor Restaurante Italiano Hoje - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para Restaurante Italiano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3028,7 +3028,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3096,9 +3096,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante japonês"
     ],
-    "usageCount": 9566,
+    "usageCount": 7406,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Melhor Restaurante Japonês Hoje - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para Restaurante Japonês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3125,7 +3125,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3193,9 +3193,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante mexicano"
     ],
-    "usageCount": 4286,
+    "usageCount": 8943,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Melhor Restaurante Mexicano Hoje - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para Restaurante Mexicano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3222,7 +3222,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3290,9 +3290,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante chinês"
     ],
-    "usageCount": 542,
+    "usageCount": 5983,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Melhor Restaurante Chinês Hoje - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Restaurante Chinês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3319,7 +3319,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3387,9 +3387,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "churrascaria"
     ],
-    "usageCount": 8795,
+    "usageCount": 8695,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Melhor Churrascaria Hoje - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para Churrascaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3416,7 +3416,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3484,9 +3484,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "pizzaria"
     ],
-    "usageCount": 9042,
+    "usageCount": 3993,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Melhor Pizzaria Hoje - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para Pizzaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3513,7 +3513,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3581,9 +3581,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "hamburgueria"
     ],
-    "usageCount": 2199,
+    "usageCount": 3140,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Melhor Hamburgueria Hoje - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Hamburgueria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3610,7 +3610,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3678,9 +3678,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "sushi"
     ],
-    "usageCount": 2676,
+    "usageCount": 4922,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Melhor Sushi Hoje - Modelo 38 | Página 1",
       "description": "Descubra o melhor template para Sushi com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3707,7 +3707,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3775,7 +3775,7 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida árabe"
     ],
-    "usageCount": 4712,
+    "usageCount": 2259,
     "isPopular": true,
     "createdAt": "2025-06-25",
     "seo": {
@@ -3804,7 +3804,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3872,9 +3872,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida indiana"
     ],
-    "usageCount": 823,
+    "usageCount": 9730,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-06-29",
     "seo": {
       "title": "Melhor Comida Indiana Hoje - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Comida Indiana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3901,7 +3901,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3969,9 +3969,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida tailandesa"
     ],
-    "usageCount": 698,
+    "usageCount": 1056,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Melhor Comida Tailandesa Hoje - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Comida Tailandesa com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -3998,7 +3998,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4066,9 +4066,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida coreana"
     ],
-    "usageCount": 5227,
+    "usageCount": 9800,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Melhor Comida Coreana Hoje - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Comida Coreana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4095,7 +4095,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4163,9 +4163,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida vegetariana"
     ],
-    "usageCount": 1030,
+    "usageCount": 9469,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Melhor Comida Vegetariana Hoje - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Comida Vegetariana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4192,7 +4192,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4260,9 +4260,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida vegana"
     ],
-    "usageCount": 6103,
+    "usageCount": 9879,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Melhor Comida Vegana Hoje - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Comida Vegana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4289,7 +4289,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4357,9 +4357,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "comida saudável"
     ],
-    "usageCount": 6985,
+    "usageCount": 9696,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Melhor Comida Saudável Hoje - Modelo 45 | Página 1",
       "description": "Descubra o melhor template para Comida Saudável com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4386,7 +4386,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4454,9 +4454,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante italiano"
     ],
-    "usageCount": 8830,
+    "usageCount": 4155,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Melhor Restaurante Italiano Hoje - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para Restaurante Italiano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4483,7 +4483,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4551,9 +4551,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante japonês"
     ],
-    "usageCount": 1275,
+    "usageCount": 6177,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Melhor Restaurante Japonês Hoje - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para Restaurante Japonês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4648,9 +4648,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante mexicano"
     ],
-    "usageCount": 8651,
+    "usageCount": 5956,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Melhor Restaurante Mexicano Hoje - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para Restaurante Mexicano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4677,7 +4677,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4745,9 +4745,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "restaurante chinês"
     ],
-    "usageCount": 7299,
+    "usageCount": 9176,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Melhor Restaurante Chinês Hoje - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Restaurante Chinês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4774,7 +4774,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4842,9 +4842,9 @@ const categoryTemplates: WheelTemplate[] = [
       "delivery",
       "churrascaria"
     ],
-    "usageCount": 3423,
+    "usageCount": 3416,
     "isPopular": true,
-    "createdAt": "2025-06-23",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Melhor Churrascaria Hoje - Modelo 50 | Página 1",
       "description": "Descubra o melhor template para Churrascaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -4871,7 +4871,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

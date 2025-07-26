@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "pense"
   ],
-  "usageCount": 504,
+  "usageCount": 2661,
   "isPopular": false,
   "createdAt": "2025-07-08",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-pense-agora-modelo-523-pgina-6",
   "seoTitle": "Decidir Pense Agora - Modelo 523 | Página 6 - Roleta Online Grátis",

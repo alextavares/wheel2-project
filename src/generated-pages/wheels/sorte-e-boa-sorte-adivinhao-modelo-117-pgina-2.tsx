@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "boa sorte"
   ],
-  "usageCount": 5828,
+  "usageCount": 2937,
   "isPopular": false,
-  "createdAt": "2025-06-27",
+  "createdAt": "2025-07-08",
   "seo": {
     "title": "Sorte e Boa sorte Adivinhação - Modelo 117 | Página 2",
     "description": "Descubra o melhor template para Boa sorte com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-boa-sorte-adivinhao-modelo-117-pgina-2",
   "seoTitle": "Sorte e Boa sorte Adivinhação - Modelo 117 | Página 2 - Roleta Online Grátis",

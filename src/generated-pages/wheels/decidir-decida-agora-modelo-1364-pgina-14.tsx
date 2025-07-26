@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "decida"
   ],
-  "usageCount": 4899,
+  "usageCount": 7168,
   "isPopular": false,
-  "createdAt": "2025-07-13",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Decidir Decida Agora - Modelo 1364 | Página 14",
     "description": "Descubra o melhor template para Decida com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-decida-agora-modelo-1364-pgina-14",
   "seoTitle": "Decidir Decida Agora - Modelo 1364 | Página 14 - Roleta Online Grátis",

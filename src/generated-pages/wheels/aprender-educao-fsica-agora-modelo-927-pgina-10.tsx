@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "educação física"
   ],
-  "usageCount": 8958,
+  "usageCount": 1887,
   "isPopular": false,
   "createdAt": "2025-07-18",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-educao-fsica-agora-modelo-927-pgina-10",
   "seoTitle": "Aprender Educação Física Agora - Modelo 927 | Página 10 - Roleta Online Grátis",

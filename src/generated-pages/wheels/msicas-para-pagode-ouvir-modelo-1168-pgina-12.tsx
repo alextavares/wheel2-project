@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "pagode"
   ],
-  "usageCount": 7519,
+  "usageCount": 1354,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-07-09",
   "seo": {
     "title": "Músicas para Pagode Ouvir - Modelo 1168 | Página 12",
     "description": "Descubra o melhor template para Pagode com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-pagode-ouvir-modelo-1168-pgina-12",
   "seoTitle": "Músicas para Pagode Ouvir - Modelo 1168 | Página 12 - Roleta Online Grátis",

@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante mexicano"
   ],
-  "usageCount": 4127,
+  "usageCount": 7233,
   "isPopular": false,
-  "createdAt": "2025-07-14",
+  "createdAt": "2025-07-09",
   "seo": {
     "title": "Melhor Restaurante Mexicano Hoje - Modelo 1173 | Página 12",
     "description": "Descubra o melhor template para Restaurante Mexicano com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-mexicano-hoje-modelo-1173-pgina-12",
   "seoTitle": "Melhor Restaurante Mexicano Hoje - Modelo 1173 | Página 12 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "forró"
   ],
-  "usageCount": 9876,
+  "usageCount": 5093,
   "isPopular": false,
-  "createdAt": "2025-07-16",
+  "createdAt": "2025-07-01",
   "seo": {
     "title": "Músicas para Forró Ouvir - Modelo 1106 | Página 12",
     "description": "Descubra o melhor template para Forró com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-forr-ouvir-modelo-1106-pgina-12",
   "seoTitle": "Músicas para Forró Ouvir - Modelo 1106 | Página 12 - Roleta Online Grátis",

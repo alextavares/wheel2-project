@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "telefone sem fio"
   ],
-  "usageCount": 9662,
+  "usageCount": 5882,
   "isPopular": false,
   "createdAt": "2025-07-18",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-telefone-sem-fio-divertidos-modelo-1462-pgina-15",
   "seoTitle": "Jogos de Telefone sem Fio Divertidos - Modelo 1462 | Página 15 - Roleta Online Grátis",

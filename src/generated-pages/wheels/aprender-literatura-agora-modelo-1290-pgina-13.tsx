@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "literatura"
   ],
-  "usageCount": 7678,
+  "usageCount": 5373,
   "isPopular": false,
-  "createdAt": "2025-07-02",
+  "createdAt": "2025-07-21",
   "seo": {
     "title": "Aprender Literatura Agora - Modelo 1290 | Página 13",
     "description": "Descubra o melhor template para Literatura com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-literatura-agora-modelo-1290-pgina-13",
   "seoTitle": "Aprender Literatura Agora - Modelo 1290 | Página 13 - Roleta Online Grátis",

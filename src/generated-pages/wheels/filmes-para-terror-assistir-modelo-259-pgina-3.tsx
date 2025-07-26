@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "terror"
   ],
-  "usageCount": 4253,
+  "usageCount": 5928,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-terror-assistir-modelo-259-pgina-3",
   "seoTitle": "Filmes para Terror Assistir - Modelo 259 | Página 3 - Roleta Online Grátis",

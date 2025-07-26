@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "ciências"
   ],
-  "usageCount": 5906,
+  "usageCount": 9703,
   "isPopular": false,
   "createdAt": "2025-07-01",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-cincias-agora-modelo-140-pgina-2",
   "seoTitle": "Aprender Ciências Agora - Modelo 140 | Página 2 - Roleta Online Grátis",

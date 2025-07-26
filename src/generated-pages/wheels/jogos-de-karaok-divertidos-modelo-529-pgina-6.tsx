@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "karaokê"
   ],
-  "usageCount": 4823,
+  "usageCount": 726,
   "isPopular": false,
-  "createdAt": "2025-06-27",
+  "createdAt": "2025-07-03",
   "seo": {
     "title": "Jogos de Karaokê Divertidos - Modelo 529 | Página 6",
     "description": "Descubra o melhor template para Karaokê com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-karaok-divertidos-modelo-529-pgina-6",
   "seoTitle": "Jogos de Karaokê Divertidos - Modelo 529 | Página 6 - Roleta Online Grátis",

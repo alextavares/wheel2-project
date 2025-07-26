@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "mímica"
   ],
-  "usageCount": 2903,
+  "usageCount": 4061,
   "isPopular": false,
   "createdAt": "2025-07-01",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-mmica-divertidos-modelo-122-pgina-2",
   "seoTitle": "Jogos de Mímica Divertidos - Modelo 122 | Página 2 - Roleta Online Grátis",

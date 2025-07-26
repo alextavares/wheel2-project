@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "rock"
   ],
-  "usageCount": 792,
+  "usageCount": 5214,
   "isPopular": false,
-  "createdAt": "2025-06-24",
+  "createdAt": "2025-06-29",
   "seo": {
     "title": "Músicas para Rock Ouvir - Modelo 1412 | Página 15",
     "description": "Descubra o melhor template para Rock com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-rock-ouvir-modelo-1412-pgina-15",
   "seoTitle": "Músicas para Rock Ouvir - Modelo 1412 | Página 15 - Roleta Online Grátis",

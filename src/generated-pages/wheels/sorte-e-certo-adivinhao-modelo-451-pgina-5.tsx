@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "é certo"
   ],
-  "usageCount": 5204,
+  "usageCount": 9656,
   "isPopular": false,
   "createdAt": "2025-07-21",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-certo-adivinhao-modelo-451-pgina-5",
   "seoTitle": "Sorte e É certo Adivinhação - Modelo 451 | Página 5 - Roleta Online Grátis",

@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "histórico"
   ],
-  "usageCount": 6465,
+  "usageCount": 9747,
   "isPopular": false,
   "createdAt": "2025-07-15",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-histrico-assistir-modelo-1230-pgina-13",
   "seoTitle": "Filmes para Histórico Assistir - Modelo 1230 | Página 13 - Roleta Online Grátis",

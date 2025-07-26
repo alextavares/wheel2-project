@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "dinheiro"
   ],
-  "usageCount": 3244,
+  "usageCount": 359,
   "isPopular": false,
-  "createdAt": "2025-07-23",
+  "createdAt": "2025-07-07",
   "seo": {
     "title": "Sorteio de Dinheiro Premiação - Modelo 210 | Página 3",
     "description": "Descubra o melhor template para Dinheiro com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-dinheiro-premiao-modelo-210-pgina-3",
   "seoTitle": "Sorteio de Dinheiro Premiação - Modelo 210 | Página 3 - Roleta Online Grátis",

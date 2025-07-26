@@ -87,7 +87,7 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "carro 0km"
     ],
-    "usageCount": 7081,
+    "usageCount": 517,
     "isPopular": true,
     "createdAt": "2025-07-21",
     "seo": {
@@ -115,7 +115,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -182,7 +182,7 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "viagem internacional"
     ],
-    "usageCount": 8572,
+    "usageCount": 1169,
     "isPopular": true,
     "createdAt": "2025-07-17",
     "seo": {
@@ -210,7 +210,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -277,9 +277,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "iphone"
     ],
-    "usageCount": 5192,
+    "usageCount": 436,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Sorteio de iPhone Premiação - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para iPhone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -305,7 +305,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -372,9 +372,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "notebook"
     ],
-    "usageCount": 7482,
+    "usageCount": 4057,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorteio de Notebook Premiação - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Notebook com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -400,7 +400,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -467,9 +467,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "tv 4k"
     ],
-    "usageCount": 4547,
+    "usageCount": 7609,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Sorteio de TV 4K Premiação - Modelo 5 | Página 1",
       "description": "Descubra o melhor template para TV 4K com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -495,7 +495,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -562,9 +562,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "playstation"
     ],
-    "usageCount": 8288,
+    "usageCount": 3582,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Sorteio de PlayStation Premiação - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para PlayStation com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -590,7 +590,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -657,9 +657,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "xbox"
     ],
-    "usageCount": 1548,
+    "usageCount": 6090,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Sorteio de Xbox Premiação - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Xbox com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -685,7 +685,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -752,9 +752,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "câmera"
     ],
-    "usageCount": 5594,
+    "usageCount": 7748,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Sorteio de Câmera Premiação - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Câmera com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -780,7 +780,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -847,9 +847,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "drone"
     ],
-    "usageCount": 1038,
+    "usageCount": 9886,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorteio de Drone Premiação - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Drone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -875,7 +875,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -942,9 +942,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "relógio"
     ],
-    "usageCount": 6692,
+    "usageCount": 9961,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Sorteio de Relógio Premiação - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Relógio com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -970,7 +970,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1037,9 +1037,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "bicicleta"
     ],
-    "usageCount": 1685,
+    "usageCount": 4241,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Sorteio de Bicicleta Premiação - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Bicicleta com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1065,7 +1065,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1132,9 +1132,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "moto"
     ],
-    "usageCount": 9420,
+    "usageCount": 3544,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Sorteio de Moto Premiação - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Moto com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1160,7 +1160,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1227,9 +1227,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "casa"
     ],
-    "usageCount": 7804,
+    "usageCount": 6412,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Sorteio de Casa Premiação - Modelo 13 | Página 1",
       "description": "Descubra o melhor template para Casa com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1255,7 +1255,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1322,9 +1322,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "apartamento"
     ],
-    "usageCount": 7715,
+    "usageCount": 68,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Sorteio de Apartamento Premiação - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Apartamento com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1350,7 +1350,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1417,9 +1417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "dinheiro"
     ],
-    "usageCount": 6085,
+    "usageCount": 2435,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Sorteio de Dinheiro Premiação - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Dinheiro com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1445,7 +1445,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1512,9 +1512,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "carro 0km"
     ],
-    "usageCount": 6170,
+    "usageCount": 8511,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Sorteio de Carro 0km Premiação - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para Carro 0km com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1540,7 +1540,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1607,7 +1607,7 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "viagem internacional"
     ],
-    "usageCount": 2887,
+    "usageCount": 4995,
     "isPopular": true,
     "createdAt": "2025-07-21",
     "seo": {
@@ -1635,7 +1635,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1702,9 +1702,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "iphone"
     ],
-    "usageCount": 4432,
+    "usageCount": 3027,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Sorteio de iPhone Premiação - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para iPhone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1730,7 +1730,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1797,9 +1797,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "notebook"
     ],
-    "usageCount": 280,
+    "usageCount": 9226,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Sorteio de Notebook Premiação - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Notebook com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1825,7 +1825,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1892,9 +1892,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "tv 4k"
     ],
-    "usageCount": 6821,
+    "usageCount": 2471,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorteio de TV 4K Premiação - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para TV 4K com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -1920,7 +1920,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1987,9 +1987,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "playstation"
     ],
-    "usageCount": 4863,
+    "usageCount": 4298,
     "isPopular": true,
-    "createdAt": "2025-06-25",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Sorteio de PlayStation Premiação - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para PlayStation com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2015,7 +2015,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2082,9 +2082,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "xbox"
     ],
-    "usageCount": 6422,
+    "usageCount": 9155,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Sorteio de Xbox Premiação - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Xbox com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2110,7 +2110,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2177,9 +2177,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "câmera"
     ],
-    "usageCount": 9009,
+    "usageCount": 6340,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Sorteio de Câmera Premiação - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Câmera com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2205,7 +2205,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2272,9 +2272,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "drone"
     ],
-    "usageCount": 9698,
+    "usageCount": 2268,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Sorteio de Drone Premiação - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Drone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2300,7 +2300,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2367,9 +2367,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "relógio"
     ],
-    "usageCount": 1665,
+    "usageCount": 8699,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Sorteio de Relógio Premiação - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Relógio com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2395,7 +2395,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2462,9 +2462,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "bicicleta"
     ],
-    "usageCount": 4674,
+    "usageCount": 8403,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Sorteio de Bicicleta Premiação - Modelo 26 | Página 1",
       "description": "Descubra o melhor template para Bicicleta com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2490,7 +2490,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2557,9 +2557,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "moto"
     ],
-    "usageCount": 8792,
+    "usageCount": 4827,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Sorteio de Moto Premiação - Modelo 27 | Página 1",
       "description": "Descubra o melhor template para Moto com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2585,7 +2585,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2652,9 +2652,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "casa"
     ],
-    "usageCount": 1255,
+    "usageCount": 9901,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Sorteio de Casa Premiação - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Casa com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2680,7 +2680,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2747,9 +2747,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "apartamento"
     ],
-    "usageCount": 234,
+    "usageCount": 6072,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorteio de Apartamento Premiação - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Apartamento com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2775,7 +2775,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2842,9 +2842,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "dinheiro"
     ],
-    "usageCount": 4606,
+    "usageCount": 9134,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Sorteio de Dinheiro Premiação - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Dinheiro com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2870,7 +2870,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2937,9 +2937,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "carro 0km"
     ],
-    "usageCount": 7041,
+    "usageCount": 3116,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Sorteio de Carro 0km Premiação - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para Carro 0km com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -2965,7 +2965,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3032,9 +3032,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "viagem internacional"
     ],
-    "usageCount": 402,
+    "usageCount": 5491,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Sorteio de Viagem Internacional Premiação - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para Viagem Internacional com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3060,7 +3060,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3127,9 +3127,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "iphone"
     ],
-    "usageCount": 5029,
+    "usageCount": 5214,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Sorteio de iPhone Premiação - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para iPhone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3155,7 +3155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3222,9 +3222,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "notebook"
     ],
-    "usageCount": 6188,
+    "usageCount": 828,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Sorteio de Notebook Premiação - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Notebook com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3250,7 +3250,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3317,9 +3317,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "tv 4k"
     ],
-    "usageCount": 3741,
+    "usageCount": 8374,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Sorteio de TV 4K Premiação - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para TV 4K com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3345,7 +3345,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3412,9 +3412,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "playstation"
     ],
-    "usageCount": 4400,
+    "usageCount": 9746,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Sorteio de PlayStation Premiação - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para PlayStation com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3440,7 +3440,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3507,9 +3507,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "xbox"
     ],
-    "usageCount": 6553,
+    "usageCount": 1170,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Sorteio de Xbox Premiação - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Xbox com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3535,7 +3535,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3602,9 +3602,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "câmera"
     ],
-    "usageCount": 2141,
+    "usageCount": 6261,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorteio de Câmera Premiação - Modelo 38 | Página 1",
       "description": "Descubra o melhor template para Câmera com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3630,7 +3630,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3697,9 +3697,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "drone"
     ],
-    "usageCount": 2343,
+    "usageCount": 6963,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Sorteio de Drone Premiação - Modelo 39 | Página 1",
       "description": "Descubra o melhor template para Drone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3725,7 +3725,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3792,9 +3792,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "relógio"
     ],
-    "usageCount": 7505,
+    "usageCount": 990,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Sorteio de Relógio Premiação - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Relógio com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3820,7 +3820,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3887,9 +3887,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "bicicleta"
     ],
-    "usageCount": 4188,
+    "usageCount": 5554,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Sorteio de Bicicleta Premiação - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Bicicleta com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -3915,7 +3915,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3982,9 +3982,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "moto"
     ],
-    "usageCount": 4773,
+    "usageCount": 5674,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Sorteio de Moto Premiação - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Moto com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4010,7 +4010,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4077,9 +4077,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "casa"
     ],
-    "usageCount": 36,
+    "usageCount": 3417,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Sorteio de Casa Premiação - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Casa com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4105,7 +4105,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4172,9 +4172,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "apartamento"
     ],
-    "usageCount": 9997,
+    "usageCount": 9794,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Sorteio de Apartamento Premiação - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Apartamento com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4200,7 +4200,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4267,9 +4267,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "dinheiro"
     ],
-    "usageCount": 3405,
+    "usageCount": 8625,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Sorteio de Dinheiro Premiação - Modelo 45 | Página 1",
       "description": "Descubra o melhor template para Dinheiro com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4295,7 +4295,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4362,9 +4362,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "carro 0km"
     ],
-    "usageCount": 794,
+    "usageCount": 6411,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Sorteio de Carro 0km Premiação - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para Carro 0km com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4390,7 +4390,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4457,9 +4457,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "viagem internacional"
     ],
-    "usageCount": 4880,
+    "usageCount": 1519,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Sorteio de Viagem Internacional Premiação - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para Viagem Internacional com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4485,7 +4485,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4552,9 +4552,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "iphone"
     ],
-    "usageCount": 7317,
+    "usageCount": 9997,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Sorteio de iPhone Premiação - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para iPhone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4647,9 +4647,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "notebook"
     ],
-    "usageCount": 3507,
+    "usageCount": 9629,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Sorteio de Notebook Premiação - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Notebook com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4675,7 +4675,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4742,9 +4742,9 @@ const categoryTemplates: WheelTemplate[] = [
       "chance",
       "tv 4k"
     ],
-    "usageCount": 1108,
+    "usageCount": 208,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Sorteio de TV 4K Premiação - Modelo 50 | Página 1",
       "description": "Descubra o melhor template para TV 4K com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -4770,7 +4770,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

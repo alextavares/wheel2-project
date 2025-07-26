@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "dança das cadeiras"
   ],
-  "usageCount": 9959,
+  "usageCount": 2781,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-07-07",
   "seo": {
     "title": "Jogos de Dança das Cadeiras Divertidos - Modelo 1340 | Página 14",
     "description": "Descubra o melhor template para Dança das Cadeiras com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-dana-das-cadeiras-divertidos-modelo-1340-pgina-14",
   "seoTitle": "Jogos de Dança das Cadeiras Divertidos - Modelo 1340 | Página 14 - Roleta Online Grátis",

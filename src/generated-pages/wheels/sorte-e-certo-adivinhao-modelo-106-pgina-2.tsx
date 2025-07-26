@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "é certo"
   ],
-  "usageCount": 8200,
+  "usageCount": 9178,
   "isPopular": false,
   "createdAt": "2025-06-27",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-certo-adivinhao-modelo-106-pgina-2",
   "seoTitle": "Sorte e É certo Adivinhação - Modelo 106 | Página 2 - Roleta Online Grátis",

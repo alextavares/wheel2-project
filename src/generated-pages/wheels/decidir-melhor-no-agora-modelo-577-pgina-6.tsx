@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "melhor não"
   ],
-  "usageCount": 5176,
+  "usageCount": 7535,
   "isPopular": false,
   "createdAt": "2025-06-26",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-melhor-no-agora-modelo-577-pgina-6",
   "seoTitle": "Decidir Melhor Não Agora - Modelo 577 | Página 6 - Roleta Online Grátis",

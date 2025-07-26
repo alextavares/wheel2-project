@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "química"
   ],
-  "usageCount": 1012,
+  "usageCount": 6645,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-qumica-agora-modelo-1327-pgina-14",
   "seoTitle": "Aprender Química Agora - Modelo 1327 | Página 14 - Roleta Online Grátis",

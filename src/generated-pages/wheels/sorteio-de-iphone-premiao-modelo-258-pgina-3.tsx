@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "iphone"
   ],
-  "usageCount": 9712,
+  "usageCount": 5880,
   "isPopular": false,
-  "createdAt": "2025-07-15",
+  "createdAt": "2025-07-20",
   "seo": {
     "title": "Sorteio de iPhone Premiação - Modelo 258 | Página 3",
     "description": "Descubra o melhor template para iPhone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-iphone-premiao-modelo-258-pgina-3",
   "seoTitle": "Sorteio de iPhone Premiação - Modelo 258 | Página 3 - Roleta Online Grátis",

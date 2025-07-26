@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "história"
   ],
-  "usageCount": 6494,
+  "usageCount": 960,
   "isPopular": false,
   "createdAt": "2025-06-30",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-histria-agora-modelo-168-pgina-2",
   "seoTitle": "Aprender História Agora - Modelo 168 | Página 2 - Roleta Online Grátis",

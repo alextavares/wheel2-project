@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "espere"
   ],
-  "usageCount": 8485,
+  "usageCount": 3775,
   "isPopular": true,
-  "createdAt": "2025-07-09",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Decidir Espere Agora - Modelo 54 | Página 1",
     "description": "Descubra o melhor template para Espere com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-espere-agora-modelo-54-pgina-1",
   "seoTitle": "Decidir Espere Agora - Modelo 54 | Página 1 - Roleta Online Grátis",

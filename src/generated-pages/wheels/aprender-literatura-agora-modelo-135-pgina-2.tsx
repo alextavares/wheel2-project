@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "literatura"
   ],
-  "usageCount": 8087,
+  "usageCount": 3642,
   "isPopular": false,
   "createdAt": "2025-06-29",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-literatura-agora-modelo-135-pgina-2",
   "seoTitle": "Aprender Literatura Agora - Modelo 135 | Página 2 - Roleta Online Grátis",

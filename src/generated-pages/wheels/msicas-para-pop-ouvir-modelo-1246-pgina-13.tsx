@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "pop"
   ],
-  "usageCount": 3396,
+  "usageCount": 6756,
   "isPopular": false,
-  "createdAt": "2025-07-01",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Músicas para Pop Ouvir - Modelo 1246 | Página 13",
     "description": "Descubra o melhor template para Pop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-pop-ouvir-modelo-1246-pgina-13",
   "seoTitle": "Músicas para Pop Ouvir - Modelo 1246 | Página 13 - Roleta Online Grátis",

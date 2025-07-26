@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "mímica"
   ],
-  "usageCount": 9303,
+  "usageCount": 8904,
   "isPopular": false,
-  "createdAt": "2025-07-11",
+  "createdAt": "2025-07-10",
   "seo": {
     "title": "Jogos de Mímica Divertidos - Modelo 512 | Página 6",
     "description": "Descubra o melhor template para Mímica com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-mmica-divertidos-modelo-512-pgina-6",
   "seoTitle": "Jogos de Mímica Divertidos - Modelo 512 | Página 6 - Roleta Online Grátis",

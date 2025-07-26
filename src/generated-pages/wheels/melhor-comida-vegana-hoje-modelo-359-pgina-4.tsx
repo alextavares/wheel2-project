@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida vegana"
   ],
-  "usageCount": 8082,
+  "usageCount": 6291,
   "isPopular": false,
-  "createdAt": "2025-07-21",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Melhor Comida Vegana Hoje - Modelo 359 | Página 4",
     "description": "Descubra o melhor template para Comida Vegana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-vegana-hoje-modelo-359-pgina-4",
   "seoTitle": "Melhor Comida Vegana Hoje - Modelo 359 | Página 4 - Roleta Online Grátis",

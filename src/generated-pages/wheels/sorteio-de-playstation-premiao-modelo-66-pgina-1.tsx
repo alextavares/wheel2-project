@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "playstation"
   ],
-  "usageCount": 6328,
+  "usageCount": 4701,
   "isPopular": true,
-  "createdAt": "2025-07-22",
+  "createdAt": "2025-07-03",
   "seo": {
     "title": "Sorteio de PlayStation Premiação - Modelo 66 | Página 1",
     "description": "Descubra o melhor template para PlayStation com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-playstation-premiao-modelo-66-pgina-1",
   "seoTitle": "Sorteio de PlayStation Premiação - Modelo 66 | Página 1 - Roleta Online Grátis",

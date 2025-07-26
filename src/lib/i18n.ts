@@ -47,6 +47,56 @@ export interface Translations {
   copy: string;
   download: string;
   customize: string;
+  
+  // SEO Keywords - Primary
+  wheelOfFortune: string;
+  spinnerWheel: string;
+  randomPicker: string;
+  decisionWheel: string;
+  lottery: string;
+  raffle: string;
+  choose: string;
+  decide: string;
+  pick: string;
+  
+  // SEO Keywords - Modifiers
+  online: string;
+  free: string;
+  today: string;
+  now: string;
+  quick: string;
+  easy: string;
+  random: string;
+  nearMe: string;
+  instant: string;
+  
+  // SEO Templates - Food
+  whatToEatToday: string;
+  chooseRestaurant: string;
+  pickFood: string;
+  lunchDecision: string;
+  dinnerChoice: string;
+  
+  // SEO Templates - Music
+  chooseMusic: string;
+  pickPlaylist: string;
+  musicDecision: string;
+  
+  // SEO Templates - Movies
+  chooseMovie: string;
+  pickFilm: string;
+  netflixDecision: string;
+  
+  // SEO Templates - Education
+  studyTopic: string;
+  chooseSubject: string;
+  learningDecision: string;
+  
+  // Long-tail Keywords
+  personalizedWheel: string;
+  classroomWheel: string;
+  namesPicker: string;
+  numberGenerator: string;
 }
 
 export const translations: Record<Locale, Translations> = {
@@ -96,6 +146,56 @@ export const translations: Record<Locale, Translations> = {
     copy: 'Copiar',
     download: 'Baixar',
     customize: 'Personalizar',
+    
+    // SEO Keywords - Primary
+    wheelOfFortune: 'roda da sorte',
+    spinnerWheel: 'roleta',
+    randomPicker: 'sorteio',
+    decisionWheel: 'roleta de decisão',
+    lottery: 'sorteio',
+    raffle: 'rifa',
+    choose: 'escolher',
+    decide: 'decidir',
+    pick: 'sortear',
+    
+    // SEO Keywords - Modifiers
+    online: 'online',
+    free: 'grátis',
+    today: 'hoje',
+    now: 'agora',
+    quick: 'rápido',
+    easy: 'fácil',
+    random: 'aleatório',
+    nearMe: 'perto de mim',
+    instant: 'instantâneo',
+    
+    // SEO Templates - Food
+    whatToEatToday: 'o que comer hoje',
+    chooseRestaurant: 'escolher restaurante',
+    pickFood: 'sortear comida',
+    lunchDecision: 'decisão do almoço',
+    dinnerChoice: 'escolha do jantar',
+    
+    // SEO Templates - Music
+    chooseMusic: 'escolher música',
+    pickPlaylist: 'sortear playlist',
+    musicDecision: 'decisão musical',
+    
+    // SEO Templates - Movies
+    chooseMovie: 'escolher filme',
+    pickFilm: 'sortear filme',
+    netflixDecision: 'decisão netflix',
+    
+    // SEO Templates - Education
+    studyTopic: 'tópico de estudo',
+    chooseSubject: 'escolher matéria',
+    learningDecision: 'decisão de aprendizado',
+    
+    // Long-tail Keywords
+    personalizedWheel: 'roleta personalizada',
+    classroomWheel: 'roleta para sala de aula',
+    namesPicker: 'sorteador de nomes',
+    numberGenerator: 'gerador de números',
   },
   
   en: {
@@ -144,6 +244,56 @@ export const translations: Record<Locale, Translations> = {
     copy: 'Copy',
     download: 'Download',
     customize: 'Customize',
+    
+    // SEO Keywords - Primary
+    wheelOfFortune: 'wheel of fortune',
+    spinnerWheel: 'spinner wheel',
+    randomPicker: 'random picker',
+    decisionWheel: 'decision wheel',
+    lottery: 'lottery',
+    raffle: 'raffle',
+    choose: 'choose',
+    decide: 'decide',
+    pick: 'pick',
+    
+    // SEO Keywords - Modifiers
+    online: 'online',
+    free: 'free',
+    today: 'today',
+    now: 'now',
+    quick: 'quick',
+    easy: 'easy',
+    random: 'random',
+    nearMe: 'near me',
+    instant: 'instant',
+    
+    // SEO Templates - Food
+    whatToEatToday: 'what to eat today',
+    chooseRestaurant: 'choose restaurant',
+    pickFood: 'pick food',
+    lunchDecision: 'lunch decision',
+    dinnerChoice: 'dinner choice',
+    
+    // SEO Templates - Music
+    chooseMusic: 'choose music',
+    pickPlaylist: 'pick playlist',
+    musicDecision: 'music decision',
+    
+    // SEO Templates - Movies
+    chooseMovie: 'choose movie',
+    pickFilm: 'pick film',
+    netflixDecision: 'netflix decision',
+    
+    // SEO Templates - Education
+    studyTopic: 'study topic',
+    chooseSubject: 'choose subject',
+    learningDecision: 'learning decision',
+    
+    // Long-tail Keywords
+    personalizedWheel: 'personalized wheel',
+    classroomWheel: 'classroom wheel',
+    namesPicker: 'names picker',
+    numberGenerator: 'number generator',
   },
   
   es: {
@@ -192,6 +342,56 @@ export const translations: Record<Locale, Translations> = {
     copy: 'Copiar',
     download: 'Descargar',
     customize: 'Personalizar',
+    
+    // SEO Keywords - Primary
+    wheelOfFortune: 'rueda de la fortuna',
+    spinnerWheel: 'ruleta',
+    randomPicker: 'sorteo',
+    decisionWheel: 'ruleta de decisión',
+    lottery: 'lotería',
+    raffle: 'rifa',
+    choose: 'elegir',
+    decide: 'decidir',
+    pick: 'sortear',
+    
+    // SEO Keywords - Modifiers
+    online: 'online',
+    free: 'gratis',
+    today: 'hoy',
+    now: 'ahora',
+    quick: 'rápido',
+    easy: 'fácil',
+    random: 'aleatorio',
+    nearMe: 'cerca de mí',
+    instant: 'instantáneo',
+    
+    // SEO Templates - Food
+    whatToEatToday: 'qué comer hoy',
+    chooseRestaurant: 'elegir restaurante',
+    pickFood: 'sortear comida',
+    lunchDecision: 'decisión del almuerzo',
+    dinnerChoice: 'elección de la cena',
+    
+    // SEO Templates - Music
+    chooseMusic: 'elegir música',
+    pickPlaylist: 'sortear playlist',
+    musicDecision: 'decisión musical',
+    
+    // SEO Templates - Movies
+    chooseMovie: 'elegir película',
+    pickFilm: 'sortear película',
+    netflixDecision: 'decisión netflix',
+    
+    // SEO Templates - Education
+    studyTopic: 'tema de estudio',
+    chooseSubject: 'elegir materia',
+    learningDecision: 'decisión de aprendizaje',
+    
+    // Long-tail Keywords
+    personalizedWheel: 'ruleta personalizada',
+    classroomWheel: 'ruleta para aula',
+    namesPicker: 'sorteador de nombres',
+    numberGenerator: 'generador de números',
   },
   
   fr: {
@@ -240,11 +440,66 @@ export const translations: Record<Locale, Translations> = {
     copy: 'Copier',
     download: 'Télécharger',
     customize: 'Personnaliser',
+    
+    // SEO Keywords - Primary
+    wheelOfFortune: 'roue de la fortune',
+    spinnerWheel: 'roulette',
+    randomPicker: 'tirage au sort',
+    decisionWheel: 'roue de décision',
+    lottery: 'loterie',
+    raffle: 'tombola',
+    choose: 'choisir',
+    decide: 'décider',
+    pick: 'tirer au sort',
+    
+    // SEO Keywords - Modifiers
+    online: 'en ligne',
+    free: 'gratuit',
+    today: "aujourd'hui",
+    now: 'maintenant',
+    quick: 'rapide',
+    easy: 'facile',
+    random: 'aléatoire',
+    nearMe: 'près de moi',
+    instant: 'instantané',
+    
+    // SEO Templates - Food
+    whatToEatToday: "quoi manger aujourd'hui",
+    chooseRestaurant: 'choisir restaurant',
+    pickFood: 'tirer nourriture',
+    lunchDecision: 'décision déjeuner',
+    dinnerChoice: 'choix dîner',
+    
+    // SEO Templates - Music
+    chooseMusic: 'choisir musique',
+    pickPlaylist: 'tirer playlist',
+    musicDecision: 'décision musicale',
+    
+    // SEO Templates - Movies
+    chooseMovie: 'choisir film',
+    pickFilm: 'tirer film',
+    netflixDecision: 'décision netflix',
+    
+    // SEO Templates - Education
+    studyTopic: "sujet d'étude",
+    chooseSubject: 'choisir matière',
+    learningDecision: "décision d'apprentissage",
+    
+    // Long-tail Keywords
+    personalizedWheel: 'roue personnalisée',
+    classroomWheel: 'roue pour classe',
+    namesPicker: 'tireur de noms',
+    numberGenerator: 'générateur de nombres',
   },
 };
 
 // Hook para usar traduções
 export function useTranslations(locale: Locale): Translations {
+  return translations[locale] || translations.pt;
+}
+
+// Função para obter traduções (versão síncrona)
+export function getTranslations(locale: Locale): Translations {
   return translations[locale] || translations.pt;
 }
 

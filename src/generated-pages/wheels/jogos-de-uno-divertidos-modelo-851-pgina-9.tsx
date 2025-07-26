@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "uno"
   ],
-  "usageCount": 7802,
+  "usageCount": 9306,
   "isPopular": false,
   "createdAt": "2025-07-05",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-uno-divertidos-modelo-851-pgina-9",
   "seoTitle": "Jogos de Uno Divertidos - Modelo 851 | Página 9 - Roleta Online Grátis",

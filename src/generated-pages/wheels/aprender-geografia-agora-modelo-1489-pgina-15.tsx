@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "geografia"
   ],
-  "usageCount": 2410,
+  "usageCount": 3070,
   "isPopular": false,
   "createdAt": "2025-06-30",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-geografia-agora-modelo-1489-pgina-15",
   "seoTitle": "Aprender Geografia Agora - Modelo 1489 | Página 15 - Roleta Online Grátis",

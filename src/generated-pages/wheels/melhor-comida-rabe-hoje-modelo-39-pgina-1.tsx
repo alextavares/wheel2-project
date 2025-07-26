@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida árabe"
   ],
-  "usageCount": 4712,
+  "usageCount": 2259,
   "isPopular": true,
   "createdAt": "2025-06-25",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-rabe-hoje-modelo-39-pgina-1",
   "seoTitle": "Melhor Comida Árabe Hoje - Modelo 39 | Página 1 - Roleta Online Grátis",

@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida tailandesa"
   ],
-  "usageCount": 8087,
+  "usageCount": 8366,
   "isPopular": false,
-  "createdAt": "2025-07-02",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Melhor Comida Tailandesa Hoje - Modelo 1496 | Página 15",
     "description": "Descubra o melhor template para Comida Tailandesa com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-tailandesa-hoje-modelo-1496-pgina-15",
   "seoTitle": "Melhor Comida Tailandesa Hoje - Modelo 1496 | Página 15 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "talvez"
   ],
-  "usageCount": 6062,
+  "usageCount": 2276,
   "isPopular": false,
   "createdAt": "2025-06-29",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-talvez-agora-modelo-888-pgina-9",
   "seoTitle": "Decidir Talvez Agora - Modelo 888 | Página 9 - Roleta Online Grátis",

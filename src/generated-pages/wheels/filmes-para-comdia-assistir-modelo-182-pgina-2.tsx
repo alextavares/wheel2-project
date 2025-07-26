@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "comédia"
   ],
-  "usageCount": 6703,
+  "usageCount": 4753,
   "isPopular": false,
   "createdAt": "2025-07-16",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-comdia-assistir-modelo-182-pgina-2",
   "seoTitle": "Filmes para Comédia Assistir - Modelo 182 | Página 2 - Roleta Online Grátis",

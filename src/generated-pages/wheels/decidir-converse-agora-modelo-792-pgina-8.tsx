@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "converse"
   ],
-  "usageCount": 7103,
+  "usageCount": 3839,
   "isPopular": false,
   "createdAt": "2025-07-02",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-converse-agora-modelo-792-pgina-8",
   "seoTitle": "Decidir Converse Agora - Modelo 792 | Página 8 - Roleta Online Grátis",

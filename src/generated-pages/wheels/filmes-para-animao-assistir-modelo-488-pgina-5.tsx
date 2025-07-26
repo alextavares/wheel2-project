@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "animação"
   ],
-  "usageCount": 4670,
+  "usageCount": 2226,
   "isPopular": false,
   "createdAt": "2025-07-06",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-animao-assistir-modelo-488-pgina-5",
   "seoTitle": "Filmes para Animação Assistir - Modelo 488 | Página 5 - Roleta Online Grátis",

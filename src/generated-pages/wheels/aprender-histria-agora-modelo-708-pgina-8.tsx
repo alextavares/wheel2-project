@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "história"
   ],
-  "usageCount": 9462,
+  "usageCount": 6115,
   "isPopular": false,
   "createdAt": "2025-07-14",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-histria-agora-modelo-708-pgina-8",
   "seoTitle": "Aprender História Agora - Modelo 708 | Página 8 - Roleta Online Grátis",

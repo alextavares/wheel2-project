@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "definitivamente sim"
   ],
-  "usageCount": 2852,
+  "usageCount": 7501,
   "isPopular": false,
-  "createdAt": "2025-07-07",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Sorte e Definitivamente sim Adivinhação - Modelo 137 | Página 2",
     "description": "Descubra o melhor template para Definitivamente sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-definitivamente-sim-adivinhao-modelo-137-pgina-2",
   "seoTitle": "Sorte e Definitivamente sim Adivinhação - Modelo 137 | Página 2 - Roleta Online Grátis",

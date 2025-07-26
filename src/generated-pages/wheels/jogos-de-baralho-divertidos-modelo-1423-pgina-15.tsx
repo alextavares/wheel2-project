@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "baralho"
   ],
-  "usageCount": 6101,
+  "usageCount": 261,
   "isPopular": false,
   "createdAt": "2025-06-27",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-baralho-divertidos-modelo-1423-pgina-15",
   "seoTitle": "Jogos de Baralho Divertidos - Modelo 1423 | Página 15 - Roleta Online Grátis",

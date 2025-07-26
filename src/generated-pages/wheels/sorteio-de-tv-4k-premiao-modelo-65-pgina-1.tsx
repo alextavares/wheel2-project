@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "tv 4k"
   ],
-  "usageCount": 9291,
+  "usageCount": 4323,
   "isPopular": true,
-  "createdAt": "2025-07-09",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Sorteio de TV 4K Premiação - Modelo 65 | Página 1",
     "description": "Descubra o melhor template para TV 4K com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-tv-4k-premiao-modelo-65-pgina-1",
   "seoTitle": "Sorteio de TV 4K Premiação - Modelo 65 | Página 1 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "matemática"
   ],
-  "usageCount": 6263,
+  "usageCount": 4139,
   "isPopular": false,
   "createdAt": "2025-06-26",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-matemtica-agora-modelo-571-pgina-6",
   "seoTitle": "Aprender Matemática Agora - Modelo 571 | Página 6 - Roleta Online Grátis",

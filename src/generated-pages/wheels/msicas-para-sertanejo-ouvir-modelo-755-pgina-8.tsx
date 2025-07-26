@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "sertanejo"
   ],
-  "usageCount": 7826,
+  "usageCount": 940,
   "isPopular": false,
   "createdAt": "2025-06-30",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-sertanejo-ouvir-modelo-755-pgina-8",
   "seoTitle": "Músicas para Sertanejo Ouvir - Modelo 755 | Página 8 - Roleta Online Grátis",

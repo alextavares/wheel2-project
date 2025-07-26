@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "não"
   ],
-  "usageCount": 6881,
+  "usageCount": 1641,
   "isPopular": false,
-  "createdAt": "2025-07-20",
+  "createdAt": "2025-07-18",
   "seo": {
     "title": "Decidir NÃO Agora - Modelo 1022 | Página 11",
     "description": "Descubra o melhor template para NÃO com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-no-agora-modelo-1022-pgina-11",
   "seoTitle": "Decidir NÃO Agora - Modelo 1022 | Página 11 - Roleta Online Grátis",

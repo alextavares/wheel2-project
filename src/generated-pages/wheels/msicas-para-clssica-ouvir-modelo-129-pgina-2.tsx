@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "clássica"
   ],
-  "usageCount": 6636,
+  "usageCount": 5205,
   "isPopular": false,
-  "createdAt": "2025-07-13",
+  "createdAt": "2025-07-20",
   "seo": {
     "title": "Músicas para Clássica Ouvir - Modelo 129 | Página 2",
     "description": "Descubra o melhor template para Clássica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-clssica-ouvir-modelo-129-pgina-2",
   "seoTitle": "Músicas para Clássica Ouvir - Modelo 129 | Página 2 - Roleta Online Grátis",

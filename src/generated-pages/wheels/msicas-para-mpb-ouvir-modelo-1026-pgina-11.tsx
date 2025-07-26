@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "mpb"
   ],
-  "usageCount": 4319,
+  "usageCount": 7197,
   "isPopular": false,
   "createdAt": "2025-07-19",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-mpb-ouvir-modelo-1026-pgina-11",
   "seoTitle": "Músicas para MPB Ouvir - Modelo 1026 | Página 11 - Roleta Online Grátis",

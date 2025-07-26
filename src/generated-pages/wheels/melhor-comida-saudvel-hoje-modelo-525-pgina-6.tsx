@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida saudável"
   ],
-  "usageCount": 936,
+  "usageCount": 1841,
   "isPopular": false,
   "createdAt": "2025-06-30",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-saudvel-hoje-modelo-525-pgina-6",
   "seoTitle": "Melhor Comida Saudável Hoje - Modelo 525 | Página 6 - Roleta Online Grátis",

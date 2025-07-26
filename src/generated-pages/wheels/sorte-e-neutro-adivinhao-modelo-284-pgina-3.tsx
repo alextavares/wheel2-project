@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "neutro"
   ],
-  "usageCount": 1394,
+  "usageCount": 7331,
   "isPopular": false,
-  "createdAt": "2025-07-19",
+  "createdAt": "2025-07-21",
   "seo": {
     "title": "Sorte e Neutro Adivinhação - Modelo 284 | Página 3",
     "description": "Descubra o melhor template para Neutro com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-neutro-adivinhao-modelo-284-pgina-3",
   "seoTitle": "Sorte e Neutro Adivinhação - Modelo 284 | Página 3 - Roleta Online Grátis",

@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante japonês"
   ],
-  "usageCount": 496,
+  "usageCount": 5401,
   "isPopular": true,
-  "createdAt": "2025-06-29",
+  "createdAt": "2025-07-14",
   "seo": {
     "title": "Melhor Restaurante Japonês Hoje - Modelo 77 | Página 1",
     "description": "Descubra o melhor template para Restaurante Japonês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-japons-hoje-modelo-77-pgina-1",
   "seoTitle": "Melhor Restaurante Japonês Hoje - Modelo 77 | Página 1 - Roleta Online Grátis",

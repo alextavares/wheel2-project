@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante chinês"
   ],
-  "usageCount": 5343,
+  "usageCount": 9359,
   "isPopular": false,
   "createdAt": "2025-07-01",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-chins-hoje-modelo-949-pgina-10",
   "seoTitle": "Melhor Restaurante Chinês Hoje - Modelo 949 | Página 10 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "talvez"
   ],
-  "usageCount": 9407,
+  "usageCount": 4951,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Decidir Talvez Agora - Modelo 693 | Página 7",
     "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-talvez-agora-modelo-693-pgina-7",
   "seoTitle": "Decidir Talvez Agora - Modelo 693 | Página 7 - Roleta Online Grátis",

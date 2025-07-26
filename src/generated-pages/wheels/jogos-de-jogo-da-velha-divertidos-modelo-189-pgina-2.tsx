@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo da velha"
   ],
-  "usageCount": 6758,
+  "usageCount": 3995,
   "isPopular": false,
   "createdAt": "2025-07-23",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-da-velha-divertidos-modelo-189-pgina-2",
   "seoTitle": "Jogos de Jogo da Velha Divertidos - Modelo 189 | Página 2 - Roleta Online Grátis",

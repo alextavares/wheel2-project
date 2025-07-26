@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "é certo"
   ],
-  "usageCount": 9332,
+  "usageCount": 1387,
   "isPopular": false,
-  "createdAt": "2025-07-23",
+  "createdAt": "2025-07-18",
   "seo": {
     "title": "Sorte e É certo Adivinhação - Modelo 286 | Página 3",
     "description": "Descubra o melhor template para É certo com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-certo-adivinhao-modelo-286-pgina-3",
   "seoTitle": "Sorte e É certo Adivinhação - Modelo 286 | Página 3 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "uno"
   ],
-  "usageCount": 4471,
+  "usageCount": 6137,
   "isPopular": false,
-  "createdAt": "2025-07-22",
+  "createdAt": "2025-07-16",
   "seo": {
     "title": "Jogos de Uno Divertidos - Modelo 146 | Página 2",
     "description": "Descubra o melhor template para Uno com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-uno-divertidos-modelo-146-pgina-2",
   "seoTitle": "Jogos de Uno Divertidos - Modelo 146 | Página 2 - Roleta Online Grátis",

@@ -89,9 +89,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "ação"
     ],
-    "usageCount": 2598,
+    "usageCount": 2573,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Filmes para Ação Assistir - Modelo 1 | Página 1",
       "description": "Descubra o melhor template para Ação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -118,7 +118,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -186,9 +186,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "comédia"
     ],
-    "usageCount": 3216,
+    "usageCount": 2734,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Filmes para Comédia Assistir - Modelo 2 | Página 1",
       "description": "Descubra o melhor template para Comédia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -215,7 +215,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -283,9 +283,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "drama"
     ],
-    "usageCount": 7912,
+    "usageCount": 219,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Filmes para Drama Assistir - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para Drama com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -312,7 +312,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -380,9 +380,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "terror"
     ],
-    "usageCount": 2687,
+    "usageCount": 6466,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Filmes para Terror Assistir - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Terror com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -409,7 +409,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -477,7 +477,7 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "romance"
     ],
-    "usageCount": 3294,
+    "usageCount": 5342,
     "isPopular": true,
     "createdAt": "2025-07-19",
     "seo": {
@@ -506,7 +506,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -574,9 +574,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "ficção científica"
     ],
-    "usageCount": 9680,
+    "usageCount": 5849,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Filmes para Ficção Científica Assistir - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para Ficção Científica com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -603,7 +603,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -671,9 +671,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "documentário"
     ],
-    "usageCount": 7540,
+    "usageCount": 1856,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Filmes para Documentário Assistir - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Documentário com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -700,7 +700,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -768,9 +768,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "animação"
     ],
-    "usageCount": 651,
+    "usageCount": 7251,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Filmes para Animação Assistir - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Animação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -797,7 +797,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -865,9 +865,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "suspense"
     ],
-    "usageCount": 1693,
+    "usageCount": 294,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Filmes para Suspense Assistir - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Suspense com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -894,7 +894,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -962,9 +962,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "policial"
     ],
-    "usageCount": 8712,
+    "usageCount": 4483,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Filmes para Policial Assistir - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Policial com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -991,7 +991,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1059,9 +1059,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "aventura"
     ],
-    "usageCount": 5881,
+    "usageCount": 7593,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Filmes para Aventura Assistir - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Aventura com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1088,7 +1088,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1156,9 +1156,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "fantasia"
     ],
-    "usageCount": 696,
+    "usageCount": 138,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Filmes para Fantasia Assistir - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Fantasia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1185,7 +1185,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1253,9 +1253,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "musical"
     ],
-    "usageCount": 7349,
+    "usageCount": 7117,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Filmes para Musical Assistir - Modelo 13 | Página 1",
       "description": "Descubra o melhor template para Musical com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1282,7 +1282,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1350,9 +1350,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "guerra"
     ],
-    "usageCount": 5527,
+    "usageCount": 4508,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Filmes para Guerra Assistir - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Guerra com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1379,7 +1379,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1447,9 +1447,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "histórico"
     ],
-    "usageCount": 2344,
+    "usageCount": 3908,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Filmes para Histórico Assistir - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Histórico com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1476,7 +1476,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1544,9 +1544,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "ação"
     ],
-    "usageCount": 1889,
+    "usageCount": 631,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Filmes para Ação Assistir - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para Ação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1573,7 +1573,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1641,9 +1641,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "comédia"
     ],
-    "usageCount": 2431,
+    "usageCount": 7085,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Filmes para Comédia Assistir - Modelo 17 | Página 1",
       "description": "Descubra o melhor template para Comédia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1670,7 +1670,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1738,9 +1738,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "drama"
     ],
-    "usageCount": 4674,
+    "usageCount": 7184,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-15",
     "seo": {
       "title": "Filmes para Drama Assistir - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para Drama com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1767,7 +1767,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1835,9 +1835,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "terror"
     ],
-    "usageCount": 7983,
+    "usageCount": 9067,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Filmes para Terror Assistir - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Terror com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1864,7 +1864,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1932,9 +1932,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "romance"
     ],
-    "usageCount": 5311,
+    "usageCount": 7444,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-06-29",
     "seo": {
       "title": "Filmes para Romance Assistir - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para Romance com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -1961,7 +1961,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2029,9 +2029,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "ficção científica"
     ],
-    "usageCount": 1917,
+    "usageCount": 9506,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Filmes para Ficção Científica Assistir - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para Ficção Científica com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2058,7 +2058,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2126,9 +2126,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "documentário"
     ],
-    "usageCount": 9193,
+    "usageCount": 7373,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Filmes para Documentário Assistir - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Documentário com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2155,7 +2155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2223,9 +2223,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "animação"
     ],
-    "usageCount": 2497,
+    "usageCount": 8445,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Filmes para Animação Assistir - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Animação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2252,7 +2252,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2320,9 +2320,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "suspense"
     ],
-    "usageCount": 8588,
+    "usageCount": 5812,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-15",
     "seo": {
       "title": "Filmes para Suspense Assistir - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Suspense com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2349,7 +2349,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2417,9 +2417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "policial"
     ],
-    "usageCount": 8440,
+    "usageCount": 5967,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Filmes para Policial Assistir - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Policial com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2446,7 +2446,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2514,7 +2514,7 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "aventura"
     ],
-    "usageCount": 6739,
+    "usageCount": 1388,
     "isPopular": true,
     "createdAt": "2025-07-19",
     "seo": {
@@ -2543,7 +2543,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2611,9 +2611,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "fantasia"
     ],
-    "usageCount": 4018,
+    "usageCount": 5934,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-06-24",
     "seo": {
       "title": "Filmes para Fantasia Assistir - Modelo 27 | Página 1",
       "description": "Descubra o melhor template para Fantasia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2640,7 +2640,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2708,9 +2708,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "musical"
     ],
-    "usageCount": 9765,
+    "usageCount": 44,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Filmes para Musical Assistir - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Musical com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2737,7 +2737,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2805,9 +2805,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "guerra"
     ],
-    "usageCount": 8103,
+    "usageCount": 9170,
     "isPopular": true,
-    "createdAt": "2025-06-25",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Filmes para Guerra Assistir - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Guerra com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2834,7 +2834,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2902,9 +2902,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "histórico"
     ],
-    "usageCount": 1358,
+    "usageCount": 802,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Filmes para Histórico Assistir - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Histórico com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -2931,7 +2931,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2999,9 +2999,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "ação"
     ],
-    "usageCount": 3025,
+    "usageCount": 7181,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Filmes para Ação Assistir - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para Ação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3028,7 +3028,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3096,9 +3096,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "comédia"
     ],
-    "usageCount": 902,
+    "usageCount": 3038,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Filmes para Comédia Assistir - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para Comédia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3125,7 +3125,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3193,9 +3193,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "drama"
     ],
-    "usageCount": 7343,
+    "usageCount": 6379,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Filmes para Drama Assistir - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para Drama com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3222,7 +3222,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3290,9 +3290,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "terror"
     ],
-    "usageCount": 6514,
+    "usageCount": 3360,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Filmes para Terror Assistir - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Terror com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3319,7 +3319,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3387,9 +3387,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "romance"
     ],
-    "usageCount": 8100,
+    "usageCount": 6209,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Filmes para Romance Assistir - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para Romance com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3416,7 +3416,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3484,9 +3484,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "ficção científica"
     ],
-    "usageCount": 8848,
+    "usageCount": 3971,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Filmes para Ficção Científica Assistir - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para Ficção Científica com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3513,7 +3513,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3581,9 +3581,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "documentário"
     ],
-    "usageCount": 8247,
+    "usageCount": 7160,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Filmes para Documentário Assistir - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Documentário com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3610,7 +3610,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3678,9 +3678,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "animação"
     ],
-    "usageCount": 4862,
+    "usageCount": 5183,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Filmes para Animação Assistir - Modelo 38 | Página 1",
       "description": "Descubra o melhor template para Animação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3707,7 +3707,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3775,9 +3775,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "suspense"
     ],
-    "usageCount": 4995,
+    "usageCount": 736,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Filmes para Suspense Assistir - Modelo 39 | Página 1",
       "description": "Descubra o melhor template para Suspense com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3804,7 +3804,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3872,9 +3872,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "policial"
     ],
-    "usageCount": 6873,
+    "usageCount": 9310,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Filmes para Policial Assistir - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Policial com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3901,7 +3901,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3969,9 +3969,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "aventura"
     ],
-    "usageCount": 1141,
+    "usageCount": 9434,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Filmes para Aventura Assistir - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Aventura com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -3998,7 +3998,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4066,9 +4066,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "fantasia"
     ],
-    "usageCount": 5403,
+    "usageCount": 4798,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Filmes para Fantasia Assistir - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Fantasia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -4095,7 +4095,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4163,9 +4163,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "musical"
     ],
-    "usageCount": 859,
+    "usageCount": 4075,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Filmes para Musical Assistir - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Musical com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -4192,7 +4192,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4260,9 +4260,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "guerra"
     ],
-    "usageCount": 2936,
+    "usageCount": 1636,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Filmes para Guerra Assistir - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Guerra com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -4289,7 +4289,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4357,7 +4357,7 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "histórico"
     ],
-    "usageCount": 8574,
+    "usageCount": 3966,
     "isPopular": true,
     "createdAt": "2025-07-10",
     "seo": {
@@ -4386,7 +4386,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4454,9 +4454,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "ação"
     ],
-    "usageCount": 6136,
+    "usageCount": 7038,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Filmes para Ação Assistir - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para Ação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -4483,7 +4483,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4551,9 +4551,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "comédia"
     ],
-    "usageCount": 4801,
+    "usageCount": 8655,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Filmes para Comédia Assistir - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para Comédia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4648,9 +4648,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "drama"
     ],
-    "usageCount": 4778,
+    "usageCount": 2382,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Filmes para Drama Assistir - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para Drama com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -4677,7 +4677,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4745,9 +4745,9 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "terror"
     ],
-    "usageCount": 8172,
+    "usageCount": 1116,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Filmes para Terror Assistir - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Terror com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -4774,7 +4774,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4842,7 +4842,7 @@ const categoryTemplates: WheelTemplate[] = [
       "prime",
       "romance"
     ],
-    "usageCount": 324,
+    "usageCount": 4191,
     "isPopular": true,
     "createdAt": "2025-07-01",
     "seo": {
@@ -4871,7 +4871,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

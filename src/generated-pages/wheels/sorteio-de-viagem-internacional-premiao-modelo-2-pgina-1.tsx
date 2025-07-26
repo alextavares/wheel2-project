@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "viagem internacional"
   ],
-  "usageCount": 8572,
+  "usageCount": 1169,
   "isPopular": true,
   "createdAt": "2025-07-17",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-viagem-internacional-premiao-modelo-2-pgina-1",
   "seoTitle": "Sorteio de Viagem Internacional Premiação - Modelo 2 | Página 1 - Roleta Online Grátis",

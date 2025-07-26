@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "carro 0km"
   ],
-  "usageCount": 3680,
+  "usageCount": 7175,
   "isPopular": true,
   "createdAt": "2025-06-30",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-carro-0km-premiao-modelo-61-pgina-1",
   "seoTitle": "Sorteio de Carro 0km Premiação - Modelo 61 | Página 1 - Roleta Online Grátis",

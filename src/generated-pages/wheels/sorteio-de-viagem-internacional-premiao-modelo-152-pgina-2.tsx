@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "viagem internacional"
   ],
-  "usageCount": 290,
+  "usageCount": 9538,
   "isPopular": false,
-  "createdAt": "2025-07-13",
+  "createdAt": "2025-07-24",
   "seo": {
     "title": "Sorteio de Viagem Internacional Premiação - Modelo 152 | Página 2",
     "description": "Descubra o melhor template para Viagem Internacional com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-viagem-internacional-premiao-modelo-152-pgina-2",
   "seoTitle": "Sorteio de Viagem Internacional Premiação - Modelo 152 | Página 2 - Roleta Online Grátis",

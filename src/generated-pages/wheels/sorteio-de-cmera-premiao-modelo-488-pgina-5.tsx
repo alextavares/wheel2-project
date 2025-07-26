@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "câmera"
   ],
-  "usageCount": 375,
+  "usageCount": 840,
   "isPopular": false,
-  "createdAt": "2025-07-17",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Sorteio de Câmera Premiação - Modelo 488 | Página 5",
     "description": "Descubra o melhor template para Câmera com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-cmera-premiao-modelo-488-pgina-5",
   "seoTitle": "Sorteio de Câmera Premiação - Modelo 488 | Página 5 - Roleta Online Grátis",

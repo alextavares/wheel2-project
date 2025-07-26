@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "comédia"
   ],
-  "usageCount": 5398,
+  "usageCount": 362,
   "isPopular": false,
-  "createdAt": "2025-07-20",
+  "createdAt": "2025-07-15",
   "seo": {
     "title": "Filmes para Comédia Assistir - Modelo 1112 | Página 12",
     "description": "Descubra o melhor template para Comédia com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-comdia-assistir-modelo-1112-pgina-12",
   "seoTitle": "Filmes para Comédia Assistir - Modelo 1112 | Página 12 - Roleta Online Grátis",

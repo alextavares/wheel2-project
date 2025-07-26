@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo da memória"
   ],
-  "usageCount": 6660,
+  "usageCount": 6545,
   "isPopular": false,
   "createdAt": "2025-07-02",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-da-memria-divertidos-modelo-623-pgina-7",
   "seoTitle": "Jogos de Jogo da Memória Divertidos - Modelo 623 | Página 7 - Roleta Online Grátis",

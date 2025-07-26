@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante italiano"
   ],
-  "usageCount": 6470,
+  "usageCount": 552,
   "isPopular": false,
   "createdAt": "2025-07-21",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-italiano-hoje-modelo-1411-pgina-15",
   "seoTitle": "Melhor Restaurante Italiano Hoje - Modelo 1411 | Página 15 - Roleta Online Grátis",

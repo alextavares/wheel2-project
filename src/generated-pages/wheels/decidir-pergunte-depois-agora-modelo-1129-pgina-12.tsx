@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "pergunte depois"
   ],
-  "usageCount": 8785,
+  "usageCount": 594,
   "isPopular": false,
   "createdAt": "2025-07-03",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-pergunte-depois-agora-modelo-1129-pgina-12",
   "seoTitle": "Decidir Pergunte Depois Agora - Modelo 1129 | Página 12 - Roleta Online Grátis",

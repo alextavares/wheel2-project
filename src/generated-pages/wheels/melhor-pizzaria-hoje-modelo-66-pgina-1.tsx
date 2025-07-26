@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "pizzaria"
   ],
-  "usageCount": 2427,
+  "usageCount": 3071,
   "isPopular": true,
-  "createdAt": "2025-07-15",
+  "createdAt": "2025-07-06",
   "seo": {
     "title": "Melhor Pizzaria Hoje - Modelo 66 | Página 1",
     "description": "Descubra o melhor template para Pizzaria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-pizzaria-hoje-modelo-66-pgina-1",
   "seoTitle": "Melhor Pizzaria Hoje - Modelo 66 | Página 1 - Roleta Online Grátis",

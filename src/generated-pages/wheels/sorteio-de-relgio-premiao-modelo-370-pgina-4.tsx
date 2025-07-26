@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "relógio"
   ],
-  "usageCount": 5552,
+  "usageCount": 6522,
   "isPopular": false,
-  "createdAt": "2025-07-04",
+  "createdAt": "2025-07-01",
   "seo": {
     "title": "Sorteio de Relógio Premiação - Modelo 370 | Página 4",
     "description": "Descubra o melhor template para Relógio com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-relgio-premiao-modelo-370-pgina-4",
   "seoTitle": "Sorteio de Relógio Premiação - Modelo 370 | Página 4 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "jogo de cartas"
   ],
-  "usageCount": 7087,
+  "usageCount": 4736,
   "isPopular": true,
   "createdAt": "2025-07-22",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-jogo-de-cartas-divertidos-modelo-75-pgina-1",
   "seoTitle": "Jogos de Jogo de Cartas Divertidos - Modelo 75 | Página 1 - Roleta Online Grátis",

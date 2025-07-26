@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "documentário"
   ],
-  "usageCount": 6832,
+  "usageCount": 2677,
   "isPopular": false,
   "createdAt": "2025-07-01",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-documentrio-assistir-modelo-1072-pgina-11",
   "seoTitle": "Filmes para Documentário Assistir - Modelo 1072 | Página 11 - Roleta Online Grátis",

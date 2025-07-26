@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "equilíbrio"
   ],
-  "usageCount": 1718,
+  "usageCount": 2769,
   "isPopular": false,
-  "createdAt": "2025-07-01",
+  "createdAt": "2025-07-19",
   "seo": {
     "title": "Sorte e Equilíbrio Adivinhação - Modelo 150 | Página 2",
     "description": "Descubra o melhor template para Equilíbrio com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-equilbrio-adivinhao-modelo-150-pgina-2",
   "seoTitle": "Sorte e Equilíbrio Adivinhação - Modelo 150 | Página 2 - Roleta Online Grátis",

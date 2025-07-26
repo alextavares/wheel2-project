@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "uno"
   ],
-  "usageCount": 2311,
+  "usageCount": 1689,
   "isPopular": false,
   "createdAt": "2025-07-15",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-uno-divertidos-modelo-746-pgina-8",
   "seoTitle": "Jogos de Uno Divertidos - Modelo 746 | Página 8 - Roleta Online Grátis",

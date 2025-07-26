@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "matemática"
   ],
-  "usageCount": 894,
+  "usageCount": 4445,
   "isPopular": false,
-  "createdAt": "2025-07-21",
+  "createdAt": "2025-06-28",
   "seo": {
     "title": "Aprender Matemática Agora - Modelo 1261 | Página 13",
     "description": "Descubra o melhor template para Matemática com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-matemtica-agora-modelo-1261-pgina-13",
   "seoTitle": "Aprender Matemática Agora - Modelo 1261 | Página 13 - Roleta Online Grátis",

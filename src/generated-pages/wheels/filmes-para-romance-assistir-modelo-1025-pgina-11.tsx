@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "romance"
   ],
-  "usageCount": 7096,
+  "usageCount": 9746,
   "isPopular": false,
   "createdAt": "2025-06-26",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-romance-assistir-modelo-1025-pgina-11",
   "seoTitle": "Filmes para Romance Assistir - Modelo 1025 | Página 11 - Roleta Online Grátis",

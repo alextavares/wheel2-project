@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "drama"
   ],
-  "usageCount": 3258,
+  "usageCount": 3257,
   "isPopular": false,
   "createdAt": "2025-06-25",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-drama-assistir-modelo-768-pgina-8",
   "seoTitle": "Filmes para Drama Assistir - Modelo 768 | Página 8 - Roleta Online Grátis",

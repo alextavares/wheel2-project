@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "melhor não"
   ],
-  "usageCount": 7712,
+  "usageCount": 2084,
   "isPopular": false,
-  "createdAt": "2025-07-02",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Decidir Melhor Não Agora - Modelo 517 | Página 6",
     "description": "Descubra o melhor template para Melhor Não com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-melhor-no-agora-modelo-517-pgina-6",
   "seoTitle": "Decidir Melhor Não Agora - Modelo 517 | Página 6 - Roleta Online Grátis",

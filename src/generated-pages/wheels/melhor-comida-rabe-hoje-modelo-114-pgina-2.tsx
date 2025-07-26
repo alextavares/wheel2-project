@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida árabe"
   ],
-  "usageCount": 2389,
+  "usageCount": 3912,
   "isPopular": false,
-  "createdAt": "2025-06-30",
+  "createdAt": "2025-07-11",
   "seo": {
     "title": "Melhor Comida Árabe Hoje - Modelo 114 | Página 2",
     "description": "Descubra o melhor template para Comida Árabe com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-rabe-hoje-modelo-114-pgina-2",
   "seoTitle": "Melhor Comida Árabe Hoje - Modelo 114 | Página 2 - Roleta Online Grátis",

@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "pizzaria"
   ],
-  "usageCount": 6153,
+  "usageCount": 558,
   "isPopular": false,
   "createdAt": "2025-07-12",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-pizzaria-hoje-modelo-351-pgina-4",
   "seoTitle": "Melhor Pizzaria Hoje - Modelo 351 | Página 4 - Roleta Online Grátis",

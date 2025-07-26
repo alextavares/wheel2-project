@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "sem dúvida"
   ],
-  "usageCount": 205,
+  "usageCount": 1730,
   "isPopular": false,
-  "createdAt": "2025-07-16",
+  "createdAt": "2025-07-11",
   "seo": {
     "title": "Sorte e Sem dúvida Adivinhação - Modelo 243 | Página 3",
     "description": "Descubra o melhor template para Sem dúvida com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-sem-dvida-adivinhao-modelo-243-pgina-3",
   "seoTitle": "Sorte e Sem dúvida Adivinhação - Modelo 243 | Página 3 - Roleta Online Grátis",

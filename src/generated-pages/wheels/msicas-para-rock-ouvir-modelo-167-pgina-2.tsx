@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "rock"
   ],
-  "usageCount": 2074,
+  "usageCount": 3952,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-rock-ouvir-modelo-167-pgina-2",
   "seoTitle": "Músicas para Rock Ouvir - Modelo 167 | Página 2 - Roleta Online Grátis",

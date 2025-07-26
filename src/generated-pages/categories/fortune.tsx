@@ -87,9 +87,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "é certo"
     ],
-    "usageCount": 6863,
+    "usageCount": 4902,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Sorte e É certo Adivinhação - Modelo 1 | Página 1",
       "description": "Descubra o melhor template para É certo com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -115,7 +115,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -182,9 +182,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "definitivamente sim"
     ],
-    "usageCount": 4289,
+    "usageCount": 1856,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Sorte e Definitivamente sim Adivinhação - Modelo 2 | Página 1",
       "description": "Descubra o melhor template para Definitivamente sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -210,7 +210,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -277,9 +277,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sem dúvida"
     ],
-    "usageCount": 8470,
+    "usageCount": 3603,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Sorte e Sem dúvida Adivinhação - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para Sem dúvida com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -305,7 +305,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -372,9 +372,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sim"
     ],
-    "usageCount": 7673,
+    "usageCount": 7975,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorte e Sim Adivinhação - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -400,7 +400,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -467,9 +467,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "provavelmente"
     ],
-    "usageCount": 5399,
+    "usageCount": 9971,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Sorte e Provavelmente Adivinhação - Modelo 5 | Página 1",
       "description": "Descubra o melhor template para Provavelmente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -495,7 +495,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -562,9 +562,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "talvez"
     ],
-    "usageCount": 814,
+    "usageCount": 1123,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Sorte e Talvez Adivinhação - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -590,7 +590,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -657,9 +657,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "não conte com isso"
     ],
-    "usageCount": 2234,
+    "usageCount": 3062,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Sorte e Não conte com isso Adivinhação - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Não conte com isso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -685,7 +685,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -752,9 +752,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "minha resposta é não"
     ],
-    "usageCount": 7575,
+    "usageCount": 423,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Sorte e Minha resposta é não Adivinhação - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Minha resposta é não com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -780,7 +780,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -847,9 +847,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "muito duvidoso"
     ],
-    "usageCount": 8824,
+    "usageCount": 5997,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Sorte e Muito duvidoso Adivinhação - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Muito duvidoso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -875,7 +875,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -942,9 +942,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "pergunte novamente"
     ],
-    "usageCount": 5245,
+    "usageCount": 3854,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Sorte e Pergunte novamente Adivinhação - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Pergunte novamente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -970,7 +970,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1037,9 +1037,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "espere e veja"
     ],
-    "usageCount": 7524,
+    "usageCount": 333,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Sorte e Espere e veja Adivinhação - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Espere e veja com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1065,7 +1065,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1132,9 +1132,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "boa sorte"
     ],
-    "usageCount": 9557,
+    "usageCount": 3605,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Sorte e Boa sorte Adivinhação - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Boa sorte com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1160,7 +1160,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1227,7 +1227,7 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "azar"
     ],
-    "usageCount": 3051,
+    "usageCount": 5355,
     "isPopular": true,
     "createdAt": "2025-07-20",
     "seo": {
@@ -1255,7 +1255,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1322,9 +1322,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "neutro"
     ],
-    "usageCount": 4735,
+    "usageCount": 3987,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Sorte e Neutro Adivinhação - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Neutro com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1350,7 +1350,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1417,9 +1417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "equilíbrio"
     ],
-    "usageCount": 8986,
+    "usageCount": 9095,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Sorte e Equilíbrio Adivinhação - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Equilíbrio com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1445,7 +1445,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1512,9 +1512,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "é certo"
     ],
-    "usageCount": 8119,
+    "usageCount": 1061,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Sorte e É certo Adivinhação - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para É certo com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1540,7 +1540,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1607,9 +1607,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "definitivamente sim"
     ],
-    "usageCount": 5877,
+    "usageCount": 6411,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Sorte e Definitivamente sim Adivinhação - Modelo 17 | Página 1",
       "description": "Descubra o melhor template para Definitivamente sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1635,7 +1635,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1702,9 +1702,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sem dúvida"
     ],
-    "usageCount": 2281,
+    "usageCount": 644,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Sorte e Sem dúvida Adivinhação - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para Sem dúvida com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1730,7 +1730,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1797,9 +1797,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sim"
     ],
-    "usageCount": 7710,
+    "usageCount": 3081,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Sorte e Sim Adivinhação - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1825,7 +1825,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1892,9 +1892,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "provavelmente"
     ],
-    "usageCount": 3813,
+    "usageCount": 1208,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Sorte e Provavelmente Adivinhação - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para Provavelmente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -1920,7 +1920,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1987,9 +1987,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "talvez"
     ],
-    "usageCount": 43,
+    "usageCount": 6461,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Sorte e Talvez Adivinhação - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2015,7 +2015,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2082,9 +2082,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "não conte com isso"
     ],
-    "usageCount": 6884,
+    "usageCount": 4749,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorte e Não conte com isso Adivinhação - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Não conte com isso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2110,7 +2110,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2177,9 +2177,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "minha resposta é não"
     ],
-    "usageCount": 3522,
+    "usageCount": 9522,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Sorte e Minha resposta é não Adivinhação - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Minha resposta é não com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2205,7 +2205,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2272,9 +2272,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "muito duvidoso"
     ],
-    "usageCount": 3966,
+    "usageCount": 9723,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Sorte e Muito duvidoso Adivinhação - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Muito duvidoso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2300,7 +2300,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2367,9 +2367,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "pergunte novamente"
     ],
-    "usageCount": 2061,
+    "usageCount": 4690,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Sorte e Pergunte novamente Adivinhação - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Pergunte novamente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2395,7 +2395,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2462,9 +2462,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "espere e veja"
     ],
-    "usageCount": 4965,
+    "usageCount": 4487,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-24",
     "seo": {
       "title": "Sorte e Espere e veja Adivinhação - Modelo 26 | Página 1",
       "description": "Descubra o melhor template para Espere e veja com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2490,7 +2490,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2557,7 +2557,7 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "boa sorte"
     ],
-    "usageCount": 2107,
+    "usageCount": 5477,
     "isPopular": true,
     "createdAt": "2025-07-16",
     "seo": {
@@ -2585,7 +2585,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2652,9 +2652,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "azar"
     ],
-    "usageCount": 7393,
+    "usageCount": 5197,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Sorte e Azar Adivinhação - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Azar com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2680,7 +2680,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2747,9 +2747,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "neutro"
     ],
-    "usageCount": 1066,
+    "usageCount": 9077,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Sorte e Neutro Adivinhação - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Neutro com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2775,7 +2775,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2842,9 +2842,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "equilíbrio"
     ],
-    "usageCount": 9439,
+    "usageCount": 3138,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Sorte e Equilíbrio Adivinhação - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Equilíbrio com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2870,7 +2870,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2937,9 +2937,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "é certo"
     ],
-    "usageCount": 6913,
+    "usageCount": 1069,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Sorte e É certo Adivinhação - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para É certo com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -2965,7 +2965,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3032,9 +3032,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "definitivamente sim"
     ],
-    "usageCount": 7061,
+    "usageCount": 6182,
     "isPopular": true,
-    "createdAt": "2025-06-25",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Sorte e Definitivamente sim Adivinhação - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para Definitivamente sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3060,7 +3060,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3127,9 +3127,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sem dúvida"
     ],
-    "usageCount": 4026,
+    "usageCount": 6040,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Sorte e Sem dúvida Adivinhação - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para Sem dúvida com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3155,7 +3155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3222,9 +3222,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sim"
     ],
-    "usageCount": 339,
+    "usageCount": 175,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Sorte e Sim Adivinhação - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3250,7 +3250,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3317,9 +3317,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "provavelmente"
     ],
-    "usageCount": 1039,
+    "usageCount": 3760,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Sorte e Provavelmente Adivinhação - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para Provavelmente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3345,7 +3345,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3412,9 +3412,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "talvez"
     ],
-    "usageCount": 503,
+    "usageCount": 7933,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Sorte e Talvez Adivinhação - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3440,7 +3440,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3507,9 +3507,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "não conte com isso"
     ],
-    "usageCount": 2649,
+    "usageCount": 6671,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Sorte e Não conte com isso Adivinhação - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Não conte com isso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3535,7 +3535,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3602,9 +3602,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "minha resposta é não"
     ],
-    "usageCount": 7364,
+    "usageCount": 3398,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Sorte e Minha resposta é não Adivinhação - Modelo 38 | Página 1",
       "description": "Descubra o melhor template para Minha resposta é não com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3630,7 +3630,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3697,9 +3697,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "muito duvidoso"
     ],
-    "usageCount": 9053,
+    "usageCount": 3174,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Sorte e Muito duvidoso Adivinhação - Modelo 39 | Página 1",
       "description": "Descubra o melhor template para Muito duvidoso com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3725,7 +3725,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3792,9 +3792,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "pergunte novamente"
     ],
-    "usageCount": 6046,
+    "usageCount": 8364,
     "isPopular": true,
-    "createdAt": "2025-06-28",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Sorte e Pergunte novamente Adivinhação - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Pergunte novamente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3820,7 +3820,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3887,9 +3887,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "espere e veja"
     ],
-    "usageCount": 2394,
+    "usageCount": 1610,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-06-29",
     "seo": {
       "title": "Sorte e Espere e veja Adivinhação - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Espere e veja com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -3915,7 +3915,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3982,9 +3982,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "boa sorte"
     ],
-    "usageCount": 5785,
+    "usageCount": 8354,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Sorte e Boa sorte Adivinhação - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Boa sorte com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4010,7 +4010,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4077,9 +4077,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "azar"
     ],
-    "usageCount": 2428,
+    "usageCount": 4041,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Sorte e Azar Adivinhação - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Azar com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4105,7 +4105,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4172,9 +4172,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "neutro"
     ],
-    "usageCount": 8863,
+    "usageCount": 6584,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Sorte e Neutro Adivinhação - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Neutro com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4200,7 +4200,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4267,9 +4267,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "equilíbrio"
     ],
-    "usageCount": 1682,
+    "usageCount": 7771,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Sorte e Equilíbrio Adivinhação - Modelo 45 | Página 1",
       "description": "Descubra o melhor template para Equilíbrio com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4295,7 +4295,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4362,9 +4362,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "é certo"
     ],
-    "usageCount": 5014,
+    "usageCount": 2306,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-19",
     "seo": {
       "title": "Sorte e É certo Adivinhação - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para É certo com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4390,7 +4390,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4457,9 +4457,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "definitivamente sim"
     ],
-    "usageCount": 2170,
+    "usageCount": 9582,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Sorte e Definitivamente sim Adivinhação - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para Definitivamente sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4485,7 +4485,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4552,9 +4552,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sem dúvida"
     ],
-    "usageCount": 2208,
+    "usageCount": 4991,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Sorte e Sem dúvida Adivinhação - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para Sem dúvida com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4647,9 +4647,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "sim"
     ],
-    "usageCount": 9839,
+    "usageCount": 9662,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Sorte e Sim Adivinhação - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Sim com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4675,7 +4675,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4742,9 +4742,9 @@ const categoryTemplates: WheelTemplate[] = [
       "espiritual",
       "provavelmente"
     ],
-    "usageCount": 7233,
+    "usageCount": 9312,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Sorte e Provavelmente Adivinhação - Modelo 50 | Página 1",
       "description": "Descubra o melhor template para Provavelmente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -4770,7 +4770,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

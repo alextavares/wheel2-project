@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "samba"
   ],
-  "usageCount": 9006,
+  "usageCount": 2789,
   "isPopular": false,
-  "createdAt": "2025-07-19",
+  "createdAt": "2025-06-25",
   "seo": {
     "title": "Músicas para Samba Ouvir - Modelo 284 | Página 3",
     "description": "Descubra o melhor template para Samba com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-samba-ouvir-modelo-284-pgina-3",
   "seoTitle": "Músicas para Samba Ouvir - Modelo 284 | Página 3 - Roleta Online Grátis",

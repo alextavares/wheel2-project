@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "aventura"
   ],
-  "usageCount": 934,
+  "usageCount": 2147,
   "isPopular": true,
   "createdAt": "2025-07-19",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-aventura-assistir-modelo-71-pgina-1",
   "seoTitle": "Filmes para Aventura Assistir - Modelo 71 | Página 1 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "imagem e ação"
   ],
-  "usageCount": 5827,
+  "usageCount": 3370,
   "isPopular": false,
   "createdAt": "2025-07-03",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-imagem-e-ao-divertidos-modelo-216-pgina-3",
   "seoTitle": "Jogos de Imagem e Ação Divertidos - Modelo 216 | Página 3 - Roleta Online Grátis",

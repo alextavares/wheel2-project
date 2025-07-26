@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "stop/adedonha"
   ],
-  "usageCount": 6016,
+  "usageCount": 2962,
   "isPopular": false,
   "createdAt": "2025-07-22",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-stopadedonha-divertidos-modelo-1383-pgina-14",
   "seoTitle": "Jogos de Stop/Adedonha Divertidos - Modelo 1383 | Página 14 - Roleta Online Grátis",

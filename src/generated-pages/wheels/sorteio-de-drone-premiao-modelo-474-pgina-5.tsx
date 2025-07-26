@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "drone"
   ],
-  "usageCount": 7394,
+  "usageCount": 8417,
   "isPopular": false,
-  "createdAt": "2025-06-26",
+  "createdAt": "2025-06-29",
   "seo": {
     "title": "Sorteio de Drone Premiação - Modelo 474 | Página 5",
     "description": "Descubra o melhor template para Drone com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-drone-premiao-modelo-474-pgina-5",
   "seoTitle": "Sorteio de Drone Premiação - Modelo 474 | Página 5 - Roleta Online Grátis",

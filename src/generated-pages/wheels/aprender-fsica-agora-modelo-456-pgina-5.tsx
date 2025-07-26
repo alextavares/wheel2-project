@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "física"
   ],
-  "usageCount": 5049,
+  "usageCount": 5835,
   "isPopular": false,
-  "createdAt": "2025-06-27",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Aprender Física Agora - Modelo 456 | Página 5",
     "description": "Descubra o melhor template para Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-fsica-agora-modelo-456-pgina-5",
   "seoTitle": "Aprender Física Agora - Modelo 456 | Página 5 - Roleta Online Grátis",

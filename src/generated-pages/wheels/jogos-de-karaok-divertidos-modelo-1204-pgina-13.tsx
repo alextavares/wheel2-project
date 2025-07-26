@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "karaokê"
   ],
-  "usageCount": 8299,
+  "usageCount": 7917,
   "isPopular": false,
-  "createdAt": "2025-07-11",
+  "createdAt": "2025-07-06",
   "seo": {
     "title": "Jogos de Karaokê Divertidos - Modelo 1204 | Página 13",
     "description": "Descubra o melhor template para Karaokê com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-karaok-divertidos-modelo-1204-pgina-13",
   "seoTitle": "Jogos de Karaokê Divertidos - Modelo 1204 | Página 13 - Roleta Online Grátis",

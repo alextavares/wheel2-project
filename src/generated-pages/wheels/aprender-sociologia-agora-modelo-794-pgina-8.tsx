@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "sociologia"
   ],
-  "usageCount": 1620,
+  "usageCount": 4897,
   "isPopular": false,
-  "createdAt": "2025-07-19",
+  "createdAt": "2025-07-15",
   "seo": {
     "title": "Aprender Sociologia Agora - Modelo 794 | Página 8",
     "description": "Descubra o melhor template para Sociologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-sociologia-agora-modelo-794-pgina-8",
   "seoTitle": "Aprender Sociologia Agora - Modelo 794 | Página 8 - Roleta Online Grátis",

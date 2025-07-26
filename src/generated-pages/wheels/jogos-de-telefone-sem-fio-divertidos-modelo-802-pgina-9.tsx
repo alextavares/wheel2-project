@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "telefone sem fio"
   ],
-  "usageCount": 6375,
+  "usageCount": 29,
   "isPopular": false,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-07-11",
   "seo": {
     "title": "Jogos de Telefone sem Fio Divertidos - Modelo 802 | Página 9",
     "description": "Descubra o melhor template para Telefone sem Fio com nosso gerador de rodas interativo. Ideal para jogos e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-telefone-sem-fio-divertidos-modelo-802-pgina-9",
   "seoTitle": "Jogos de Telefone sem Fio Divertidos - Modelo 802 | Página 9 - Roleta Online Grátis",

@@ -1,30 +1,20 @@
 'use client';
 
 import React, { useState, useRef, useEffect } from 'react';
+import { WheelItem } from '@/types/wheel';
 import ConfettiEffect from './ConfettiEffect';
 import { ShareSystem } from './ShareSystem';
 import { AdvancedSettings } from './AdvancedSettings';
-
-// Interface para Window estendido
-interface ExtendedWindow extends Window {
-  webkitAudioContext?: typeof AudioContext;
-  playSpinSound?: () => void;
-}
-
-interface WheelItem {
-  id: string;
-  label: string;
-  color: string;
-  weight?: number;
-}
 
 interface WheelProps {
   items: WheelItem[];
   size?: number;
   onSpin?: (result: WheelItem) => void;
+  title?: string;
+  locale?: string;
 }
 
-export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
+export default function Wheel({ items, size = 500, onSpin, title, locale }: WheelProps) {
   const [isSpinning, setIsSpinning] = useState(false);
   const [rotation, setRotation] = useState(0);
   const [showConfetti, setShowConfetti] = useState(false);
@@ -32,75 +22,29 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
   const [spinCount, setSpinCount] = useState(0);
   const [showShareSystem, setShowShareSystem] = useState(false);
   const [showAdvancedSettings, setShowAdvancedSettings] = useState(false);
-  const [advancedSettings, setAdvancedSettings] = useState({
-    animation: {
-      duration: 4000,
-      easing: 'cubic-bezier(0.23, 1, 0.32, 1)',
-      minRotations: 4,
-      maxRotations: 6
-    },
-    sound: {
-      enabled: true,
-      volume: 0.5,
-      spinSound: true,
-      winSound: true
-    },
-    visual: {
-      showShadows: true,
-      showGradients: true,
-      showBorders: true,
-      showGlow: true
-    },
-    behavior: {
-      vibration: true,
-      autoStop: true,
-      preventDoubleClick: true
-    }
-  });
+  const [segmentSize, setSegmentSize] = useState(0);
   
   const wheelRef = useRef<HTMLDivElement>(null);
 
-  // Criar sons usando Web Audio API
+  // Recalcular segmentSize quando os itens mudam
   useEffect(() => {
-    // Som de giro usando Web Audio API
-    const createSpinSound = () => {
-      if (typeof window !== 'undefined' && 'AudioContext' in window) {
-        const extendedWindow = window as ExtendedWindow;
-        const AudioContextClass = window.AudioContext || extendedWindow.webkitAudioContext;
-        if (!AudioContextClass) return () => {};
-        
-        const audioContext = new AudioContextClass();
-        
-        const playSpinSound = () => {
-          if (!advancedSettings.sound.enabled || !advancedSettings.sound.spinSound) return;
-          
-          const oscillator = audioContext.createOscillator();
-          const gainNode = audioContext.createGain();
-          
-          oscillator.connect(gainNode);
-          gainNode.connect(audioContext.destination);
-          
-          oscillator.frequency.setValueAtTime(200, audioContext.currentTime);
-          oscillator.frequency.exponentialRampToValueAtTime(100, audioContext.currentTime + 0.5);
-          
-          gainNode.gain.setValueAtTime(0.1 * advancedSettings.sound.volume, audioContext.currentTime);
-          gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.5);
-          
-          oscillator.start(audioContext.currentTime);
-          oscillator.stop(audioContext.currentTime + 0.5);
-        };
-
-        return playSpinSound;
-      }
-      return () => {};
-    };
-
-    const spinSoundFunction = createSpinSound();
-    if (typeof window !== 'undefined') {
-      const extendedWindow = window as ExtendedWindow;
-      extendedWindow.playSpinSound = spinSoundFunction;
+    if (items.length > 0) {
+      setSegmentSize(360 / items.length);
     }
-  }, [advancedSettings.sound]);
+  }, [items.length]);
+
+  // Criar uma key única baseada nos IDs dos itens para forçar re-render
+  const itemsKey = items.map(item => item.id).join('-');
+
+  // Função para tocar som de giro
+  const playSpinSound = () => {
+    // Som desabilitado por enquanto para simplificar
+  };
+
+  // Função para tocar som de vitória
+  const playWinSound = () => {
+    // Som desabilitado por enquanto para simplificar
+  };
 
   const spin = () => {
     if (isSpinning || items.length === 0) return;
@@ -110,21 +54,16 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
     setSpinCount(prev => prev + 1);
     
     // Tocar som de giro
-    if (typeof window !== 'undefined') {
-      const extendedWindow = window as ExtendedWindow;
-      if (extendedWindow.playSpinSound) {
-        extendedWindow.playSpinSound();
-      }
-    }
+    playSpinSound();
 
     // Adicionar efeito de vibração no mobile
-    if (advancedSettings.behavior.vibration && 'vibrate' in navigator) {
+    if ('vibrate' in navigator) {
       navigator.vibrate([50, 30, 50]);
     }
     
-    // Rotação aleatória baseada nas configurações
-    const minRotations = advancedSettings.animation.minRotations * 360;
-    const maxRotations = advancedSettings.animation.maxRotations * 360;
+    // Rotação aleatória
+    const minRotations = 3 * 360;
+    const maxRotations = 6 * 360;
     const randomRotation = Math.floor(Math.random() * (maxRotations - minRotations)) + minRotations;
     const finalRotation = rotation + randomRotation;
     
@@ -142,45 +81,16 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
       setShowConfetti(true);
       
       // Som de vitória
-      if (advancedSettings.sound.enabled && advancedSettings.sound.winSound && typeof window !== 'undefined' && 'AudioContext' in window) {
-        const extendedWindow = window as ExtendedWindow;
-        const AudioContextClass = window.AudioContext || extendedWindow.webkitAudioContext;
-        if (!AudioContextClass) return;
-        
-        const audioContext = new AudioContextClass();
-        const playWinSound = () => {
-          // Sequência de notas para som de vitória
-          const notes = [261.63, 329.63, 392.00, 523.25]; // C4, E4, G4, C5
-          notes.forEach((freq, index) => {
-            setTimeout(() => {
-              const oscillator = audioContext.createOscillator();
-              const gainNode = audioContext.createGain();
-              
-              oscillator.connect(gainNode);
-              gainNode.connect(audioContext.destination);
-              
-              oscillator.frequency.setValueAtTime(freq, audioContext.currentTime);
-              gainNode.gain.setValueAtTime(0.1 * advancedSettings.sound.volume, audioContext.currentTime);
-              gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.3);
-              
-              oscillator.start(audioContext.currentTime);
-              oscillator.stop(audioContext.currentTime + 0.3);
-            }, index * 150);
-          });
-        };
-        playWinSound();
-      }
+      playWinSound();
 
       // Vibração de vitória
-      if (advancedSettings.behavior.vibration && 'vibrate' in navigator) {
+      if ('vibrate' in navigator) {
         navigator.vibrate([100, 50, 100, 50, 200]);
       }
       
       onSpin?.(result);
-    }, advancedSettings.animation.duration);
+    }, 3000);
   };
-
-  const segmentSize = 360 / items.length;
 
   return (
     <>
@@ -233,7 +143,7 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
 
         <div className="relative" style={{ width: size, height: size }}>
           {/* Anel externo decorativo */}
-          <div className={`absolute inset-0 rounded-full bg-gradient-to-br from-yellow-400 via-orange-500 to-red-500 p-2 ${advancedSettings.visual.showShadows ? 'shadow-2xl' : ''}`}>
+          <div className="absolute inset-0 rounded-full bg-gradient-to-br from-yellow-400 via-orange-500 to-red-500 p-2 shadow-2xl">
             <div className="w-full h-full rounded-full bg-gradient-to-br from-gray-800 to-gray-900 p-1">
               
               {/* Ponteiro Principal */}
@@ -244,18 +154,14 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
               {/* Roda Principal com efeitos avançados */}
               <div
                 ref={wheelRef}
-                className={`relative w-full h-full rounded-full ${advancedSettings.visual.showBorders ? 'border-4 border-gray-700' : ''} cursor-pointer overflow-hidden transition-all duration-300 ${
-                  isSpinning ? 'scale-105' : 'hover:scale-102'
-                }`}
+                className="relative w-full h-full rounded-full border-4 border-gray-700 cursor-pointer overflow-hidden transition-all duration-300 hover:scale-102"
                 style={{
-                  transform: `rotate(${rotation}deg) ${isSpinning ? 'scale(1.02)' : ''}`,
-                  transition: isSpinning ? `transform ${advancedSettings.animation.duration}ms ${advancedSettings.animation.easing}` : 'transform 0.3s ease',
-                  background: advancedSettings.visual.showGradients ? 'linear-gradient(145deg, #ffffff, #f8f9fa)' : '#ffffff',
-                  boxShadow: advancedSettings.visual.showShadows ? (
-                    isSpinning 
-                      ? (advancedSettings.visual.showGlow ? '0 0 50px rgba(59, 130, 246, 0.5), inset 0 0 30px rgba(255, 255, 255, 0.1)' : '0 20px 40px rgba(0,0,0,0.3)')
-                      : '0 20px 40px rgba(0,0,0,0.3), inset 0 2px 10px rgba(255, 255, 255, 0.1)'
-                  ) : 'none',
+                  transform: `rotate(${rotation}deg)`,
+                  transition: isSpinning ? 'transform 3000ms cubic-bezier(0.25, 0.46, 0.45, 0.94)' : 'transform 0.3s ease',
+                  background: 'linear-gradient(145deg, #ffffff, #f8f9fa)',
+                  boxShadow: isSpinning 
+                    ? '0 0 50px rgba(59, 130, 246, 0.5), inset 0 0 30px rgba(255, 255, 255, 0.1)'
+                    : '0 20px 40px rgba(0,0,0,0.3), inset 0 2px 10px rgba(255, 255, 255, 0.1)',
                 }}
                 onClick={spin}
               >
@@ -270,9 +176,7 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
                       className="absolute w-full h-full"
                       style={{
                         clipPath: `polygon(50% 50%, ${50 + 50 * Math.cos((angle - 90) * Math.PI / 180)}% ${50 + 50 * Math.sin((angle - 90) * Math.PI / 180)}%, ${50 + 50 * Math.cos((nextAngle - 90) * Math.PI / 180)}% ${50 + 50 * Math.sin((nextAngle - 90) * Math.PI / 180)}%)`,
-                        background: advancedSettings.visual.showGradients 
-                          ? `linear-gradient(135deg, ${item.color}, ${item.color}dd, ${item.color}bb)`
-                          : item.color,
+                        background: `linear-gradient(135deg, ${item.color}, ${item.color}dd, ${item.color}bb)`,
                       }}
                     >
                       {/* Texto do segmento */}
@@ -316,8 +220,19 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
                 })}
 
                 {/* Centro da roda */}
-                <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-16 h-16 bg-gradient-to-br from-gray-700 to-gray-900 rounded-full border-4 border-white shadow-lg flex items-center justify-center">
-                  <div className="w-8 h-8 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full shadow-inner"></div>
+                <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-20 h-20 bg-gradient-to-br from-gray-800 to-black rounded-full border-4 border-white shadow-2xl flex items-center justify-center z-30 cursor-pointer hover:scale-105 transition-transform duration-200"
+                     onClick={spin}
+                     style={{
+                       boxShadow: '0 8px 25px rgba(0,0,0,0.4), inset 0 2px 10px rgba(255,255,255,0.1)'
+                     }}>
+                  <div className="text-white font-black text-lg tracking-wider select-none"
+                       style={{
+                         textShadow: '2px 2px 4px rgba(0,0,0,0.8), 0 0 8px rgba(255,255,255,0.3)',
+                         fontSize: '16px',
+                         letterSpacing: '2px'
+                       }}>
+                    SPIN
+                  </div>
                 </div>
               </div>
             </div>
@@ -372,9 +287,24 @@ export default function Wheel({ items, size = 500, onSpin }: WheelProps) {
 
       {showAdvancedSettings && (
         <AdvancedSettings
-          currentSettings={advancedSettings}
-          onSave={(settings) => setAdvancedSettings(settings)}
+          isOpen={showAdvancedSettings}
           onClose={() => setShowAdvancedSettings(false)}
+          settings={{
+            spinDuration: 3,
+            spinEasing: 'ease-out',
+            autoSpin: false,
+            showConfetti: true,
+            soundEnabled: true,
+            vibrationEnabled: true,
+            showWinner: true,
+            winnerDisplayTime: 3,
+            allowRepeats: true,
+            highlightWinner: true
+          }}
+          onSettingsChange={(settings) => {
+            // Aqui você pode implementar a lógica para salvar as configurações
+            console.log('Configurações alteradas:', settings);
+          }}
         />
       )}
     </>

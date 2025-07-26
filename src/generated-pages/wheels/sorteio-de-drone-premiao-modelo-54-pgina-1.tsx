@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "drone"
   ],
-  "usageCount": 6288,
+  "usageCount": 5784,
   "isPopular": true,
   "createdAt": "2025-07-02",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-drone-premiao-modelo-54-pgina-1",
   "seoTitle": "Sorteio de Drone Premiação - Modelo 54 | Página 1 - Roleta Online Grátis",

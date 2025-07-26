@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "filosofia"
   ],
-  "usageCount": 111,
+  "usageCount": 6151,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-filosofia-agora-modelo-358-pgina-4",
   "seoTitle": "Aprender Filosofia Agora - Modelo 358 | Página 4 - Roleta Online Grátis",

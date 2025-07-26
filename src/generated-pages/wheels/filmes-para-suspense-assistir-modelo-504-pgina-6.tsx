@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "suspense"
   ],
-  "usageCount": 8767,
+  "usageCount": 5026,
   "isPopular": false,
-  "createdAt": "2025-07-02",
+  "createdAt": "2025-07-10",
   "seo": {
     "title": "Filmes para Suspense Assistir - Modelo 504 | Página 6",
     "description": "Descubra o melhor template para Suspense com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-suspense-assistir-modelo-504-pgina-6",
   "seoTitle": "Filmes para Suspense Assistir - Modelo 504 | Página 6 - Roleta Online Grátis",

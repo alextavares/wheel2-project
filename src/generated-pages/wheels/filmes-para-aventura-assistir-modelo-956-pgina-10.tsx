@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "aventura"
   ],
-  "usageCount": 2634,
+  "usageCount": 4439,
   "isPopular": false,
-  "createdAt": "2025-07-17",
+  "createdAt": "2025-06-26",
   "seo": {
     "title": "Filmes para Aventura Assistir - Modelo 956 | Página 10",
     "description": "Descubra o melhor template para Aventura com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-aventura-assistir-modelo-956-pgina-10",
   "seoTitle": "Filmes para Aventura Assistir - Modelo 956 | Página 10 - Roleta Online Grátis",

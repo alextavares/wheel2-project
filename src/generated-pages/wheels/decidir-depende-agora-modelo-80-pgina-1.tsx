@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "depende"
   ],
-  "usageCount": 8911,
+  "usageCount": 419,
   "isPopular": true,
   "createdAt": "2025-07-09",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-depende-agora-modelo-80-pgina-1",
   "seoTitle": "Decidir Depende Agora - Modelo 80 | Página 1 - Roleta Online Grátis",

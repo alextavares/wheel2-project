@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "mpb"
   ],
-  "usageCount": 5043,
+  "usageCount": 5122,
   "isPopular": false,
-  "createdAt": "2025-06-29",
+  "createdAt": "2025-07-19",
   "seo": {
     "title": "Músicas para MPB Ouvir - Modelo 951 | Página 10",
     "description": "Descubra o melhor template para MPB com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-mpb-ouvir-modelo-951-pgina-10",
   "seoTitle": "Músicas para MPB Ouvir - Modelo 951 | Página 10 - Roleta Online Grátis",

@@ -1,11 +1,11 @@
 import { Metadata } from 'next';
-import { Locale, useTranslations } from '@/lib/i18n';
+import { Locale } from '@/lib/i18n';
 import HomePage from '@/components/HomePage';
 
 interface Props {
-  params: {
+  params: Promise<{
     locale: Locale;
-  };
+  }>;
 }
 
 // Gerar parâmetros estáticos para as páginas
@@ -16,7 +16,7 @@ export async function generateStaticParams() {
 
 // Gerar metadados
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { locale } = params;
+  const { locale } = await params;
   
   const titles = {
     pt: 'Roleta Online Grátis | Ferramenta de Sorteio e Decisão',
@@ -44,8 +44,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 // Componente da página
-export default function InternationalHomePage({ params }: Props) {
-  const { locale } = params;
+export default async function InternationalHomePage({ params }: Props) {
+  const { locale } = await params;
   
   return <HomePage locale={locale} />;
 }

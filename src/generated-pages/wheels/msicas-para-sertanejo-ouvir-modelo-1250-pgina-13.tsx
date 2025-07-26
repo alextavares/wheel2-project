@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "sertanejo"
   ],
-  "usageCount": 9985,
+  "usageCount": 9263,
   "isPopular": false,
-  "createdAt": "2025-06-23",
+  "createdAt": "2025-07-01",
   "seo": {
     "title": "Músicas para Sertanejo Ouvir - Modelo 1250 | Página 13",
     "description": "Descubra o melhor template para Sertanejo com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-sertanejo-ouvir-modelo-1250-pgina-13",
   "seoTitle": "Músicas para Sertanejo Ouvir - Modelo 1250 | Página 13 - Roleta Online Grátis",

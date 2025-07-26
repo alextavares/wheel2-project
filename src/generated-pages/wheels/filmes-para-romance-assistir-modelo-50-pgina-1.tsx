@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "romance"
   ],
-  "usageCount": 324,
+  "usageCount": 4191,
   "isPopular": true,
   "createdAt": "2025-07-01",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-romance-assistir-modelo-50-pgina-1",
   "seoTitle": "Filmes para Romance Assistir - Modelo 50 | Página 1 - Roleta Online Grátis",

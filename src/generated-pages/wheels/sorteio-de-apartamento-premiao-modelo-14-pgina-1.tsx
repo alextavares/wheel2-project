@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "apartamento"
   ],
-  "usageCount": 7715,
+  "usageCount": 68,
   "isPopular": true,
-  "createdAt": "2025-07-06",
+  "createdAt": "2025-06-27",
   "seo": {
     "title": "Sorteio de Apartamento Premiação - Modelo 14 | Página 1",
     "description": "Descubra o melhor template para Apartamento com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-apartamento-premiao-modelo-14-pgina-1",
   "seoTitle": "Sorteio de Apartamento Premiação - Modelo 14 | Página 1 - Roleta Online Grátis",

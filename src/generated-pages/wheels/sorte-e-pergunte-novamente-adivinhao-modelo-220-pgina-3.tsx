@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "pergunte novamente"
   ],
-  "usageCount": 4188,
+  "usageCount": 2286,
   "isPopular": false,
-  "createdAt": "2025-06-27",
+  "createdAt": "2025-07-23",
   "seo": {
     "title": "Sorte e Pergunte novamente Adivinhação - Modelo 220 | Página 3",
     "description": "Descubra o melhor template para Pergunte novamente com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-pergunte-novamente-adivinhao-modelo-220-pgina-3",
   "seoTitle": "Sorte e Pergunte novamente Adivinhação - Modelo 220 | Página 3 - Roleta Online Grátis",

@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida vegana"
   ],
-  "usageCount": 841,
+  "usageCount": 9644,
   "isPopular": false,
   "createdAt": "2025-07-20",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-vegana-hoje-modelo-464-pgina-5",
   "seoTitle": "Melhor Comida Vegana Hoje - Modelo 464 | Página 5 - Roleta Online Grátis",

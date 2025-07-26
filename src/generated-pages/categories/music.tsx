@@ -87,9 +87,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "pop"
     ],
-    "usageCount": 4275,
+    "usageCount": 722,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Músicas para Pop Ouvir - Modelo 1 | Página 1",
       "description": "Descubra o melhor template para Pop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -115,7 +115,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -182,9 +182,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "rock"
     ],
-    "usageCount": 8774,
+    "usageCount": 8627,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Músicas para Rock Ouvir - Modelo 2 | Página 1",
       "description": "Descubra o melhor template para Rock com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -210,7 +210,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -277,9 +277,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "hip hop"
     ],
-    "usageCount": 5721,
+    "usageCount": 5927,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Músicas para Hip Hop Ouvir - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para Hip Hop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -305,7 +305,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -372,9 +372,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "eletrônica"
     ],
-    "usageCount": 1481,
+    "usageCount": 8517,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Músicas para Eletrônica Ouvir - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Eletrônica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -400,7 +400,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -467,9 +467,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "sertanejo"
     ],
-    "usageCount": 6843,
+    "usageCount": 5675,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Músicas para Sertanejo Ouvir - Modelo 5 | Página 1",
       "description": "Descubra o melhor template para Sertanejo com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -495,7 +495,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -562,9 +562,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "mpb"
     ],
-    "usageCount": 4340,
+    "usageCount": 4385,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-15",
     "seo": {
       "title": "Músicas para MPB Ouvir - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para MPB com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -590,7 +590,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -657,9 +657,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "funk"
     ],
-    "usageCount": 6062,
+    "usageCount": 2904,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Músicas para Funk Ouvir - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Funk com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -685,7 +685,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -752,9 +752,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "jazz"
     ],
-    "usageCount": 1306,
+    "usageCount": 9640,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Músicas para Jazz Ouvir - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Jazz com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -780,7 +780,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -847,9 +847,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "clássica"
     ],
-    "usageCount": 4630,
+    "usageCount": 3990,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Músicas para Clássica Ouvir - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Clássica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -875,7 +875,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -942,9 +942,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "reggae"
     ],
-    "usageCount": 2346,
+    "usageCount": 347,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Músicas para Reggae Ouvir - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Reggae com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -970,7 +970,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1037,9 +1037,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "forró"
     ],
-    "usageCount": 1621,
+    "usageCount": 7412,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Músicas para Forró Ouvir - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Forró com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1065,7 +1065,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1132,9 +1132,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "axé"
     ],
-    "usageCount": 6162,
+    "usageCount": 6387,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Músicas para Axé Ouvir - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Axé com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1160,7 +1160,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1227,9 +1227,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "pagode"
     ],
-    "usageCount": 5648,
+    "usageCount": 8130,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Músicas para Pagode Ouvir - Modelo 13 | Página 1",
       "description": "Descubra o melhor template para Pagode com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1255,7 +1255,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1322,9 +1322,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "samba"
     ],
-    "usageCount": 8610,
+    "usageCount": 5150,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Músicas para Samba Ouvir - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Samba com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1350,7 +1350,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1417,9 +1417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "blues"
     ],
-    "usageCount": 6709,
+    "usageCount": 9961,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Músicas para Blues Ouvir - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Blues com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1445,7 +1445,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1512,9 +1512,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "pop"
     ],
-    "usageCount": 5012,
+    "usageCount": 3337,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Músicas para Pop Ouvir - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para Pop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1540,7 +1540,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1607,9 +1607,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "rock"
     ],
-    "usageCount": 5035,
+    "usageCount": 7982,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Músicas para Rock Ouvir - Modelo 17 | Página 1",
       "description": "Descubra o melhor template para Rock com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1635,7 +1635,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1702,9 +1702,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "hip hop"
     ],
-    "usageCount": 7986,
+    "usageCount": 5148,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Músicas para Hip Hop Ouvir - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para Hip Hop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1730,7 +1730,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1797,9 +1797,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "eletrônica"
     ],
-    "usageCount": 4609,
+    "usageCount": 5807,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Músicas para Eletrônica Ouvir - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Eletrônica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1825,7 +1825,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1892,9 +1892,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "sertanejo"
     ],
-    "usageCount": 1656,
+    "usageCount": 2869,
     "isPopular": true,
-    "createdAt": "2025-07-01",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Músicas para Sertanejo Ouvir - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para Sertanejo com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -1920,7 +1920,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1987,9 +1987,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "mpb"
     ],
-    "usageCount": 4228,
+    "usageCount": 3442,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Músicas para MPB Ouvir - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para MPB com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2015,7 +2015,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2082,9 +2082,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "funk"
     ],
-    "usageCount": 3173,
+    "usageCount": 3972,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Músicas para Funk Ouvir - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Funk com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2110,7 +2110,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2177,9 +2177,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "jazz"
     ],
-    "usageCount": 2612,
+    "usageCount": 42,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Músicas para Jazz Ouvir - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Jazz com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2205,7 +2205,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2272,9 +2272,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "clássica"
     ],
-    "usageCount": 6666,
+    "usageCount": 3702,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Músicas para Clássica Ouvir - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Clássica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2300,7 +2300,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2367,9 +2367,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "reggae"
     ],
-    "usageCount": 9557,
+    "usageCount": 7818,
     "isPopular": true,
-    "createdAt": "2025-07-18",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Músicas para Reggae Ouvir - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Reggae com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2395,7 +2395,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2462,9 +2462,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "forró"
     ],
-    "usageCount": 7721,
+    "usageCount": 9573,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Músicas para Forró Ouvir - Modelo 26 | Página 1",
       "description": "Descubra o melhor template para Forró com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2490,7 +2490,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2557,9 +2557,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "axé"
     ],
-    "usageCount": 2988,
+    "usageCount": 7486,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Músicas para Axé Ouvir - Modelo 27 | Página 1",
       "description": "Descubra o melhor template para Axé com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2585,7 +2585,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2652,9 +2652,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "pagode"
     ],
-    "usageCount": 2149,
+    "usageCount": 3314,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Músicas para Pagode Ouvir - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Pagode com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2680,7 +2680,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2747,9 +2747,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "samba"
     ],
-    "usageCount": 9503,
+    "usageCount": 4931,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Músicas para Samba Ouvir - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Samba com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2775,7 +2775,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2842,9 +2842,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "blues"
     ],
-    "usageCount": 651,
+    "usageCount": 4492,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Músicas para Blues Ouvir - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Blues com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2870,7 +2870,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2937,9 +2937,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "pop"
     ],
-    "usageCount": 5980,
+    "usageCount": 3101,
     "isPopular": true,
-    "createdAt": "2025-07-14",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Músicas para Pop Ouvir - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para Pop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -2965,7 +2965,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3032,9 +3032,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "rock"
     ],
-    "usageCount": 1483,
+    "usageCount": 8406,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Músicas para Rock Ouvir - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para Rock com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3060,7 +3060,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3127,9 +3127,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "hip hop"
     ],
-    "usageCount": 1949,
+    "usageCount": 2866,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Músicas para Hip Hop Ouvir - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para Hip Hop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3155,7 +3155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3222,9 +3222,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "eletrônica"
     ],
-    "usageCount": 1148,
+    "usageCount": 1046,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Músicas para Eletrônica Ouvir - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Eletrônica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3250,7 +3250,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3317,9 +3317,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "sertanejo"
     ],
-    "usageCount": 1815,
+    "usageCount": 6175,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Músicas para Sertanejo Ouvir - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para Sertanejo com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3345,7 +3345,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3412,9 +3412,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "mpb"
     ],
-    "usageCount": 3252,
+    "usageCount": 5296,
     "isPopular": true,
-    "createdAt": "2025-06-24",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Músicas para MPB Ouvir - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para MPB com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3440,7 +3440,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3507,9 +3507,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "funk"
     ],
-    "usageCount": 9236,
+    "usageCount": 7990,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Músicas para Funk Ouvir - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Funk com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3535,7 +3535,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3602,7 +3602,7 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "jazz"
     ],
-    "usageCount": 1152,
+    "usageCount": 6789,
     "isPopular": true,
     "createdAt": "2025-07-06",
     "seo": {
@@ -3630,7 +3630,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3697,9 +3697,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "clássica"
     ],
-    "usageCount": 7602,
+    "usageCount": 1042,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Músicas para Clássica Ouvir - Modelo 39 | Página 1",
       "description": "Descubra o melhor template para Clássica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3725,7 +3725,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3792,9 +3792,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "reggae"
     ],
-    "usageCount": 1836,
+    "usageCount": 1380,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Músicas para Reggae Ouvir - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Reggae com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3820,7 +3820,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3887,9 +3887,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "forró"
     ],
-    "usageCount": 9317,
+    "usageCount": 9365,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Músicas para Forró Ouvir - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Forró com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -3915,7 +3915,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3982,9 +3982,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "axé"
     ],
-    "usageCount": 921,
+    "usageCount": 3803,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Músicas para Axé Ouvir - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Axé com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4010,7 +4010,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4077,9 +4077,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "pagode"
     ],
-    "usageCount": 8015,
+    "usageCount": 7852,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Músicas para Pagode Ouvir - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Pagode com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4105,7 +4105,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4172,9 +4172,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "samba"
     ],
-    "usageCount": 5333,
+    "usageCount": 5460,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-06-25",
     "seo": {
       "title": "Músicas para Samba Ouvir - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Samba com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4200,7 +4200,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4267,9 +4267,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "blues"
     ],
-    "usageCount": 6405,
+    "usageCount": 1352,
     "isPopular": true,
-    "createdAt": "2025-07-17",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Músicas para Blues Ouvir - Modelo 45 | Página 1",
       "description": "Descubra o melhor template para Blues com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4295,7 +4295,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4362,9 +4362,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "pop"
     ],
-    "usageCount": 5849,
+    "usageCount": 4970,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Músicas para Pop Ouvir - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para Pop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4390,7 +4390,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4457,9 +4457,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "rock"
     ],
-    "usageCount": 8475,
+    "usageCount": 7106,
     "isPopular": true,
-    "createdAt": "2025-06-25",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Músicas para Rock Ouvir - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para Rock com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4485,7 +4485,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4552,9 +4552,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "hip hop"
     ],
-    "usageCount": 2335,
+    "usageCount": 5030,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Músicas para Hip Hop Ouvir - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para Hip Hop com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4647,9 +4647,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "eletrônica"
     ],
-    "usageCount": 5463,
+    "usageCount": 6322,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Músicas para Eletrônica Ouvir - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Eletrônica com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4675,7 +4675,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4742,9 +4742,9 @@ const categoryTemplates: WheelTemplate[] = [
       "concertos",
       "sertanejo"
     ],
-    "usageCount": 4010,
+    "usageCount": 5599,
     "isPopular": true,
-    "createdAt": "2025-07-05",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Músicas para Sertanejo Ouvir - Modelo 50 | Página 1",
       "description": "Descubra o melhor template para Sertanejo com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -4770,7 +4770,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

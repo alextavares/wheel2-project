@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "bicicleta"
   ],
-  "usageCount": 4195,
+  "usageCount": 6906,
   "isPopular": false,
-  "createdAt": "2025-07-10",
+  "createdAt": "2025-07-03",
   "seo": {
     "title": "Sorteio de Bicicleta Premiação - Modelo 161 | Página 2",
     "description": "Descubra o melhor template para Bicicleta com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-bicicleta-premiao-modelo-161-pgina-2",
   "seoTitle": "Sorteio de Bicicleta Premiação - Modelo 161 | Página 2 - Roleta Online Grátis",

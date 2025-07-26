@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "musical"
   ],
-  "usageCount": 332,
+  "usageCount": 2967,
   "isPopular": false,
-  "createdAt": "2025-07-16",
+  "createdAt": "2025-06-27",
   "seo": {
     "title": "Filmes para Musical Assistir - Modelo 103 | Página 2",
     "description": "Descubra o melhor template para Musical com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-musical-assistir-modelo-103-pgina-2",
   "seoTitle": "Filmes para Musical Assistir - Modelo 103 | Página 2 - Roleta Online Grátis",

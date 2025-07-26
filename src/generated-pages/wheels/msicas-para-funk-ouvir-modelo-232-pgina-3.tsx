@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "funk"
   ],
-  "usageCount": 657,
+  "usageCount": 5032,
   "isPopular": false,
-  "createdAt": "2025-07-23",
+  "createdAt": "2025-06-26",
   "seo": {
     "title": "Músicas para Funk Ouvir - Modelo 232 | Página 3",
     "description": "Descubra o melhor template para Funk com nosso gerador de rodas interativo. Ideal para música e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-funk-ouvir-modelo-232-pgina-3",
   "seoTitle": "Músicas para Funk Ouvir - Modelo 232 | Página 3 - Roleta Online Grátis",

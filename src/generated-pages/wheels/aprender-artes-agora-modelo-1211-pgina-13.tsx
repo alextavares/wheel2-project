@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "artes"
   ],
-  "usageCount": 5758,
+  "usageCount": 2423,
   "isPopular": false,
-  "createdAt": "2025-07-19",
+  "createdAt": "2025-07-15",
   "seo": {
     "title": "Aprender Artes Agora - Modelo 1211 | Página 13",
     "description": "Descubra o melhor template para Artes com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-artes-agora-modelo-1211-pgina-13",
   "seoTitle": "Aprender Artes Agora - Modelo 1211 | Página 13 - Roleta Online Grátis",

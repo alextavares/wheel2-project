@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "concertos",
     "funk"
   ],
-  "usageCount": 8438,
+  "usageCount": 3346,
   "isPopular": false,
   "createdAt": "2025-07-12",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "msicas-para-funk-ouvir-modelo-262-pgina-3",
   "seoTitle": "Músicas para Funk Ouvir - Modelo 262 | Página 3 - Roleta Online Grátis",

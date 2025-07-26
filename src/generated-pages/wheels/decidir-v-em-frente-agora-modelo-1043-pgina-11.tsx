@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "vá em frente"
   ],
-  "usageCount": 2075,
+  "usageCount": 5878,
   "isPopular": false,
-  "createdAt": "2025-06-30",
+  "createdAt": "2025-07-13",
   "seo": {
     "title": "Decidir Vá em Frente Agora - Modelo 1043 | Página 11",
     "description": "Descubra o melhor template para Vá em Frente com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-v-em-frente-agora-modelo-1043-pgina-11",
   "seoTitle": "Decidir Vá em Frente Agora - Modelo 1043 | Página 11 - Roleta Online Grátis",

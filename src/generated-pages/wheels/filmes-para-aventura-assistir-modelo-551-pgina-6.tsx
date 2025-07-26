@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "aventura"
   ],
-  "usageCount": 3749,
+  "usageCount": 2940,
   "isPopular": false,
   "createdAt": "2025-07-17",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-aventura-assistir-modelo-551-pgina-6",
   "seoTitle": "Filmes para Aventura Assistir - Modelo 551 | Página 6 - Roleta Online Grátis",

@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "drama"
   ],
-  "usageCount": 4778,
+  "usageCount": 2382,
   "isPopular": true,
-  "createdAt": "2025-07-03",
+  "createdAt": "2025-07-14",
   "seo": {
     "title": "Filmes para Drama Assistir - Modelo 48 | Página 1",
     "description": "Descubra o melhor template para Drama com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-drama-assistir-modelo-48-pgina-1",
   "seoTitle": "Filmes para Drama Assistir - Modelo 48 | Página 1 - Roleta Online Grátis",

@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida vegetariana"
   ],
-  "usageCount": 6884,
+  "usageCount": 1799,
   "isPopular": false,
   "createdAt": "2025-07-19",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-vegetariana-hoje-modelo-1063-pgina-11",
   "seoTitle": "Melhor Comida Vegetariana Hoje - Modelo 1063 | Página 11 - Roleta Online Grátis",

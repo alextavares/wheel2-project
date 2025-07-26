@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "aventura"
   ],
-  "usageCount": 5571,
+  "usageCount": 4779,
   "isPopular": false,
   "createdAt": "2025-07-02",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-aventura-assistir-modelo-326-pgina-4",
   "seoTitle": "Filmes para Aventura Assistir - Modelo 326 | Página 4 - Roleta Online Grátis",

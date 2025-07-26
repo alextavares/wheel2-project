@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "hamburgueria"
   ],
-  "usageCount": 7520,
+  "usageCount": 182,
   "isPopular": false,
-  "createdAt": "2025-06-24",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Melhor Hamburgueria Hoje - Modelo 1372 | Página 14",
     "description": "Descubra o melhor template para Hamburgueria com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-hamburgueria-hoje-modelo-1372-pgina-14",
   "seoTitle": "Melhor Hamburgueria Hoje - Modelo 1372 | Página 14 - Roleta Online Grátis",

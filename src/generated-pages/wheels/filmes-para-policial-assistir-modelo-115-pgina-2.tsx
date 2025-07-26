@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "policial"
   ],
-  "usageCount": 9763,
+  "usageCount": 8888,
   "isPopular": false,
   "createdAt": "2025-07-02",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-policial-assistir-modelo-115-pgina-2",
   "seoTitle": "Filmes para Policial Assistir - Modelo 115 | Página 2 - Roleta Online Grátis",

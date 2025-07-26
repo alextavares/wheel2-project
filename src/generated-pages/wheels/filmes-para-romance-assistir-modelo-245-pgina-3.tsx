@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "romance"
   ],
-  "usageCount": 9843,
+  "usageCount": 497,
   "isPopular": false,
   "createdAt": "2025-06-30",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-romance-assistir-modelo-245-pgina-3",
   "seoTitle": "Filmes para Romance Assistir - Modelo 245 | Página 3 - Roleta Online Grátis",

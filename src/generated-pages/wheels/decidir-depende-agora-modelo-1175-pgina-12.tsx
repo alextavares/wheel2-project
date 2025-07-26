@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "depende"
   ],
-  "usageCount": 451,
+  "usageCount": 6617,
   "isPopular": false,
   "createdAt": "2025-06-27",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-depende-agora-modelo-1175-pgina-12",
   "seoTitle": "Decidir Depende Agora - Modelo 1175 | Página 12 - Roleta Online Grátis",

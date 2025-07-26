@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "dinheiro"
   ],
-  "usageCount": 258,
+  "usageCount": 4260,
   "isPopular": false,
   "createdAt": "2025-07-10",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-dinheiro-premiao-modelo-255-pgina-3",
   "seoTitle": "Sorteio de Dinheiro Premiação - Modelo 255 | Página 3 - Roleta Online Grátis",

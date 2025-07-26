@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "notebook"
   ],
-  "usageCount": 3507,
+  "usageCount": 9629,
   "isPopular": true,
-  "createdAt": "2025-07-11",
+  "createdAt": "2025-07-03",
   "seo": {
     "title": "Sorteio de Notebook Premiação - Modelo 49 | Página 1",
     "description": "Descubra o melhor template para Notebook com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-notebook-premiao-modelo-49-pgina-1",
   "seoTitle": "Sorteio de Notebook Premiação - Modelo 49 | Página 1 - Roleta Online Grátis",

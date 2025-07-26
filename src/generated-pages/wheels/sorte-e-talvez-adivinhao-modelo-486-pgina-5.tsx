@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "talvez"
   ],
-  "usageCount": 4184,
+  "usageCount": 6597,
   "isPopular": false,
-  "createdAt": "2025-07-19",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Sorte e Talvez Adivinhação - Modelo 486 | Página 5",
     "description": "Descubra o melhor template para Talvez com nosso gerador de rodas interativo. Ideal para sorte e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-talvez-adivinhao-modelo-486-pgina-5",
   "seoTitle": "Sorte e Talvez Adivinhação - Modelo 486 | Página 5 - Roleta Online Grátis",

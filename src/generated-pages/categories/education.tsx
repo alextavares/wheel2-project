@@ -87,9 +87,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "matemática"
     ],
-    "usageCount": 5843,
+    "usageCount": 7932,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Aprender Matemática Agora - Modelo 1 | Página 1",
       "description": "Descubra o melhor template para Matemática com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -115,7 +115,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -182,9 +182,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "português"
     ],
-    "usageCount": 7620,
+    "usageCount": 9103,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Aprender Português Agora - Modelo 2 | Página 1",
       "description": "Descubra o melhor template para Português com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -210,7 +210,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -277,9 +277,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "história"
     ],
-    "usageCount": 5506,
+    "usageCount": 7889,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Aprender História Agora - Modelo 3 | Página 1",
       "description": "Descubra o melhor template para História com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -305,7 +305,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -372,9 +372,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "geografia"
     ],
-    "usageCount": 8274,
+    "usageCount": 7858,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Aprender Geografia Agora - Modelo 4 | Página 1",
       "description": "Descubra o melhor template para Geografia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -400,7 +400,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -467,9 +467,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "ciências"
     ],
-    "usageCount": 1857,
+    "usageCount": 6595,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-03",
     "seo": {
       "title": "Aprender Ciências Agora - Modelo 5 | Página 1",
       "description": "Descubra o melhor template para Ciências com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -495,7 +495,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -562,9 +562,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "física"
     ],
-    "usageCount": 8186,
+    "usageCount": 9862,
     "isPopular": true,
-    "createdAt": "2025-07-04",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Aprender Física Agora - Modelo 6 | Página 1",
       "description": "Descubra o melhor template para Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -590,7 +590,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -657,9 +657,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "química"
     ],
-    "usageCount": 6915,
+    "usageCount": 2299,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-02",
     "seo": {
       "title": "Aprender Química Agora - Modelo 7 | Página 1",
       "description": "Descubra o melhor template para Química com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -685,7 +685,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -752,9 +752,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "biologia"
     ],
-    "usageCount": 8784,
+    "usageCount": 7444,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Aprender Biologia Agora - Modelo 8 | Página 1",
       "description": "Descubra o melhor template para Biologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -780,7 +780,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -847,9 +847,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "inglês"
     ],
-    "usageCount": 9106,
+    "usageCount": 34,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Aprender Inglês Agora - Modelo 9 | Página 1",
       "description": "Descubra o melhor template para Inglês com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -875,7 +875,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -942,9 +942,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "espanhol"
     ],
-    "usageCount": 7586,
+    "usageCount": 8749,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Aprender Espanhol Agora - Modelo 10 | Página 1",
       "description": "Descubra o melhor template para Espanhol com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -970,7 +970,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1037,9 +1037,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "artes"
     ],
-    "usageCount": 6486,
+    "usageCount": 1372,
     "isPopular": true,
-    "createdAt": "2025-07-10",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Aprender Artes Agora - Modelo 11 | Página 1",
       "description": "Descubra o melhor template para Artes com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1065,7 +1065,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1132,9 +1132,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "educação física"
     ],
-    "usageCount": 933,
+    "usageCount": 6544,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Aprender Educação Física Agora - Modelo 12 | Página 1",
       "description": "Descubra o melhor template para Educação Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1160,7 +1160,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1227,9 +1227,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "filosofia"
     ],
-    "usageCount": 6484,
+    "usageCount": 1652,
     "isPopular": true,
-    "createdAt": "2025-07-19",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Aprender Filosofia Agora - Modelo 13 | Página 1",
       "description": "Descubra o melhor template para Filosofia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1255,7 +1255,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1322,9 +1322,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "sociologia"
     ],
-    "usageCount": 5590,
+    "usageCount": 4117,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Aprender Sociologia Agora - Modelo 14 | Página 1",
       "description": "Descubra o melhor template para Sociologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1350,7 +1350,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1417,9 +1417,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "literatura"
     ],
-    "usageCount": 9716,
+    "usageCount": 3648,
     "isPopular": true,
-    "createdAt": "2025-07-21",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Aprender Literatura Agora - Modelo 15 | Página 1",
       "description": "Descubra o melhor template para Literatura com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1445,7 +1445,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1512,9 +1512,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "matemática"
     ],
-    "usageCount": 3963,
+    "usageCount": 394,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Aprender Matemática Agora - Modelo 16 | Página 1",
       "description": "Descubra o melhor template para Matemática com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1540,7 +1540,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1607,9 +1607,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "português"
     ],
-    "usageCount": 2122,
+    "usageCount": 1617,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-06-28",
     "seo": {
       "title": "Aprender Português Agora - Modelo 17 | Página 1",
       "description": "Descubra o melhor template para Português com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1635,7 +1635,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1702,9 +1702,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "história"
     ],
-    "usageCount": 9571,
+    "usageCount": 1515,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Aprender História Agora - Modelo 18 | Página 1",
       "description": "Descubra o melhor template para História com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1730,7 +1730,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1797,9 +1797,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "geografia"
     ],
-    "usageCount": 8367,
+    "usageCount": 8701,
     "isPopular": true,
-    "createdAt": "2025-06-30",
+    "createdAt": "2025-07-05",
     "seo": {
       "title": "Aprender Geografia Agora - Modelo 19 | Página 1",
       "description": "Descubra o melhor template para Geografia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1825,7 +1825,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1892,9 +1892,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "ciências"
     ],
-    "usageCount": 7901,
+    "usageCount": 8381,
     "isPopular": true,
-    "createdAt": "2025-07-11",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Aprender Ciências Agora - Modelo 20 | Página 1",
       "description": "Descubra o melhor template para Ciências com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -1920,7 +1920,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -1987,9 +1987,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "física"
     ],
-    "usageCount": 7407,
+    "usageCount": 5073,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-07-16",
     "seo": {
       "title": "Aprender Física Agora - Modelo 21 | Página 1",
       "description": "Descubra o melhor template para Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2015,7 +2015,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2082,9 +2082,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "química"
     ],
-    "usageCount": 7814,
+    "usageCount": 6944,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Aprender Química Agora - Modelo 22 | Página 1",
       "description": "Descubra o melhor template para Química com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2110,7 +2110,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2177,9 +2177,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "biologia"
     ],
-    "usageCount": 4019,
+    "usageCount": 6127,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Aprender Biologia Agora - Modelo 23 | Página 1",
       "description": "Descubra o melhor template para Biologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2205,7 +2205,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2272,9 +2272,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "inglês"
     ],
-    "usageCount": 1501,
+    "usageCount": 6527,
     "isPopular": true,
-    "createdAt": "2025-06-27",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Aprender Inglês Agora - Modelo 24 | Página 1",
       "description": "Descubra o melhor template para Inglês com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2300,7 +2300,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2367,9 +2367,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "espanhol"
     ],
-    "usageCount": 5485,
+    "usageCount": 6087,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-11",
     "seo": {
       "title": "Aprender Espanhol Agora - Modelo 25 | Página 1",
       "description": "Descubra o melhor template para Espanhol com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2395,7 +2395,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2462,9 +2462,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "artes"
     ],
-    "usageCount": 2886,
+    "usageCount": 7937,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-22",
     "seo": {
       "title": "Aprender Artes Agora - Modelo 26 | Página 1",
       "description": "Descubra o melhor template para Artes com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2490,7 +2490,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2557,9 +2557,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "educação física"
     ],
-    "usageCount": 9126,
+    "usageCount": 3815,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-30",
     "seo": {
       "title": "Aprender Educação Física Agora - Modelo 27 | Página 1",
       "description": "Descubra o melhor template para Educação Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2585,7 +2585,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2652,9 +2652,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "filosofia"
     ],
-    "usageCount": 2307,
+    "usageCount": 5776,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Aprender Filosofia Agora - Modelo 28 | Página 1",
       "description": "Descubra o melhor template para Filosofia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2680,7 +2680,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2747,9 +2747,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "sociologia"
     ],
-    "usageCount": 6084,
+    "usageCount": 230,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-07-14",
     "seo": {
       "title": "Aprender Sociologia Agora - Modelo 29 | Página 1",
       "description": "Descubra o melhor template para Sociologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2775,7 +2775,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2842,9 +2842,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "literatura"
     ],
-    "usageCount": 7148,
+    "usageCount": 6345,
     "isPopular": true,
-    "createdAt": "2025-07-02",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Aprender Literatura Agora - Modelo 30 | Página 1",
       "description": "Descubra o melhor template para Literatura com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2870,7 +2870,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -2937,9 +2937,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "matemática"
     ],
-    "usageCount": 7572,
+    "usageCount": 4227,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Aprender Matemática Agora - Modelo 31 | Página 1",
       "description": "Descubra o melhor template para Matemática com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -2965,7 +2965,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3032,9 +3032,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "português"
     ],
-    "usageCount": 6222,
+    "usageCount": 3126,
     "isPopular": true,
-    "createdAt": "2025-07-16",
+    "createdAt": "2025-07-23",
     "seo": {
       "title": "Aprender Português Agora - Modelo 32 | Página 1",
       "description": "Descubra o melhor template para Português com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3060,7 +3060,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3127,9 +3127,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "história"
     ],
-    "usageCount": 7025,
+    "usageCount": 133,
     "isPopular": true,
-    "createdAt": "2025-07-20",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Aprender História Agora - Modelo 33 | Página 1",
       "description": "Descubra o melhor template para História com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3155,7 +3155,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3222,9 +3222,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "geografia"
     ],
-    "usageCount": 2692,
+    "usageCount": 9895,
     "isPopular": true,
-    "createdAt": "2025-06-26",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Aprender Geografia Agora - Modelo 34 | Página 1",
       "description": "Descubra o melhor template para Geografia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3250,7 +3250,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3317,9 +3317,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "ciências"
     ],
-    "usageCount": 681,
+    "usageCount": 9783,
     "isPopular": true,
-    "createdAt": "2025-07-03",
+    "createdAt": "2025-06-27",
     "seo": {
       "title": "Aprender Ciências Agora - Modelo 35 | Página 1",
       "description": "Descubra o melhor template para Ciências com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3345,7 +3345,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3412,9 +3412,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "física"
     ],
-    "usageCount": 6479,
+    "usageCount": 7055,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-21",
     "seo": {
       "title": "Aprender Física Agora - Modelo 36 | Página 1",
       "description": "Descubra o melhor template para Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3440,7 +3440,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3507,9 +3507,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "química"
     ],
-    "usageCount": 3102,
+    "usageCount": 126,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Aprender Química Agora - Modelo 37 | Página 1",
       "description": "Descubra o melhor template para Química com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3535,7 +3535,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3602,9 +3602,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "biologia"
     ],
-    "usageCount": 1172,
+    "usageCount": 2538,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-01",
     "seo": {
       "title": "Aprender Biologia Agora - Modelo 38 | Página 1",
       "description": "Descubra o melhor template para Biologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3630,7 +3630,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3697,9 +3697,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "inglês"
     ],
-    "usageCount": 9187,
+    "usageCount": 9960,
     "isPopular": true,
-    "createdAt": "2025-06-29",
+    "createdAt": "2025-07-04",
     "seo": {
       "title": "Aprender Inglês Agora - Modelo 39 | Página 1",
       "description": "Descubra o melhor template para Inglês com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3725,7 +3725,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3792,9 +3792,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "espanhol"
     ],
-    "usageCount": 3327,
+    "usageCount": 5462,
     "isPopular": true,
-    "createdAt": "2025-07-13",
+    "createdAt": "2025-07-17",
     "seo": {
       "title": "Aprender Espanhol Agora - Modelo 40 | Página 1",
       "description": "Descubra o melhor template para Espanhol com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3820,7 +3820,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3887,9 +3887,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "artes"
     ],
-    "usageCount": 7141,
+    "usageCount": 7271,
     "isPopular": true,
-    "createdAt": "2025-07-22",
+    "createdAt": "2025-07-10",
     "seo": {
       "title": "Aprender Artes Agora - Modelo 41 | Página 1",
       "description": "Descubra o melhor template para Artes com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -3915,7 +3915,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -3982,9 +3982,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "educação física"
     ],
-    "usageCount": 1833,
+    "usageCount": 9783,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-06",
     "seo": {
       "title": "Aprender Educação Física Agora - Modelo 42 | Página 1",
       "description": "Descubra o melhor template para Educação Física com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4010,7 +4010,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4077,9 +4077,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "filosofia"
     ],
-    "usageCount": 3574,
+    "usageCount": 2213,
     "isPopular": true,
-    "createdAt": "2025-07-08",
+    "createdAt": "2025-07-09",
     "seo": {
       "title": "Aprender Filosofia Agora - Modelo 43 | Página 1",
       "description": "Descubra o melhor template para Filosofia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4105,7 +4105,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4172,9 +4172,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "sociologia"
     ],
-    "usageCount": 4133,
+    "usageCount": 3405,
     "isPopular": true,
-    "createdAt": "2025-07-06",
+    "createdAt": "2025-07-20",
     "seo": {
       "title": "Aprender Sociologia Agora - Modelo 44 | Página 1",
       "description": "Descubra o melhor template para Sociologia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4200,7 +4200,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4267,9 +4267,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "literatura"
     ],
-    "usageCount": 583,
+    "usageCount": 8644,
     "isPopular": true,
-    "createdAt": "2025-07-23",
+    "createdAt": "2025-07-07",
     "seo": {
       "title": "Aprender Literatura Agora - Modelo 45 | Página 1",
       "description": "Descubra o melhor template para Literatura com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4295,7 +4295,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4362,9 +4362,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "matemática"
     ],
-    "usageCount": 3295,
+    "usageCount": 5008,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-08",
     "seo": {
       "title": "Aprender Matemática Agora - Modelo 46 | Página 1",
       "description": "Descubra o melhor template para Matemática com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4390,7 +4390,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4457,9 +4457,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "português"
     ],
-    "usageCount": 7811,
+    "usageCount": 7116,
     "isPopular": true,
-    "createdAt": "2025-07-15",
+    "createdAt": "2025-06-26",
     "seo": {
       "title": "Aprender Português Agora - Modelo 47 | Página 1",
       "description": "Descubra o melhor template para Português com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4485,7 +4485,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4552,9 +4552,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "história"
     ],
-    "usageCount": 9933,
+    "usageCount": 6611,
     "isPopular": true,
-    "createdAt": "2025-07-07",
+    "createdAt": "2025-07-13",
     "seo": {
       "title": "Aprender História Agora - Modelo 48 | Página 1",
       "description": "Descubra o melhor template para História com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4580,7 +4580,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4647,9 +4647,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "geografia"
     ],
-    "usageCount": 1240,
+    "usageCount": 1928,
     "isPopular": true,
-    "createdAt": "2025-07-09",
+    "createdAt": "2025-07-12",
     "seo": {
       "title": "Aprender Geografia Agora - Modelo 49 | Página 1",
       "description": "Descubra o melhor template para Geografia com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4675,7 +4675,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   },
   {
@@ -4742,9 +4742,9 @@ const categoryTemplates: WheelTemplate[] = [
       "conhecimento",
       "ciências"
     ],
-    "usageCount": 5982,
+    "usageCount": 3456,
     "isPopular": true,
-    "createdAt": "2025-07-12",
+    "createdAt": "2025-07-18",
     "seo": {
       "title": "Aprender Ciências Agora - Modelo 50 | Página 1",
       "description": "Descubra o melhor template para Ciências com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -4770,7 +4770,7 @@ const categoryTemplates: WheelTemplate[] = [
       }
     },
     "version": "1.0",
-    "lastModified": "2025-07-23",
+    "lastModified": "2025-07-24",
     "author": "Wheel Generator Team"
   }
 ]; // Primeiros 50 para performance

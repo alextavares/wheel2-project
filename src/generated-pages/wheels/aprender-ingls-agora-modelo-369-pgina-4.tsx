@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "inglês"
   ],
-  "usageCount": 3438,
+  "usageCount": 2617,
   "isPopular": false,
-  "createdAt": "2025-07-15",
+  "createdAt": "2025-06-28",
   "seo": {
     "title": "Aprender Inglês Agora - Modelo 369 | Página 4",
     "description": "Descubra o melhor template para Inglês com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-ingls-agora-modelo-369-pgina-4",
   "seoTitle": "Aprender Inglês Agora - Modelo 369 | Página 4 - Roleta Online Grátis",

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "educação física"
   ],
-  "usageCount": 3195,
+  "usageCount": 7716,
   "isPopular": false,
   "createdAt": "2025-07-02",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-educao-fsica-agora-modelo-732-pgina-8",
   "seoTitle": "Aprender Educação Física Agora - Modelo 732 | Página 8 - Roleta Online Grátis",

@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida saudável"
   ],
-  "usageCount": 8447,
+  "usageCount": 4860,
   "isPopular": false,
-  "createdAt": "2025-07-14",
+  "createdAt": "2025-07-06",
   "seo": {
     "title": "Melhor Comida Saudável Hoje - Modelo 1245 | Página 13",
     "description": "Descubra o melhor template para Comida Saudável com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-saudvel-hoje-modelo-1245-pgina-13",
   "seoTitle": "Melhor Comida Saudável Hoje - Modelo 1245 | Página 13 - Roleta Online Grátis",

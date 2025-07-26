@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "verdade ou desafio"
   ],
-  "usageCount": 3683,
+  "usageCount": 2380,
   "isPopular": false,
   "createdAt": "2025-07-05",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-verdade-ou-desafio-divertidos-modelo-181-pgina-2",
   "seoTitle": "Jogos de Verdade ou Desafio Divertidos - Modelo 181 | Página 2 - Roleta Online Grátis",

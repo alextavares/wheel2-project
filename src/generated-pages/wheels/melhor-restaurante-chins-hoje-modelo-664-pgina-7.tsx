@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "restaurante chinês"
   ],
-  "usageCount": 4443,
+  "usageCount": 7201,
   "isPopular": false,
-  "createdAt": "2025-06-26",
+  "createdAt": "2025-07-12",
   "seo": {
     "title": "Melhor Restaurante Chinês Hoje - Modelo 664 | Página 7",
     "description": "Descubra o melhor template para Restaurante Chinês com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-restaurante-chins-hoje-modelo-664-pgina-7",
   "seoTitle": "Melhor Restaurante Chinês Hoje - Modelo 664 | Página 7 - Roleta Online Grátis",

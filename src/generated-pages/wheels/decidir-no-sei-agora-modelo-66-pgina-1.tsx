@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "não sei"
   ],
-  "usageCount": 434,
+  "usageCount": 5397,
   "isPopular": true,
-  "createdAt": "2025-07-10",
+  "createdAt": "2025-06-30",
   "seo": {
     "title": "Decidir Não Sei Agora - Modelo 66 | Página 1",
     "description": "Descubra o melhor template para Não Sei com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-no-sei-agora-modelo-66-pgina-1",
   "seoTitle": "Decidir Não Sei Agora - Modelo 66 | Página 1 - Roleta Online Grátis",

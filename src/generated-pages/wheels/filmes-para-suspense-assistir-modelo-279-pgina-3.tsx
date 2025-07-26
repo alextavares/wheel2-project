@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "suspense"
   ],
-  "usageCount": 5849,
+  "usageCount": 5253,
   "isPopular": false,
-  "createdAt": "2025-07-03",
+  "createdAt": "2025-07-04",
   "seo": {
     "title": "Filmes para Suspense Assistir - Modelo 279 | Página 3",
     "description": "Descubra o melhor template para Suspense com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-suspense-assistir-modelo-279-pgina-3",
   "seoTitle": "Filmes para Suspense Assistir - Modelo 279 | Página 3 - Roleta Online Grátis",

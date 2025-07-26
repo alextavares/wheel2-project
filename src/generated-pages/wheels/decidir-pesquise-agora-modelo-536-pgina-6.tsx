@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "probabilidade",
     "pesquise"
   ],
-  "usageCount": 1581,
+  "usageCount": 9506,
   "isPopular": false,
-  "createdAt": "2025-06-30",
+  "createdAt": "2025-07-22",
   "seo": {
     "title": "Decidir Pesquise Agora - Modelo 536 | Página 6",
     "description": "Descubra o melhor template para Pesquise com nosso gerador de rodas interativo. Ideal para decisão e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "decidir-pesquise-agora-modelo-536-pgina-6",
   "seoTitle": "Decidir Pesquise Agora - Modelo 536 | Página 6 - Roleta Online Grátis",

@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "história"
   ],
-  "usageCount": 1342,
+  "usageCount": 6975,
   "isPopular": false,
-  "createdAt": "2025-07-07",
+  "createdAt": "2025-07-15",
   "seo": {
     "title": "Aprender História Agora - Modelo 753 | Página 8",
     "description": "Descubra o melhor template para História com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-histria-agora-modelo-753-pgina-8",
   "seoTitle": "Aprender História Agora - Modelo 753 | Página 8 - Roleta Online Grátis",

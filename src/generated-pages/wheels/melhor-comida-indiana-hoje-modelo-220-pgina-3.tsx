@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida indiana"
   ],
-  "usageCount": 610,
+  "usageCount": 5099,
   "isPopular": false,
   "createdAt": "2025-07-22",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-indiana-hoje-modelo-220-pgina-3",
   "seoTitle": "Melhor Comida Indiana Hoje - Modelo 220 | Página 3 - Roleta Online Grátis",

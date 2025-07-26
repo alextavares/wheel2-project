@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "delivery",
     "comida indiana"
   ],
-  "usageCount": 7193,
+  "usageCount": 3880,
   "isPopular": false,
-  "createdAt": "2025-07-12",
+  "createdAt": "2025-07-21",
   "seo": {
     "title": "Melhor Comida Indiana Hoje - Modelo 1045 | Página 11",
     "description": "Descubra o melhor template para Comida Indiana com nosso gerador de rodas interativo. Ideal para comida e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "melhor-comida-indiana-hoje-modelo-1045-pgina-11",
   "seoTitle": "Melhor Comida Indiana Hoje - Modelo 1045 | Página 11 - Roleta Online Grátis",

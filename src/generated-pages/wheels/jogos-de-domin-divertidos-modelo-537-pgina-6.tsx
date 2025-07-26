@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "lazer",
     "dominó"
   ],
-  "usageCount": 774,
+  "usageCount": 5973,
   "isPopular": false,
   "createdAt": "2025-07-14",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "jogos-de-domin-divertidos-modelo-537-pgina-6",
   "seoTitle": "Jogos de Dominó Divertidos - Modelo 537 | Página 6 - Roleta Online Grátis",

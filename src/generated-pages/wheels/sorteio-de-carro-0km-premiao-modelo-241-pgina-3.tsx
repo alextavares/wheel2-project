@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "chance",
     "carro 0km"
   ],
-  "usageCount": 4352,
+  "usageCount": 7612,
   "isPopular": false,
-  "createdAt": "2025-06-29",
+  "createdAt": "2025-07-05",
   "seo": {
     "title": "Sorteio de Carro 0km Premiação - Modelo 241 | Página 3",
     "description": "Descubra o melhor template para Carro 0km com nosso gerador de rodas interativo. Ideal para sorteio e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorteio-de-carro-0km-premiao-modelo-241-pgina-3",
   "seoTitle": "Sorteio de Carro 0km Premiação - Modelo 241 | Página 3 - Roleta Online Grátis",

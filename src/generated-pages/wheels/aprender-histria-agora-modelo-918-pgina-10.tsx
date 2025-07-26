@@ -69,9 +69,9 @@ const wheelTemplate: WheelTemplate = {
     "conhecimento",
     "história"
   ],
-  "usageCount": 2741,
+  "usageCount": 8485,
   "isPopular": false,
-  "createdAt": "2025-07-07",
+  "createdAt": "2025-06-28",
   "seo": {
     "title": "Aprender História Agora - Modelo 918 | Página 10",
     "description": "Descubra o melhor template para História com nosso gerador de rodas interativo. Ideal para educação e muito mais.",
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "aprender-histria-agora-modelo-918-pgina-10",
   "seoTitle": "Aprender História Agora - Modelo 918 | Página 10 - Roleta Online Grátis",

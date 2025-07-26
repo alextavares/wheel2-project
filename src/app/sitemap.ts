@@ -1,92 +1,128 @@
-import { MetadataRoute } from 'next';
-import { WHEEL_ROUTES } from '@/generated-pages/routes';
-import { getAllStaticSlugs } from '@/data/staticPagesMap';
-import { Locale } from '@/lib/i18n';
-
-// URLs base para diferentes idiomas
-const BASE_URLS: Record<Locale, string> = {
-  pt: 'https://wheelmaker.app',
-  en: 'https://wheelmaker.app/en',
-  es: 'https://wheelmaker.app/es',
-  fr: 'https://wheelmaker.app/fr',
-};
+import { MetadataRoute } from 'next'
+import { Locale } from '@/lib/i18n'
+import { generateInternationalTemplates } from '@/lib/internationalTemplates'
+import { getAllSEORoutes } from '@/lib/seoRoutes'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticSlugs = getAllStaticSlugs();
-  const currentDate = new Date();
+  const baseUrl = 'https://wheelwheel.vercel.app'
+  const locales: Locale[] = ['pt', 'en', 'es', 'fr']
   
-  // URLs estáticas principais em todos os idiomas
-  const staticUrls: MetadataRoute.Sitemap = [
-    // Página inicial em todos os idiomas
-    {
-      url: BASE_URLS.pt,
-      lastModified: currentDate,
-      changeFrequency: 'daily',
-      priority: 1,
-    },
-    {
-      url: BASE_URLS.en,
-      lastModified: currentDate,
-      changeFrequency: 'daily',
-      priority: 1,
-    },
-    {
-      url: BASE_URLS.es,
-      lastModified: currentDate,
-      changeFrequency: 'daily',
-      priority: 1,
-    },
-    {
-      url: BASE_URLS.fr,
-      lastModified: currentDate,
-      changeFrequency: 'daily',
-      priority: 1,
-    },
-  ];
+  const routes: MetadataRoute.Sitemap = []
 
-  // Páginas de categoria em todos os idiomas
-  const categories = ['food', 'games', 'education', 'movies', 'music', 'decisions'];
-  const categoryUrls: MetadataRoute.Sitemap = [];
-  
-  Object.entries(BASE_URLS).forEach(([locale, baseUrl]) => {
-    categories.forEach(category => {
-      categoryUrls.push({
-        url: `${baseUrl}/category/${category}`,
-        lastModified: currentDate,
-        changeFrequency: 'weekly' as const,
+  // URLs base para cada idioma
+  locales.forEach(locale => {
+    routes.push({
+      url: `${baseUrl}/${locale}`,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 1,
+    })
+  })
+
+  // URLs estáticas principais
+  const staticPages = [
+    'wheel',
+    'about',
+    'privacy',
+    'terms'
+  ]
+
+  locales.forEach(locale => {
+    staticPages.forEach(page => {
+      routes.push({
+        url: `${baseUrl}/${locale}/${page}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
         priority: 0.8,
-      });
-    });
-  });
+      })
+    })
+  })
 
-  // URLs das páginas de roleta estáticas (versões internacionais)
-  const staticWheelUrls: MetadataRoute.Sitemap = staticSlugs.map(slug => {
-    // Determinar o idioma baseado no slug
-    let baseUrl = BASE_URLS.pt;
-    
-    if (slug.includes('korean-food-smart-choice-wheel')) {
-      baseUrl = BASE_URLS.en;
-    } else if (slug.includes('ruleta-comida-coreana-eleccion-inteligente')) {
-      baseUrl = BASE_URLS.es;
-    } else if (slug.includes('roue-cuisine-coreenne-choix-intelligent')) {
-      baseUrl = BASE_URLS.fr;
+  // URLs SEO otimizadas usando o novo sistema de rotas
+  const seoRoutes = getAllSEORoutes()
+  seoRoutes.forEach(seoRoute => {
+    routes.push({
+      url: `${baseUrl}${seoRoute.path}`,
+      lastModified: new Date(),
+      changeFrequency: seoRoute.changeFrequency,
+      priority: seoRoute.priority,
+    })
+  })
+
+  // URLs de roletas estáticas (templates internacionais) - mantendo compatibilidade
+  const internationalTemplates = generateInternationalTemplates()
+  Object.entries(internationalTemplates).forEach(([locale, template]) => {
+    if (template && template.slug) {
+      routes.push({
+        url: `${baseUrl}/${locale}/wheel/${template.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.7,
+      })
     }
+  })
 
-    return {
-      url: `${baseUrl}/wheel/${slug}`,
-      lastModified: currentDate,
-      changeFrequency: 'weekly' as const,
-      priority: 0.9, // Prioridade alta para páginas estáticas
-    };
-  });
+  // URLs de roletas dinâmicas otimizadas para SEO
+  const dynamicWheelsOptimized = [
+    // Português - Palavras-chave golden
+    'roda-da-sorte-o-que-comer-hoje-online-gratis',
+    'roleta-escolher-restaurante-italiano-perto-de-mim',
+    'sortear-pizzaria-delivery-rapido',
+    'roda-da-sorte-materia-estudar-enem-hoje',
+    'roleta-decidir-curso-online-gratuito',
+    'sortear-exercicio-matematica-vestibular',
+    'roda-da-sorte-musica-ouvir-trabalho',
+    'roleta-playlist-spotify-treino-academia',
+    'sortear-banda-show-final-semana',
+    'roda-da-sorte-filme-netflix-assistir-hoje',
+    'roleta-serie-maratonar-final-semana',
+    'sortear-jogo-jogar-amigos-casa',
+    'roda-da-sorte-atividade-fazer-chuva',
+    'roleta-programa-fim-semana-familia',
+    'sortear-nomes-online-gratis-sorteio',
+    'roda-da-sorte-personalizada-sala-aula',
+    'roleta-decisoes-importantes-vida',
+    'decidir-roda-da-sorte-rapido-facil'
+  ]
 
-  // Páginas das roletas geradas dinamicamente (apenas português por enquanto)
-  const dynamicWheelUrls: MetadataRoute.Sitemap = WHEEL_ROUTES.map((route) => ({
-    url: `${BASE_URLS.pt}/wheel/${route.slug}`,
-    lastModified: currentDate,
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }));
+  // Adicionar URLs dinâmicas otimizadas
+  dynamicWheelsOptimized.forEach(wheel => {
+    routes.push({
+      url: `${baseUrl}/pt/wheel/${wheel}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8, // Prioridade maior para URLs otimizadas
+    })
+  })
 
-  return [...staticUrls, ...categoryUrls, ...staticWheelUrls, ...dynamicWheelUrls];
+  // URLs em inglês para mercado internacional
+  const englishOptimizedWheels = [
+    'wheel-of-fortune-what-to-eat-today-online-free',
+    'spinner-wheel-choose-restaurant-near-me',
+    'random-picker-pizza-delivery-quick',
+    'decision-wheel-study-topic-exam-today',
+    'wheel-of-fortune-online-course-free',
+    'spinner-wheel-math-exercise-test',
+    'random-picker-music-work-playlist',
+    'decision-wheel-spotify-workout-music',
+    'wheel-of-fortune-netflix-movie-tonight',
+    'spinner-wheel-series-binge-weekend',
+    'random-picker-game-friends-home',
+    'decision-wheel-activity-rainy-day',
+    'wheel-of-fortune-weekend-program-family',
+    'spinner-wheel-names-picker-online-free',
+    'random-picker-classroom-activities',
+    'decision-wheel-important-life-choices'
+  ]
+
+  englishOptimizedWheels.forEach(wheel => {
+    routes.push({
+      url: `${baseUrl}/en/wheel/${wheel}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    })
+  })
+
+  return routes
 }

@@ -69,7 +69,7 @@ const wheelTemplate: WheelTemplate = {
     "espiritual",
     "boa sorte"
   ],
-  "usageCount": 2107,
+  "usageCount": 5477,
   "isPopular": true,
   "createdAt": "2025-07-16",
   "seo": {
@@ -97,7 +97,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "sorte-e-boa-sorte-adivinhao-modelo-27-pgina-1",
   "seoTitle": "Sorte e Boa sorte Adivinhação - Modelo 27 | Página 1 - Roleta Online Grátis",

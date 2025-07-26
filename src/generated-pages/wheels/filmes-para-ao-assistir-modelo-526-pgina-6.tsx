@@ -70,9 +70,9 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "ação"
   ],
-  "usageCount": 6765,
+  "usageCount": 4981,
   "isPopular": false,
-  "createdAt": "2025-07-12",
+  "createdAt": "2025-06-27",
   "seo": {
     "title": "Filmes para Ação Assistir - Modelo 526 | Página 6",
     "description": "Descubra o melhor template para Ação com nosso gerador de rodas interativo. Ideal para filmes e muito mais.",
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-ao-assistir-modelo-526-pgina-6",
   "seoTitle": "Filmes para Ação Assistir - Modelo 526 | Página 6 - Roleta Online Grátis",

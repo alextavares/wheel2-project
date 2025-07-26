@@ -70,7 +70,7 @@ const wheelTemplate: WheelTemplate = {
     "prime",
     "aventura"
   ],
-  "usageCount": 2239,
+  "usageCount": 843,
   "isPopular": false,
   "createdAt": "2025-07-18",
   "seo": {
@@ -99,7 +99,7 @@ const wheelTemplate: WheelTemplate = {
     }
   },
   "version": "1.0",
-  "lastModified": "2025-07-23",
+  "lastModified": "2025-07-24",
   "author": "Wheel Generator Team",
   "slug": "filmes-para-aventura-assistir-modelo-1181-pgina-12",
   "seoTitle": "Filmes para Aventura Assistir - Modelo 1181 | Página 12 - Roleta Online Grátis",
